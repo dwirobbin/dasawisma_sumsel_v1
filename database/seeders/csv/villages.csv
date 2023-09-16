@@ -1,0 +1,3264 @@
+﻿id,district_id,name,area
+1601052001,1601052,Bandar Jaya,Kelurahan/Desa
+1601052002,1601052,Karang Endah,Kelurahan/Desa
+1601052003,1601052,Pajar Bulan,Kelurahan/Desa
+1601052004,1601052,Pagar Dewa,Kelurahan/Desa
+1601052005,1601052,Tanjung Lengkayap,Kelurahan/Desa
+1601052006,1601052,Bumi Kawa,Kelurahan/Desa
+1601052007,1601052,Negeri Ratu,Kelurahan/Desa
+1601052008,1601052,Lubuk Dalam,Kelurahan/Desa
+1601052009,1601052,Segara Kembang,Kelurahan/Desa
+1601052010,1601052,Sukaraja,Kelurahan/Desa
+1601052011,1601052,Gedung Pakuan,Kelurahan/Desa
+1601052012,1601052,Tualang,Kelurahan/Desa
+1601052013,1601052,Sundan,Kelurahan/Desa
+1601052014,1601052,Tihang,Kelurahan/Desa
+1601052015,1601052,Lubuk Hara,Kelurahan/Desa
+1601052016,1601052,Negeri Agung,Kelurahan/Desa
+1601052017,1601052,Way Heling,Kelurahan/Desa
+1601052018,1601052,Bunga Tanjung,Kelurahan/Desa
+1601052019,1601052,Umpam,Kelurahan/Desa
+1601052020,1601052,Tanjung Agung,Kelurahan/Desa
+1601052021,1601052,Simpang Empat,Kelurahan/Desa
+1601052022,1601052,Fajar Jaya,Kelurahan/Desa
+1601070001,1601070,Negeri Sindang,Kelurahan/Desa
+1601070002,1601070,Rantau Kumpai,Kelurahan/Desa
+1601070003,1601070,Tungku Jaya,Kelurahan/Desa
+1601070004,1601070,Lubuk Baru,Kelurahan/Desa
+1601070005,1601070,Bandar,Kelurahan/Desa
+1601070006,1601070,Lubuk Leban,Kelurahan/Desa
+1601070007,1601070,Penyandingan,Kelurahan/Desa
+1601070008,1601070,Kungkilan,Kelurahan/Desa
+1601070009,1601070,Mekar Jaya,Kelurahan/Desa
+1601070010,1601070,Penantian,Kelurahan/Desa
+1601070011,1601070,Mekar Sari,Kelurahan/Desa
+1601080008,1601080,Gunung Meraksa,Kelurahan/Desa
+1601080010,1601080,Tanjung Pura,Kelurahan/Desa
+1601080011,1601080,Tanjung Sari,Kelurahan/Desa
+1601080012,1601080,Tangsi Lontar,Kelurahan/Desa
+1601080017,1601080,Belambangan,Kelurahan/Desa
+1601080018,1601080,Kesambi Rata,Kelurahan/Desa
+1601080021,1601080,Gunung Liwat,Kelurahan/Desa
+1601080022,1601080,Semanding,Kelurahan/Desa
+1601080023,1601080,Pengandonan,Kelurahan/Desa
+1601080024,1601080,Tanjungan,Kelurahan/Desa
+1601080025,1601080,Ujan Mas,Kelurahan/Desa
+1601080026,1601080,Gunung Kuripan,Kelurahan/Desa
+1601081001,1601081,Tanjung Kurung,Kelurahan/Desa
+1601081002,1601081,Sukarami,Kelurahan/Desa
+1601081003,1601081,Batang Hari,Kelurahan/Desa
+1601081004,1601081,Nyiur Sayak,Kelurahan/Desa
+1601081005,1601081,Suka Merindu,Kelurahan/Desa
+1601081006,1601081,Padang Bindu,Kelurahan/Desa
+1601081007,1601081,Panggal Panggal,Kelurahan/Desa
+1601081008,1601081,Bedegung,Kelurahan/Desa
+1601081009,1601081,Ulak Pandan,Kelurahan/Desa
+1601081010,1601081,Kebon Agung,Kelurahan/Desa
+1601081011,1601081,Tubohan,Kelurahan/Desa
+1601081012,1601081,Raksa Jiwa,Kelurahan/Desa
+1601081013,1601081,Guna Makmur,Kelurahan/Desa
+1601081014,1601081,Seleman,Kelurahan/Desa
+1601081015,1601081,Kebun Jati,Kelurahan/Desa
+1601081016,1601081,Singapura,Kelurahan/Desa
+1601081017,1601081,Pengaringan,Kelurahan/Desa
+1601081018,1601081,Panai Makmur,Kelurahan/Desa
+1601081019,1601081,Banjar Sari,Kelurahan/Desa
+1601081020,1601081,Pandan Dulang,Kelurahan/Desa
+1601081021,1601081,Tebing Kampung,Kelurahan/Desa
+1601082001,1601082,Kelumpang,Kelurahan/Desa
+1601082002,1601082,Mendingin,Kelurahan/Desa
+1601082003,1601082,Sukajadi,Kelurahan/Desa
+1601082004,1601082,Gunung Tiga,Kelurahan/Desa
+1601082005,1601082,Ulak Lebar,Kelurahan/Desa
+1601082006,1601082,Pedataran,Kelurahan/Desa
+1601082007,1601082,Belandang,Kelurahan/Desa
+1601083001,1601083,Kemala Jaya,Kelurahan/Desa
+1601083002,1601083,Lontar,Kelurahan/Desa
+1601083003,1601083,Lubuk Tupak,Kelurahan/Desa
+1601083004,1601083,Beringin,Kelurahan/Desa
+1601083005,1601083,Muara Saeh,Kelurahan/Desa
+1601083006,1601083,Surau,Kelurahan/Desa
+1601083007,1601083,Karang Lantang,Kelurahan/Desa
+1601090015,1601090,Kepayang,Kelurahan/Desa
+1601090017,1601090,Kedondong,Kelurahan/Desa
+1601090018,1601090,Belimbing,Kelurahan/Desa
+1601090021,1601090,Durian,Kelurahan/Desa
+1601090022,1601090,Espe Tiga,Kelurahan/Desa
+1601090023,1601090,Lubuk Rukam,Kelurahan/Desa
+1601090024,1601090,Bindu,Kelurahan/Desa
+1601090028,1601090,Mendala,Kelurahan/Desa
+1601090029,1601090,Panji Jaya,Kelurahan/Desa
+1601090030,1601090,Makarti Jaya,Kelurahan/Desa
+1601090031,1601090,Makarti Tama,Kelurahan/Desa
+1601090032,1601090,Penilikan/Mitra Ogan,Kelurahan/Desa
+1601090033,1601090,Peninjauan,Kelurahan/Desa
+1601090034,1601090,Saung Naga,Kelurahan/Desa
+1601090035,1601090,Mitra Kencana,Kelurahan/Desa
+1601090044,1601090,Karang Dapo,Kelurahan/Desa
+1601091001,1601091,Merbau,Kelurahan/Desa
+1601091002,1601091,Gunung Meraksa,Kelurahan/Desa
+1601091003,1601091,Kurup,Kelurahan/Desa
+1601091004,1601091,Banu Ayu,Kelurahan/Desa
+1601091006,1601091,Tanjung Dalam,Kelurahan/Desa
+1601091007,1601091,Lubuk Batang Baru,Kelurahan/Desa
+1601091008,1601091,Lubuk Batang Lama,Kelurahan/Desa
+1601091010,1601091,Belatung,Kelurahan/Desa
+1601091011,1601091,Karta Mulia,Kelurahan/Desa
+1601091012,1601091,Markisa,Kelurahan/Desa
+1601091013,1601091,Lunggaian Baru/Air Wal,Kelurahan/Desa
+1601091014,1601091,Lunggaian,Kelurahan/Desa
+1601091015,1601091,Tanjung Manggus,Kelurahan/Desa
+1601091016,1601091,Bandar Agung,Kelurahan/Desa
+1601091017,1601091,Sumber Bahagia,Kelurahan/Desa
+1601092001,1601092,Marga Bakti,Kelurahan/Desa
+1601092002,1601092,Karya Mukti,Kelurahan/Desa
+1601092003,1601092,Karya Jaya,Kelurahan/Desa
+1601092004,1601092,Sri Mulya,Kelurahan/Desa
+1601092005,1601092,Marga Mulya,Kelurahan/Desa
+1601092006,1601092,Tanjung Makmur,Kelurahan/Desa
+1601093001,1601093,Bunglai,Kelurahan/Desa
+1601093002,1601093,Kedaton,Kelurahan/Desa
+1601093003,1601093,Kampai,Kelurahan/Desa
+1601093004,1601093,Rantau Panjang,Kelurahan/Desa
+1601093005,1601093,Suka Pindah,Kelurahan/Desa
+1601093006,1601093,Lubuk Kemiling,Kelurahan/Desa
+1601093007,1601093,Sinar Kedaton,Kelurahan/Desa
+1601093008,1601093,Kedaton Timur,Kelurahan/Desa
+1601130004,1601130,Tanjung Baru,Kelurahan/Desa
+1601130005,1601130,Pasar Baru,Kelurahan/Desa
+1601130007,1601130,Kemala Raja,Kelurahan/Desa
+1601130008,1601130,Sukaraya,Kelurahan/Desa
+1601130009,1601130,Tanjung Kemala,Kelurahan/Desa
+1601130010,1601130,Sukajadi,Kelurahan/Desa
+1601130011,1601130,Air Pauh,Kelurahan/Desa
+1601130012,1601130,Baturaja Permai,Kelurahan/Desa
+1601130013,1601130,Terusan,Kelurahan/Desa
+1601130014,1601130,Sekar Jaya,Kelurahan/Desa
+1601130015,1601130,Sepancar Lawang Kulon,Kelurahan/Desa
+1601130016,1601130,Kemelak Bindung Langit,Kelurahan/Desa
+1601130017,1601130,Baturaja Lama,Kelurahan/Desa
+1601131001,1601131,Batumarta I,Kelurahan/Desa
+1601131002,1601131,Batumarta II,Kelurahan/Desa
+1601131003,1601131,Battu Winangun,Kelurahan/Desa
+1601131004,1601131,Lekis Rejo,Kelurahan/Desa
+1601131005,1601131,Lubuk Banjar,Kelurahan/Desa
+1601131006,1601131,Batu Raden,Kelurahan/Desa
+1601131007,1601131,Marta Jaya,Kelurahan/Desa
+1601140001,1601140,Batu Putih,Kelurahan/Desa
+1601140002,1601140,Laya,Kelurahan/Desa
+1601140003,1601140,Saung Naga,Kelurahan/Desa
+1601140004,1601140,Tanjung Agung,Kelurahan/Desa
+1601140005,1601140,Talang Jawa,Kelurahan/Desa
+1601140006,1601140,Air Gading,Kelurahan/Desa
+1601140007,1601140,Pusar,Kelurahan/Desa
+1601140008,1601140,Batu Kuning,Kelurahan/Desa
+1601140009,1601140,Karang Agung,Kelurahan/Desa
+1601140010,1601140,Karang Endah,Kelurahan/Desa
+1601140011,1601140,Tanjung Karang,Kelurahan/Desa
+1601140012,1601140,Suka Maju,Kelurahan/Desa
+1602010001,1602010,Cahya Bumi,Kelurahan/Desa
+1602010002,1602010,Bumi Arjo,Kelurahan/Desa
+1602010003,1602010,Cahya Tani,Kelurahan/Desa
+1602010004,1602010,Dabuk Rejo,Kelurahan/Desa
+1602010005,1602010,Sukamulya,Kelurahan/Desa
+1602010007,1602010,Tebing Suluh,Kelurahan/Desa
+1602010008,1602010,Cahya Maju,Kelurahan/Desa
+1602010009,1602010,Tulung Harapan,Kelurahan/Desa
+1602010010,1602010,Bumi Agung,Kelurahan/Desa
+1602010011,1602010,Sindang Sari,Kelurahan/Desa
+1602010012,1602010,Sumber Agung,Kelurahan/Desa
+1602010014,1602010,Kepahyang,Kelurahan/Desa
+1602010015,1602010,Tugumulyo,Kelurahan/Desa
+1602010016,1602010,Tugu Agung,Kelurahan/Desa
+1602010017,1602010,Tugu Jaya,Kelurahan/Desa
+1602010018,1602010,Mekar Jaya,Kelurahan/Desa
+1602010019,1602010,Sumber Makmur,Kelurahan/Desa
+1602010020,1602010,Bumi Arjo Makmur,Kelurahan/Desa
+1602010021,1602010,Cahya Makmur,Kelurahan/Desa
+1602011001,1602011,Lempuing Indah,Kelurahan/Desa
+1602011002,1602011,Mukti Sari,Kelurahan/Desa
+1602011003,1602011,Sungai Belida,Kelurahan/Desa
+1602011004,1602011,Lubuk Seberuk,Kelurahan/Desa
+1602011005,1602011,Muara Burnai II,Kelurahan/Desa
+1602011006,1602011,Tania Makmur,Kelurahan/Desa
+1602011007,1602011,Muara Burnai,Kelurahan/Desa
+1602011008,1602011,Rantau Durian II,Kelurahan/Desa
+1602011009,1602011,Rantau Durian,Kelurahan/Desa
+1602011010,1602011,Sukamaju,Kelurahan/Desa
+1602011011,1602011,Suka Jaya,Kelurahan/Desa
+1602011012,1602011,Tanjung Sari II,Kelurahan/Desa
+1602011013,1602011,Tanjung Sari,Kelurahan/Desa
+1602011014,1602011,Purwo Asri,Kelurahan/Desa
+1602011015,1602011,Lubuk Makmur,Kelurahan/Desa
+1602011016,1602011,Rantau Durian Asli,Kelurahan/Desa
+1602020015,1602020,Kali Deras,Kelurahan/Desa
+1602020016,1602020,Sumber Deras,Kelurahan/Desa
+1602020017,1602020,Pematang Panggang,Kelurahan/Desa
+1602020018,1602020,Kembang Jajar Sp7 At,Kelurahan/Desa
+1602020025,1602020,Suryaadi,Kelurahan/Desa
+1602020026,1602020,Jaya Bhakti,Kelurahan/Desa
+1602020027,1602020,Margo Bhakti,Kelurahan/Desa
+1602020028,1602020,Makarti Mulya,Kelurahan/Desa
+1602020029,1602020,Suka Mukti,Kelurahan/Desa
+1602020031,1602020,Sungai Sodong,Kelurahan/Desa
+1602020032,1602020,Mekar Wangi,Kelurahan/Desa
+1602020033,1602020,Karya Mukti,Kelurahan/Desa
+1602020049,1602020,Pagar Dewa,Kelurahan/Desa
+1602020050,1602020,Kota Baru,Kelurahan/Desa
+1602020051,1602020,Sido Basuki,Kelurahan/Desa
+1602020052,1602020,Pematang Kasih,Kelurahan/Desa
+1602020053,1602020,Labuhan Jaya,Kelurahan/Desa
+1602021001,1602021,Sungai Tepuk,Kelurahan/Desa
+1602021002,1602021,Sido Mulyo,Kelurahan/Desa
+1602021003,1602021,Talang Jaya,Kelurahan/Desa
+1602021004,1602021,Sungai Menang,Kelurahan/Desa
+1602021005,1602021,Karangsia,Kelurahan/Desa
+1602021006,1602021,Talang Makmur,Kelurahan/Desa
+1602021007,1602021,Harapan Jaya,Kelurahan/Desa
+1602021008,1602021,Sungai Ceper,Kelurahan/Desa
+1602021009,1602021,Gajah Mati,Kelurahan/Desa
+1602021010,1602021,Bumi Pratama Mandira,Kelurahan/Desa
+1602021011,1602021,Sungai Pinang Indah,Kelurahan/Desa
+1602021012,1602021,Sungai Sibur,Kelurahan/Desa
+1602021013,1602021,Gajah Mukti,Kelurahan/Desa
+1602021014,1602021,Gajah Mulya,Kelurahan/Desa
+1602021015,1602021,Gajah Makmur,Kelurahan/Desa
+1602021016,1602021,Sari Gading,Kelurahan/Desa
+1602021017,1602021,Gading Mas,Kelurahan/Desa
+1602021018,1602021,Gading Jaya,Kelurahan/Desa
+1602022001,1602022,Kampung Baru,Kelurahan/Desa
+1602022002,1602022,Mesuji Jaya,Kelurahan/Desa
+1602022003,1602022,Beringin Jaya,Kelurahan/Desa
+1602022004,1602022,Pematang Bhina Tani,Kelurahan/Desa
+1602022005,1602022,Bhina Karsa,Kelurahan/Desa
+1602022006,1602022,Cahaya Mas,Kelurahan/Desa
+1602022007,1602022,Pematang Sari,Kelurahan/Desa
+1602022008,1602022,Pematang Jaya,Kelurahan/Desa
+1602022009,1602022,Gading Sari,Kelurahan/Desa
+1602022010,1602022,Karya Usaha,Kelurahan/Desa
+1602022011,1602022,Pematang Sukatani,Kelurahan/Desa
+1602022012,1602022,Karya Jaya,Kelurahan/Desa
+1602022013,1602022,Mukti Karya,Kelurahan/Desa
+1602022015,1602022,Surya Karta,Kelurahan/Desa
+1602022016,1602022,Catur Tunggal,Kelurahan/Desa
+1602022017,1602022,Pematang Sukaramah,Kelurahan/Desa
+1602022018,1602022,Sumber Mulya,Kelurahan/Desa
+1602022019,1602022,Cahaya Mulya,Kelurahan/Desa
+1602022020,1602022,Tegal Sari,Kelurahan/Desa
+1602023001,1602023,Balian Makmur,Kelurahan/Desa
+1602023002,1602023,Mulya Jaya,Kelurahan/Desa
+1602023003,1602023,Sumber Baru,Kelurahan/Desa
+1602023004,1602023,Cipta Sari,Kelurahan/Desa
+1602023005,1602023,Sumbu Sari,Kelurahan/Desa
+1602023006,1602023,Suka Sari,Kelurahan/Desa
+1602023007,1602023,Kemang Indah,Kelurahan/Desa
+1602023008,1602023,Mataram Jaya,Kelurahan/Desa
+1602023009,1602023,Rotan Mulya,Kelurahan/Desa
+1602023010,1602023,Gedung Rejo,Kelurahan/Desa
+1602023011,1602023,Sedyo Mulyo,Kelurahan/Desa
+1602023012,1602023,Kerta Mukti,Kelurahan/Desa
+1602023013,1602023,Embacang Permai,Kelurahan/Desa
+1602023014,1602023,Bumi Makmur,Kelurahan/Desa
+1602023015,1602023,Embacang,Kelurahan/Desa
+1602023016,1602023,Balian,Kelurahan/Desa
+1602023017,1602023,Dabuk Makmur,Kelurahan/Desa
+1602030010,1602030,Pulu Beruang,Kelurahan/Desa
+1602030011,1602030,Tulung Selapan Ilir,Kelurahan/Desa
+1602030012,1602030,Tulung Selapan Ulu,Kelurahan/Desa
+1602030013,1602030,Petaling,Kelurahan/Desa
+1602030014,1602030,Kayu Ara,Kelurahan/Desa
+1602030015,1602030,Penyandingan,Kelurahan/Desa
+1602030016,1602030,Tanjung Batu,Kelurahan/Desa
+1602030017,1602030,Cambai,Kelurahan/Desa
+1602030018,1602030,Toman,Kelurahan/Desa
+1602030019,1602030,Jerambah Rengas,Kelurahan/Desa
+1602030020,1602030,Penanggoan Duren,Kelurahan/Desa
+1602030021,1602030,Lebung Itam,Kelurahan/Desa
+1602030022,1602030,Lebung Gajah,Kelurahan/Desa
+1602030023,1602030,Ujung Tanjung,Kelurahan/Desa
+1602030024,1602030,Simpang Tiga,Kelurahan/Desa
+1602030025,1602030,Simpang Tiga Sakti,Kelurahan/Desa
+1602030026,1602030,Simpang Tiga Makmur,Kelurahan/Desa
+1602030027,1602030,Simpang Tiga Jaya,Kelurahan/Desa
+1602030028,1602030,Rantau Lurus,Kelurahan/Desa
+1602030029,1602030,Tulung Seluang,Kelurahan/Desa
+1602030030,1602030,Simpang Tiga Abadi,Kelurahan/Desa
+1602030031,1602030,Kuala Dua Belas,Kelurahan/Desa
+1602030032,1602030,Tulung Selapan Timur,Kelurahan/Desa
+1602031001,1602031,Sungai Somor,Kelurahan/Desa
+1602031002,1602031,Sungai Pasir,Kelurahan/Desa
+1602031003,1602031,Sungai Jeruju,Kelurahan/Desa
+1602031004,1602031,Sungai Lumpur,Kelurahan/Desa
+1602031005,1602031,Ulak Kedondong,Kelurahan/Desa
+1602031006,1602031,Sungai Ketupak,Kelurahan/Desa
+1602031007,1602031,Pelimbangan,Kelurahan/Desa
+1602031008,1602031,Cengal,Kelurahan/Desa
+1602031009,1602031,Talang Rimba,Kelurahan/Desa
+1602031010,1602031,Kuala Sungai Pasir,Kelurahan/Desa
+1602031011,1602031,Kuala Sungai Jeruju,Kelurahan/Desa
+1602031012,1602031,Parit Raya,Kelurahan/Desa
+1602031013,1602031,Lebak Beriang,Kelurahan/Desa
+1602031014,1602031,Balam Jeruju,Kelurahan/Desa
+1602031015,1602031,Pantai Harapan,Kelurahan/Desa
+1602031016,1602031,Adil Makmur,Kelurahan/Desa
+1602031017,1602031,Kebon Cabe,Kelurahan/Desa
+1602040001,1602040,Burnai Timur,Kelurahan/Desa
+1602040002,1602040,Suka Pulih,Kelurahan/Desa
+1602040003,1602040,Menang Raya,Kelurahan/Desa
+1602040004,1602040,Pedamaran VI,Kelurahan/Desa
+1602040005,1602040,Pedamaran V,Kelurahan/Desa
+1602040006,1602040,Pedamaran IV,Kelurahan/Desa
+1602040007,1602040,Pedamaran III,Kelurahan/Desa
+1602040008,1602040,Pedamaran II,Kelurahan/Desa
+1602040009,1602040,Pedamaran I,Kelurahan/Desa
+1602040010,1602040,Sukaraja,Kelurahan/Desa
+1602040011,1602040,Serinanti,Kelurahan/Desa
+1602040012,1602040,Suka Damai,Kelurahan/Desa
+1602040013,1602040,Cinta Jaya,Kelurahan/Desa
+1602040014,1602040,Lebuh Rarak,Kelurahan/Desa
+1602041001,1602041,Mari Baya,Kelurahan/Desa
+1602041002,1602041,Pulau Geronggang,Kelurahan/Desa
+1602041003,1602041,Gading Raja,Kelurahan/Desa
+1602041004,1602041,Sumber Hidup,Kelurahan/Desa
+1602041005,1602041,Pancawarna,Kelurahan/Desa
+1602041006,1602041,Tanjung Makmur,Kelurahan/Desa
+1602041007,1602041,Kayu Labu,Kelurahan/Desa
+1602050001,1602050,Ulak Kapal,Kelurahan/Desa
+1602050002,1602050,Tanjung Merindu,Kelurahan/Desa
+1602050003,1602050,Tanjung Baru,Kelurahan/Desa
+1602050004,1602050,Seri Tanjung,Kelurahan/Desa
+1602050005,1602050,Pengarayan,Kelurahan/Desa
+1602050006,1602050,Sukarami,Kelurahan/Desa
+1602050012,1602050,Sukamulia,Kelurahan/Desa
+1602050014,1602050,Pulau Gemantung,Kelurahan/Desa
+1602050015,1602050,Bumi Agung,Kelurahan/Desa
+1602050016,1602050,Kotabumi,Kelurahan/Desa
+1602050017,1602050,Tanjung Beringin,Kelurahan/Desa
+1602050018,1602050,Juk Dadak,Kelurahan/Desa
+1602050019,1602050,Ulak Balam,Kelurahan/Desa
+1602050020,1602050,Tanjung Laut,Kelurahan/Desa
+1602050021,1602050,Tanjung Laga,Kelurahan/Desa
+1602050022,1602050,Tanjung Lubuk,Kelurahan/Desa
+1602050026,1602050,Jambu Ilir,Kelurahan/Desa
+1602050027,1602050,Atar Balam,Kelurahan/Desa
+1602050028,1602050,Tanjung Harapan,Kelurahan/Desa
+1602050029,1602050,Pulau Gemantung Darat,Kelurahan/Desa
+1602050030,1602050,Pulau Gemantung Ulu,Kelurahan/Desa
+1602050031,1602050,Pulau Gemantung Ilir,Kelurahan/Desa
+1602051001,1602051,Benawa,Kelurahan/Desa
+1602051002,1602051,Panca Tunggal Benawa,Kelurahan/Desa
+1602051003,1602051,Sinar Harapan Mulya,Kelurahan/Desa
+1602051004,1602051,Bumi Harapan,Kelurahan/Desa
+1602051005,1602051,Mulya Guna,Kelurahan/Desa
+1602051006,1602051,Serapek,Kelurahan/Desa
+1602051007,1602051,Sugih Waras,Kelurahan/Desa
+1602051008,1602051,Seriguna,Kelurahan/Desa
+1602051009,1602051,Muara Telang,Kelurahan/Desa
+1602051010,1602051,Kuripan,Kelurahan/Desa
+1602051011,1602051,Penyandingan,Kelurahan/Desa
+1602051012,1602051,Talang Pangeran,Kelurahan/Desa
+1602051013,1602051,Cintamarga,Kelurahan/Desa
+1602051014,1602051,Ulak Ketapang,Kelurahan/Desa
+1602060001,1602060,Buluh Cawang,Kelurahan/Desa
+1602060002,1602060,Banding Anyar,Kelurahan/Desa
+1602060003,1602060,Muara Baru,Kelurahan/Desa
+1602060004,1602060,Anyar,Kelurahan/Desa
+1602060005,1602060,Lubuk Dalam,Kelurahan/Desa
+1602060006,1602060,Kedaton,Kelurahan/Desa
+1602060007,1602060,Jua Jua,Kelurahan/Desa
+1602060008,1602060,Sidakersa,Kelurahan/Desa
+1602060009,1602060,Kota Raya,Kelurahan/Desa
+1602060010,1602060,Perigi,Kelurahan/Desa
+1602060011,1602060,Mangun Jaya,Kelurahan/Desa
+1602060012,1602060,Cinta Raja,Kelurahan/Desa
+1602060013,1602060,Celikah,Kelurahan/Desa
+1602060014,1602060,Paku,Kelurahan/Desa
+1602060015,1602060,Kayu Agung,Kelurahan/Desa
+1602060016,1602060,Tanjung Serang,Kelurahan/Desa
+1602060017,1602060,Tanjung Lubuk,Kelurahan/Desa
+1602060018,1602060,Arisan Buntal,Kelurahan/Desa
+1602060019,1602060,Sukadana,Kelurahan/Desa
+1602060020,1602060,Serigeni Lama,Kelurahan/Desa
+1602060021,1602060,Serigeni Baru,Kelurahan/Desa
+1602060022,1602060,Teloko,Kelurahan/Desa
+1602060023,1602060,Kijang Ulu,Kelurahan/Desa
+1602060024,1602060,Tanjung Menang,Kelurahan/Desa
+1602060025,1602060,Tanjung Rancing,Kelurahan/Desa
+1602120001,1602120,Tanjung Alai,Kelurahan/Desa
+1602120002,1602120,Ulak Jermun,Kelurahan/Desa
+1602120003,1602120,Mangun Jaya,Kelurahan/Desa
+1602120004,1602120,Batu Ampar,Kelurahan/Desa
+1602120005,1602120,Awal Terusan,Kelurahan/Desa
+1602120006,1602120,Terusan Menang,Kelurahan/Desa
+1602120007,1602120,Belanti,Kelurahan/Desa
+1602120008,1602120,Rengas Pitu,Kelurahan/Desa
+1602120009,1602120,Terate,Kelurahan/Desa
+1602120010,1602120,Sp Padang,Kelurahan/Desa
+1602120011,1602120,Rawang Besar,Kelurahan/Desa
+1602120012,1602120,Pematang Buluran,Kelurahan/Desa
+1602120015,1602120,Serdang Menang,Kelurahan/Desa
+1602120016,1602120,Pantai,Kelurahan/Desa
+1602120017,1602120,Bungin Tinggi,Kelurahan/Desa
+1602120020,1602120,Penyandingan,Kelurahan/Desa
+1602120021,1602120,Berkat,Kelurahan/Desa
+1602120022,1602120,Sukaraja,Kelurahan/Desa
+1602120023,1602120,Batu Ampar Baru,Kelurahan/Desa
+1602120024,1602120,Terusan Laut,Kelurahan/Desa
+1602121001,1602121,Pematang Kijang,Kelurahan/Desa
+1602121002,1602121,Bubusan,Kelurahan/Desa
+1602121003,1602121,Air Hitam,Kelurahan/Desa
+1602121004,1602121,Jejawi,Kelurahan/Desa
+1602121005,1602121,Karang Agung,Kelurahan/Desa
+1602121006,1602121,Talang Cempedak,Kelurahan/Desa
+1602121007,1602121,Lubuk Ketepeng,Kelurahan/Desa
+1602121008,1602121,Tanjung Aur,Kelurahan/Desa
+1602121009,1602121,Lingkis,Kelurahan/Desa
+1602121010,1602121,Muara Batun,Kelurahan/Desa
+1602121011,1602121,Terusan Jawa,Kelurahan/Desa
+1602121012,1602121,Simpang Empat,Kelurahan/Desa
+1602121013,1602121,Pedu,Kelurahan/Desa
+1602121014,1602121,Ulak Tembaga,Kelurahan/Desa
+1602121015,1602121,Sukadarma,Kelurahan/Desa
+1602121016,1602121,Tanjung Ali,Kelurahan/Desa
+1602121017,1602121,Padang Bulan,Kelurahan/Desa
+1602121018,1602121,Batun Baru,Kelurahan/Desa
+1602121019,1602121,Danau Ceper,Kelurahan/Desa
+1602130001,1602130,Ulak Kemang,Kelurahan/Desa
+1602130002,1602130,Sepang,Kelurahan/Desa
+1602130003,1602130,Keman,Kelurahan/Desa
+1602130004,1602130,Kandis,Kelurahan/Desa
+1602130005,1602130,Ulak Depati,Kelurahan/Desa
+1602130006,1602130,Jungkal,Kelurahan/Desa
+1602130015,1602130,Serdang,Kelurahan/Desa
+1602130016,1602130,Serimenang,Kelurahan/Desa
+1602130017,1602130,Pampangan,Kelurahan/Desa
+1602130018,1602130,Pulau Betung,Kelurahan/Desa
+1602130019,1602130,Tapus,Kelurahan/Desa
+1602130020,1602130,Pulau Layang,Kelurahan/Desa
+1602130021,1602130,Kuro,Kelurahan/Desa
+1602130022,1602130,Bangsal,Kelurahan/Desa
+1602130023,1602130,Menggeris,Kelurahan/Desa
+1602130024,1602130,Secondong,Kelurahan/Desa
+1602130025,1602130,Jermun,Kelurahan/Desa
+1602130035,1602130,Tanjung Kemang,Kelurahan/Desa
+1602130036,1602130,Ulak Pianggu,Kelurahan/Desa
+1602130037,1602130,Ulak Kemang Baru,Kelurahan/Desa
+1602130038,1602130,Keman Baru,Kelurahan/Desa
+1602130039,1602130,Sri Mulya,Kelurahan/Desa
+1602131001,1602131,Sungai Bungin,Kelurahan/Desa
+1602131002,1602131,Suka Raja,Kelurahan/Desa
+1602131003,1602131,Darat,Kelurahan/Desa
+1602131004,1602131,Sukadamai,Kelurahan/Desa
+1602131005,1602131,Lebung Batang,Kelurahan/Desa
+1602131006,1602131,Pangkalan Lampam,Kelurahan/Desa
+1602131007,1602131,Lirik,Kelurahan/Desa
+1602131008,1602131,Deling,Kelurahan/Desa
+1602131009,1602131,Talang Daya,Kelurahan/Desa
+1602131010,1602131,Air Pedara,Kelurahan/Desa
+1602131011,1602131,Rimba Samak,Kelurahan/Desa
+1602131012,1602131,Pulawan,Kelurahan/Desa
+1602131013,1602131,Riding,Kelurahan/Desa
+1602131014,1602131,Sunggutan,Kelurahan/Desa
+1602131015,1602131,Air Rumbai,Kelurahan/Desa
+1602131016,1602131,Rambai,Kelurahan/Desa
+1602131017,1602131,Perigi,Kelurahan/Desa
+1602131018,1602131,Bukit Batu,Kelurahan/Desa
+1602131019,1602131,Rawa Tenam,Kelurahan/Desa
+1602140001,1602140,Sungai Batang,Kelurahan/Desa
+1602140002,1602140,Bukit Batu,Kelurahan/Desa
+1602140003,1602140,Rengas Abang,Kelurahan/Desa
+1602140004,1602140,Simpang Heran,Kelurahan/Desa
+1602140005,1602140,Banyu Biru,Kelurahan/Desa
+1602140006,1602140,Pangkalan Sakti,Kelurahan/Desa
+1602140007,1602140,Rantau Karya,Kelurahan/Desa
+1602140008,1602140,Nusa Karta,Kelurahan/Desa
+1602140009,1602140,Sri Jaya Baru,Kelurahan/Desa
+1602140010,1602140,Jadi Mulya,Kelurahan/Desa
+1602140011,1602140,Suka Mulya,Kelurahan/Desa
+1602140012,1602140,Mukti Jaya,Kelurahan/Desa
+1602140013,1602140,Kerta Mukti,Kelurahan/Desa
+1602140014,1602140,Negeri Sakti,Kelurahan/Desa
+1602140015,1602140,Pangkalan Damai,Kelurahan/Desa
+1602140016,1602140,Nusantara,Kelurahan/Desa
+1602140017,1602140,Bandar Jaya,Kelurahan/Desa
+1602140018,1602140,Tirta Mulya,Kelurahan/Desa
+1602140019,1602140,Marga Tani,Kelurahan/Desa
+1603010001,1603010,Penindaian,Kelurahan/Desa
+1603010002,1603010,Babatan,Kelurahan/Desa
+1603010003,1603010,Muara Dua,Kelurahan/Desa
+1603010004,1603010,Pulau Panggung,Kelurahan/Desa
+1603010005,1603010,Muara Danau,Kelurahan/Desa
+1603010006,1603010,Penyandingan,Kelurahan/Desa
+1603010007,1603010,Tanah Abang,Kelurahan/Desa
+1603010008,1603010,Karya Nyata,Kelurahan/Desa
+1603010009,1603010,Pagar Agung,Kelurahan/Desa
+1603010010,1603010,Perapau,Kelurahan/Desa
+1603011001,1603011,Segamit,Kelurahan/Desa
+1603011002,1603011,Cahaya Alam,Kelurahan/Desa
+1603011003,1603011,Tanjung Tiga,Kelurahan/Desa
+1603011004,1603011,Tanjung Agung,Kelurahan/Desa
+1603011005,1603011,Datar Lebar,Kelurahan/Desa
+1603011006,1603011,Siring Agung,Kelurahan/Desa
+1603011007,1603011,Aremantai,Kelurahan/Desa
+1603011008,1603011,Pajar Bulan,Kelurahan/Desa
+1603011009,1603011,Pelakat,Kelurahan/Desa
+1603011010,1603011,Danau Gerak,Kelurahan/Desa
+1603012001,1603012,Gunung Agung,Kelurahan/Desa
+1603012002,1603012,Kota Padang,Kelurahan/Desa
+1603012003,1603012,Tenam Bungkuk,Kelurahan/Desa
+1603012004,1603012,Tanjung Raya,Kelurahan/Desa
+1603012005,1603012,Muara Tenang,Kelurahan/Desa
+1603012006,1603012,Seri Tanjung,Kelurahan/Desa
+1603012007,1603012,Tebing Abang,Kelurahan/Desa
+1603012008,1603012,Batu Surau,Kelurahan/Desa
+1603012009,1603012,Rekimai Jaya,Kelurahan/Desa
+1603012010,1603012,Palak Tanah,Kelurahan/Desa
+1603012011,1603012,Kota Agung,Kelurahan/Desa
+1603012012,1603012,Swarna Dwipa,Kelurahan/Desa
+1603020001,1603020,Lubuk Nipis,Kelurahan/Desa
+1603020002,1603020,Padang Bindu,Kelurahan/Desa
+1603020003,1603020,Bedegung,Kelurahan/Desa
+1603020004,1603020,Indramayu,Kelurahan/Desa
+1603020005,1603020,Muara Meo,Kelurahan/Desa
+1603020006,1603020,Pandan Dulang,Kelurahan/Desa
+1603020007,1603020,Suka Raja,Kelurahan/Desa
+1603020008,1603020,Tanjung Baru,Kelurahan/Desa
+1603020009,1603020,Lambur,Kelurahan/Desa
+1603020010,1603020,Lebak Budi,Kelurahan/Desa
+1603020011,1603020,Pandan Enim,Kelurahan/Desa
+1603020012,1603020,Paduraksa,Kelurahan/Desa
+1603020013,1603020,Embawang,Kelurahan/Desa
+1603020014,1603020,Pagar Dewa,Kelurahan/Desa
+1603020015,1603020,Tanjung Bulan,Kelurahan/Desa
+1603020016,1603020,Lesung Batu,Kelurahan/Desa
+1603020017,1603020,Matas,Kelurahan/Desa
+1603020018,1603020,Tanjung Agung,Kelurahan/Desa
+1603020019,1603020,Tanjung Karangan,Kelurahan/Desa
+1603020020,1603020,Seleman,Kelurahan/Desa
+1603020021,1603020,Penyandingan,Kelurahan/Desa
+1603020022,1603020,Tanjung Lalang,Kelurahan/Desa
+1603020023,1603020,Pulau Panggung,Kelurahan/Desa
+1603020024,1603020,Muara Emil,Kelurahan/Desa
+1603020025,1603020,Sugih Waras,Kelurahan/Desa
+1603020026,1603020,Pagar Jati,Kelurahan/Desa
+1603031001,1603031,Marga Mulia,Kelurahan/Desa
+1603031002,1603031,Sumber Rahayu,Kelurahan/Desa
+1603031003,1603031,Kencana Mulia,Kelurahan/Desa
+1603031004,1603031,Sugih Waras,Kelurahan/Desa
+1603031005,1603031,Pagar Agung,Kelurahan/Desa
+1603031006,1603031,Tanjung Raya,Kelurahan/Desa
+1603031007,1603031,Tanjung Dalam,Kelurahan/Desa
+1603031008,1603031,Sukarami,Kelurahan/Desa
+1603031009,1603031,Sugihan,Kelurahan/Desa
+1603031010,1603031,Negeri Agung,Kelurahan/Desa
+1603031011,1603031,Baru Rambang,Kelurahan/Desa
+1603031012,1603031,Air Keruh,Kelurahan/Desa
+1603031013,1603031,Sugih Waras Barat,Kelurahan/Desa
+1603032010,1603032,Aur,Kelurahan/Desa
+1603032011,1603032,Beringin,Kelurahan/Desa
+1603032012,1603032,Suka Merindu,Kelurahan/Desa
+1603032013,1603032,Kota Baru,Kelurahan/Desa
+1603032014,1603032,Pagar Gunung,Kelurahan/Desa
+1603032015,1603032,Jiwa Baru,Kelurahan/Desa
+1603032016,1603032,Gunung Raja,Kelurahan/Desa
+1603032017,1603032,Tanjung Kemala,Kelurahan/Desa
+1603032020,1603032,Menanti,Kelurahan/Desa
+1603032021,1603032,Air Asam,Kelurahan/Desa
+1603033001,1603033,Lubai Persada,Kelurahan/Desa
+1603033002,1603033,Lubai Makmur,Kelurahan/Desa
+1603033003,1603033,Mekar Jaya,Kelurahan/Desa
+1603033004,1603033,Lecah,Kelurahan/Desa
+1603033005,1603033,Prabu Menang,Kelurahan/Desa
+1603033006,1603033,Pagar Dewa,Kelurahan/Desa
+1603033007,1603033,Sumber Mulya,Kelurahan/Desa
+1603033008,1603033,Karang Mulya,Kelurahan/Desa
+1603033009,1603033,Karang Agung,Kelurahan/Desa
+1603033010,1603033,Sumber Asri,Kelurahan/Desa
+1603033011,1603033,Karang Sari,Kelurahan/Desa
+1603040001,1603040,Darmo,Kelurahan/Desa
+1603040002,1603040,Keban Agung,Kelurahan/Desa
+1603040003,1603040,Tanjung Enim Selatan,Kelurahan/Desa
+1603040004,1603040,Tanjung Enim,Kelurahan/Desa
+1603040005,1603040,Pasar Tanjung Enim,Kelurahan/Desa
+1603040006,1603040,Tegal Rejo,Kelurahan/Desa
+1603040007,1603040,Lingga,Kelurahan/Desa
+1603050001,1603050,Tanjung Raja,Kelurahan/Desa
+1603050002,1603050,Karang Raja,Kelurahan/Desa
+1603050003,1603050,Saka Jaya,Kelurahan/Desa
+1603050004,1603050,Pasar I,Kelurahan/Desa
+1603050005,1603050,Pasar II,Kelurahan/Desa
+1603050006,1603050,Pasar III,Kelurahan/Desa
+1603050007,1603050,Tungkal,Kelurahan/Desa
+1603050008,1603050,Lubuk Empelas,Kelurahan/Desa
+1603050009,1603050,Tanjung Jati,Kelurahan/Desa
+1603050010,1603050,Muara Lawai,Kelurahan/Desa
+1603050011,1603050,Muara Enim,Kelurahan/Desa
+1603050012,1603050,Harapan Jaya,Kelurahan/Desa
+1603050013,1603050,Muara Harapan,Kelurahan/Desa
+1603050014,1603050,Kepur,Kelurahan/Desa
+1603050015,1603050,Tanjung Serian,Kelurahan/Desa
+1603050016,1603050,Air Lintang,Kelurahan/Desa
+1603051001,1603051,Tanjung Raman,Kelurahan/Desa
+1603051002,1603051,Muara Gula Baru,Kelurahan/Desa
+1603051003,1603051,Muara Gula Lama,Kelurahan/Desa
+1603051004,1603051,Pinang Belarik,Kelurahan/Desa
+1603051005,1603051,Ujan Mas Lama,Kelurahan/Desa
+1603051006,1603051,Ujan Mas Baru,Kelurahan/Desa
+1603051007,1603051,Guci,Kelurahan/Desa
+1603051008,1603051,Ulak Bandung,Kelurahan/Desa
+1603060001,1603060,Bangun Sari,Kelurahan/Desa
+1603060002,1603060,Sumaja Makmur,Kelurahan/Desa
+1603060003,1603060,Fajar Indah,Kelurahan/Desa
+1603060004,1603060,Kayu Ara Sakti,Kelurahan/Desa
+1603060005,1603060,Penanggiran,Kelurahan/Desa
+1603060006,1603060,Sidomulyo,Kelurahan/Desa
+1603060007,1603060,Gunung Megang Dalam,Kelurahan/Desa
+1603060008,1603060,Gunung Megang Luar,Kelurahan/Desa
+1603060009,1603060,Lubuk Mumpo,Kelurahan/Desa
+1603060010,1603060,Perjito,Kelurahan/Desa
+1603060011,1603060,Tanjung Terang,Kelurahan/Desa
+1603060012,1603060,Tanjung Muning,Kelurahan/Desa
+1603060021,1603060,Panang Jaya,Kelurahan/Desa
+1603061001,1603061,Padang Bindu,Kelurahan/Desa
+1603061002,1603061,Pagar Dewa,Kelurahan/Desa
+1603061003,1603061,Pagar Jati,Kelurahan/Desa
+1603061004,1603061,Betung,Kelurahan/Desa
+1603061005,1603061,Hidup Baru,Kelurahan/Desa
+1603061006,1603061,Rami Pasai,Kelurahan/Desa
+1603062013,1603062,Berugo,Kelurahan/Desa
+1603062014,1603062,Tanjung,Kelurahan/Desa
+1603062015,1603062,Cinta Kasih,Kelurahan/Desa
+1603062016,1603062,Darmo Kasih,Kelurahan/Desa
+1603062017,1603062,Teluk Lubuk,Kelurahan/Desa
+1603062018,1603062,Belimbing,Kelurahan/Desa
+1603062019,1603062,Bulang,Kelurahan/Desa
+1603062020,1603062,Dalam,Kelurahan/Desa
+1603062022,1603062,Belimbing Jaya,Kelurahan/Desa
+1603062023,1603062,Simpang Tanjung,Kelurahan/Desa
+1603070001,1603070,Suban Jeriji,Kelurahan/Desa
+1603070002,1603070,Gemawang,Kelurahan/Desa
+1603070003,1603070,Aur Duri,Kelurahan/Desa
+1603070004,1603070,Manunggal Jaya,Kelurahan/Desa
+1603070005,1603070,Manunggal Makmur,Kelurahan/Desa
+1603070006,1603070,Air Enau Upt XI,Kelurahan/Desa
+1603070007,1603070,Air Talas,Kelurahan/Desa
+1603070008,1603070,Jemenang,Kelurahan/Desa
+1603070009,1603070,Muara Emburung,Kelurahan/Desa
+1603070010,1603070,Tanjung Menang,Kelurahan/Desa
+1603070011,1603070,Tebat Agung,Kelurahan/Desa
+1603070012,1603070,Lubuk Raman,Kelurahan/Desa
+1603070013,1603070,Air Limau,Kelurahan/Desa
+1603070014,1603070,Gerinam,Kelurahan/Desa
+1603070015,1603070,Muara Niru,Kelurahan/Desa
+1603070016,1603070,Banuayu,Kelurahan/Desa
+1603070017,1603070,Kuripan,Kelurahan/Desa
+1603070018,1603070,Gunung Raja,Kelurahan/Desa
+1603070019,1603070,Pangkalan Babat,Kelurahan/Desa
+1603070020,1603070,Batu Raja,Kelurahan/Desa
+1603070021,1603070,Dangku,Kelurahan/Desa
+1603070022,1603070,Siku,Kelurahan/Desa
+1603070023,1603070,Kasih Dewa,Kelurahan/Desa
+1603070024,1603070,Air Cekdam,Kelurahan/Desa
+1603070025,1603070,Kuripan Baru,Kelurahan/Desa
+1603070026,1603070,Kuripan Selatan,Kelurahan/Desa
+1603090001,1603090,Karang Endah Selatan,Kelurahan/Desa
+1603090002,1603090,Karang Endah,Kelurahan/Desa
+1603090003,1603090,Tambangan Kelekar,Kelurahan/Desa
+1603090004,1603090,Sigam,Kelurahan/Desa
+1603090005,1603090,Midar,Kelurahan/Desa
+1603090006,1603090,Jambu,Kelurahan/Desa
+1603090007,1603090,Gaung Telang,Kelurahan/Desa
+1603090008,1603090,Melilian,Kelurahan/Desa
+1603090009,1603090,Pedataran,Kelurahan/Desa
+1603090010,1603090,Sebau,Kelurahan/Desa
+1603090011,1603090,Paya Bakal,Kelurahan/Desa
+1603090012,1603090,Gelumbang,Kelurahan/Desa
+1603090013,1603090,Talang Taling,Kelurahan/Desa
+1603090014,1603090,Pinang Banjar,Kelurahan/Desa
+1603090015,1603090,Segayam,Kelurahan/Desa
+1603090016,1603090,Putak,Kelurahan/Desa
+1603090017,1603090,Suka Menang,Kelurahan/Desa
+1603090018,1603090,Bitis,Kelurahan/Desa
+1603090019,1603090,Gumai,Kelurahan/Desa
+1603090020,1603090,Suka Jaya,Kelurahan/Desa
+1603090021,1603090,Kartamulia,Kelurahan/Desa
+1603090022,1603090,Teluk Limau,Kelurahan/Desa
+1603090023,1603090,Betung,Kelurahan/Desa
+1603091007,1603091,Kemang,Kelurahan/Desa
+1603091008,1603091,Lembak,Kelurahan/Desa
+1603091009,1603091,Sungai Duren,Kelurahan/Desa
+1603091010,1603091,Tapus,Kelurahan/Desa
+1603091011,1603091,Petanang,Kelurahan/Desa
+1603091012,1603091,Talang Nangka,Kelurahan/Desa
+1603091013,1603091,Alai,Kelurahan/Desa
+1603091017,1603091,Tanjung Baru,Kelurahan/Desa
+1603091020,1603091,Lubuk Enau,Kelurahan/Desa
+1603091021,1603091,Alai Selatan,Kelurahan/Desa
+1603092001,1603092,Modong,Kelurahan/Desa
+1603092002,1603092,Tanjung Miring,Kelurahan/Desa
+1603092003,1603092,Suka Cinta,Kelurahan/Desa
+1603092004,1603092,Penandingan,Kelurahan/Desa
+1603092005,1603092,Danau Rata,Kelurahan/Desa
+1603092006,1603092,Suka Maju,Kelurahan/Desa
+1603092007,1603092,Sukarami,Kelurahan/Desa
+1603092008,1603092,Suka Jadi,Kelurahan/Desa
+1603092009,1603092,Suka Dana,Kelurahan/Desa
+1603092010,1603092,Petar Dalam,Kelurahan/Desa
+1603092011,1603092,Paya Angus,Kelurahan/Desa
+1603092012,1603092,Danau Tampang,Kelurahan/Desa
+1603092013,1603092,Kasai,Kelurahan/Desa
+1603092014,1603092,Sungai Rotan,Kelurahan/Desa
+1603092015,1603092,Suka Merindu,Kelurahan/Desa
+1603092016,1603092,Tanding Marga,Kelurahan/Desa
+1603092017,1603092,Muara Lematang,Kelurahan/Desa
+1603092018,1603092,Danau Baru,Kelurahan/Desa
+1603092019,1603092,Petar Luar,Kelurahan/Desa
+1603093001,1603093,Harapan Mulia,Kelurahan/Desa
+1603093002,1603093,Arisan Musi,Kelurahan/Desa
+1603093003,1603093,Gedung Buruk,Kelurahan/Desa
+1603093004,1603093,Kayu Ara Batu,Kelurahan/Desa
+1603093005,1603093,Arisan Musi Timur,Kelurahan/Desa
+1603093006,1603093,Patra Tani,Kelurahan/Desa
+1603093007,1603093,Tanjung Baru,Kelurahan/Desa
+1603093008,1603093,Mulia Abadi,Kelurahan/Desa
+1603094001,1603094,Embacang Kelekar,Kelurahan/Desa
+1603094002,1603094,Teluk Jaya,Kelurahan/Desa
+1603094003,1603094,Menanti,Kelurahan/Desa
+1603094004,1603094,Suban Baru,Kelurahan/Desa
+1603094005,1603094,Pelempang,Kelurahan/Desa
+1603094006,1603094,Tanjung Medang,Kelurahan/Desa
+1603094007,1603094,Menanti Selatan,Kelurahan/Desa
+1603095001,1603095,Babat,Kelurahan/Desa
+1603095002,1603095,Talang Balai,Kelurahan/Desa
+1603095003,1603095,Sialingan,Kelurahan/Desa
+1603095004,1603095,Tanjung Bunut,Kelurahan/Desa
+1603095005,1603095,Ibul,Kelurahan/Desa
+1603095006,1603095,Gaung Asam,Kelurahan/Desa
+1603095014,1603095,Lubuk Semantung,Kelurahan/Desa
+1603095016,1603095,Lubuk Getam,Kelurahan/Desa
+1603095018,1603095,Tanjung Tiga,Kelurahan/Desa
+1603095019,1603095,Talang Beliung,Kelurahan/Desa
+1604011001,1604011,Tanjung Sakti,Kelurahan/Desa
+1604011002,1604011,Penandingan,Kelurahan/Desa
+1604011003,1604011,Tanjung Bulan,Kelurahan/Desa
+1604011004,1604011,Pajar Bulan,Kelurahan/Desa
+1604011005,1604011,Negeri Kaya,Kelurahan/Desa
+1604011006,1604011,Gunung Kerto,Kelurahan/Desa
+1604011007,1604011,Pulau Panggung,Kelurahan/Desa
+1604011008,1604011,Masam Bulau,Kelurahan/Desa
+1604011009,1604011,Gunung Agung,Kelurahan/Desa
+1604011010,1604011,Ulak Lebar,Kelurahan/Desa
+1604011011,1604011,Pagar Agung,Kelurahan/Desa
+1604011012,1604011,Benteng,Kelurahan/Desa
+1604011013,1604011,Pagar Jati,Kelurahan/Desa
+1604011014,1604011,Lubuk Tabun,Kelurahan/Desa
+1604011015,1604011,Lubuk Dalam,Kelurahan/Desa
+1604011016,1604011,Gunung Kembang,Kelurahan/Desa
+1604011017,1604011,Pulau Panas,Kelurahan/Desa
+1604011018,1604011,Sindang Panjang,Kelurahan/Desa
+1604012001,1604012,Karang Agung,Kelurahan/Desa
+1604012002,1604012,Gunung Raya,Kelurahan/Desa
+1604012003,1604012,Talang Tinggi,Kelurahan/Desa
+1604012004,1604012,Simpang III Pumu,Kelurahan/Desa
+1604012005,1604012,Kepala Siring,Kelurahan/Desa
+1604012006,1604012,Genting,Kelurahan/Desa
+1604012007,1604012,Suban,Kelurahan/Desa
+1604012008,1604012,Muara Cawang,Kelurahan/Desa
+1604012009,1604012,Gunung Ayu,Kelurahan/Desa
+1604012010,1604012,Ujung Pulau,Kelurahan/Desa
+1604012011,1604012,Tanjung Alam,Kelurahan/Desa
+1604012012,1604012,Batu Rancing,Kelurahan/Desa
+1604012013,1604012,Gunung Meraksa,Kelurahan/Desa
+1604012014,1604012,Kembang Ayun,Kelurahan/Desa
+1604040001,1604040,Bangke,Kelurahan/Desa
+1604040002,1604040,Tebat Langsat,Kelurahan/Desa
+1604040003,1604040,Tunggul Bute,Kelurahan/Desa
+1604040004,1604040,Tanjung Raman,Kelurahan/Desa
+1604040005,1604040,Gunung Lewat,Kelurahan/Desa
+1604040006,1604040,Singapura,Kelurahan/Desa
+1604040007,1604040,Kebon Jati,Kelurahan/Desa
+1604040008,1604040,Bintuhan,Kelurahan/Desa
+1604040009,1604040,Muntar Alam Baru,Kelurahan/Desa
+1604040010,1604040,Muntar Alam Lama,Kelurahan/Desa
+1604040011,1604040,Pandan Arang Ulu,Kelurahan/Desa
+1604040012,1604040,Karang Endah,Kelurahan/Desa
+1604040013,1604040,Lawang Agung,Kelurahan/Desa
+1604040014,1604040,Kota Agung,Kelurahan/Desa
+1604040015,1604040,Sukarame,Kelurahan/Desa
+1604040016,1604040,Karang Agung,Kelurahan/Desa
+1604040017,1604040,Sukaraja,Kelurahan/Desa
+1604040018,1604040,Gedung Agung,Kelurahan/Desa
+1604040019,1604040,Muara Gula,Kelurahan/Desa
+1604040020,1604040,Tanjung Bulan,Kelurahan/Desa
+1604040037,1604040,Tanjung Beringin,Kelurahan/Desa
+1604040039,1604040,Pagar Ruyung,Kelurahan/Desa
+1604041001,1604041,Karang Lebak,Kelurahan/Desa
+1604041002,1604041,Sukananti,Kelurahan/Desa
+1604041003,1604041,Babatan,Kelurahan/Desa
+1604041004,1604041,Sengkuang,Kelurahan/Desa
+1604041005,1604041,Padang Masat,Kelurahan/Desa
+1604041006,1604041,Penindaian,Kelurahan/Desa
+1604041007,1604041,Muara Tiga,Kelurahan/Desa
+1604041008,1604041,Tebing Tinggi,Kelurahan/Desa
+1604041009,1604041,Datar Balam,Kelurahan/Desa
+1604041010,1604041,Pengentaan,Kelurahan/Desa
+1604041011,1604041,Lesung Batu,Kelurahan/Desa
+1604041012,1604041,Air Puar,Kelurahan/Desa
+1604041013,1604041,Pajar Bulan,Kelurahan/Desa
+1604041014,1604041,Mengkenang,Kelurahan/Desa
+1604041015,1604041,Lawang Agung Mulak,Kelurahan/Desa
+1604041020,1604041,Geramat,Kelurahan/Desa
+1604042001,1604042,Tanjung Nibung,Kelurahan/Desa
+1604042002,1604042,Tanjung Bay,Kelurahan/Desa
+1604042003,1604042,Tanjung Baru,Kelurahan/Desa
+1604042004,1604042,Tanjung Kurung Ulu,Kelurahan/Desa
+1604042005,1604042,Tanjung Kurung Ilir,Kelurahan/Desa
+1604042006,1604042,Padang Perigi,Kelurahan/Desa
+1604042007,1604042,Air Dingin Lama,Kelurahan/Desa
+1604042008,1604042,Air Dingin Baru,Kelurahan/Desa
+1604042009,1604042,Tanjung Tebat,Kelurahan/Desa
+1604042010,1604042,Pandan Arang Ilir,Kelurahan/Desa
+1604042011,1604042,Muara Danau,Kelurahan/Desa
+1604042012,1604042,Talang Jawa,Kelurahan/Desa
+1604042013,1604042,Tanjung Raya,Kelurahan/Desa
+1604042014,1604042,Tanjung Menang,Kelurahan/Desa
+1604043001,1604043,Durian Dangkal,Kelurahan/Desa
+1604043002,1604043,Penandingan,Kelurahan/Desa
+1604043003,1604043,Talang Padang,Kelurahan/Desa
+1604043004,1604043,Lubuk Dendan,Kelurahan/Desa
+1604043005,1604043,Jadian Baru,Kelurahan/Desa
+1604043006,1604043,Jadian Lama,Kelurahan/Desa
+1604043007,1604043,Talang Berangin,Kelurahan/Desa
+1604043008,1604043,Padang Bindu,Kelurahan/Desa
+1604043009,1604043,Keban Agung,Kelurahan/Desa
+1604043010,1604043,Danau Belidang,Kelurahan/Desa
+1604050031,1604050,Tanjung Mulak,Kelurahan/Desa
+1604050032,1604050,Pulau Pinang,Kelurahan/Desa
+1604050033,1604050,Lubuk Sepang,Kelurahan/Desa
+1604050034,1604050,Tanjung Sirih,Kelurahan/Desa
+1604050039,1604050,Perigi,Kelurahan/Desa
+1604050040,1604050,Karang Dalam,Kelurahan/Desa
+1604050041,1604050,Pagar Batu,Kelurahan/Desa
+1604050042,1604050,Kuba,Kelurahan/Desa
+1604050043,1604050,Jati,Kelurahan/Desa
+1604050044,1604050,Muara Siban,Kelurahan/Desa
+1604051001,1604051,Kedaton,Kelurahan/Desa
+1604051002,1604051,Tanjung Agung,Kelurahan/Desa
+1604051003,1604051,Pagar Agung,Kelurahan/Desa
+1604051004,1604051,Muara Dua,Kelurahan/Desa
+1604051005,1604051,Penantian,Kelurahan/Desa
+1604051006,1604051,Merindu,Kelurahan/Desa
+1604051007,1604051,Gemidar Ulu,Kelurahan/Desa
+1604051008,1604051,Gemidar Ilir,Kelurahan/Desa
+1604051009,1604051,Rimba Sujud,Kelurahan/Desa
+1604051010,1604051,Pagar Alam,Kelurahan/Desa
+1604051011,1604051,Padang Pagun,Kelurahan/Desa
+1604051012,1604051,Kupang,Kelurahan/Desa
+1604051013,1604051,Danau,Kelurahan/Desa
+1604051014,1604051,Siring Agung,Kelurahan/Desa
+1604051015,1604051,Batu Rusa,Kelurahan/Desa
+1604051016,1604051,Karang Agung,Kelurahan/Desa
+1604051017,1604051,Sawah Darat,Kelurahan/Desa
+1604051018,1604051,Air Lingkar,Kelurahan/Desa
+1604051019,1604051,Lesung Batu,Kelurahan/Desa
+1604051020,1604051,Bandung Agung,Kelurahan/Desa
+1604052001,1604052,Sp.II Upt Padang Muaradua,Kelurahan/Desa
+1604052002,1604052,Rindu Hati,Kelurahan/Desa
+1604052003,1604052,Lubuk Selo,Kelurahan/Desa
+1604052004,1604052,Sumber Karya,Kelurahan/Desa
+1604052005,1604052,Sinjar Bulan,Kelurahan/Desa
+1604052006,1604052,Padang Gumay,Kelurahan/Desa
+1604052007,1604052,Tanjung Aur,Kelurahan/Desa
+1604052008,1604052,Tanjung Raja,Kelurahan/Desa
+1604052009,1604052,Tinggi Hari,Kelurahan/Desa
+1604052010,1604052,Simpur,Kelurahan/Desa
+1604060001,1604060,Mangun Sari,Kelurahan/Desa
+1604060002,1604060,Pagar Dewa,Kelurahan/Desa
+1604060003,1604060,Serambi,Kelurahan/Desa
+1604060004,1604060,Sukananti,Kelurahan/Desa
+1604060005,1604060,Tanjung Menang,Kelurahan/Desa
+1604060006,1604060,Lubuk Sawung,Kelurahan/Desa
+1604060007,1604060,Gunung Kaya,Kelurahan/Desa
+1604060038,1604060,Gunung Megang,Kelurahan/Desa
+1604060039,1604060,Karang Tanding,Kelurahan/Desa
+1604060040,1604060,Jarai,Kelurahan/Desa
+1604060041,1604060,Muaratawi,Kelurahan/Desa
+1604060042,1604060,Aromantai,Kelurahan/Desa
+1604060043,1604060,Jemaring,Kelurahan/Desa
+1604060044,1604060,Pamah Salak,Kelurahan/Desa
+1604060045,1604060,Pelajaran,Kelurahan/Desa
+1604060046,1604060,Nantigiri,Kelurahan/Desa
+1604060047,1604060,Kedaton,Kelurahan/Desa
+1604060048,1604060,Bandaraji,Kelurahan/Desa
+1604060049,1604060,Tertap,Kelurahan/Desa
+1604060050,1604060,Penantian,Kelurahan/Desa
+1604060051,1604060,Sadan,Kelurahan/Desa
+1604061007,1604061,Aceh,Kelurahan/Desa
+1604061008,1604061,Kota Raya Darat,Kelurahan/Desa
+1604061009,1604061,Pajar Tinggi,Kelurahan/Desa
+1604061010,1604061,Talang Padang Tinggi,Kelurahan/Desa
+1604061011,1604061,Talang Pagar Agung,Kelurahan/Desa
+1604061012,1604061,Talang Baru,Kelurahan/Desa
+1604061013,1604061,Talang Tangsi,Kelurahan/Desa
+1604061014,1604061,Talang Mengkenang,Kelurahan/Desa
+1604061015,1604061,Kota Raya Lembak,Kelurahan/Desa
+1604061016,1604061,Sumur,Kelurahan/Desa
+1604061017,1604061,Pajar Bulan,Kelurahan/Desa
+1604061018,1604061,Pulau Panggung,Kelurahan/Desa
+1604061019,1604061,Bantunan,Kelurahan/Desa
+1604061020,1604061,Sukabumi,Kelurahan/Desa
+1604061021,1604061,Ulak Bandung,Kelurahan/Desa
+1604061022,1604061,Pulau,Kelurahan/Desa
+1604061023,1604061,Benua Raja,Kelurahan/Desa
+1604061024,1604061,Tongkok,Kelurahan/Desa
+1604061025,1604061,Gelung Sakti,Kelurahan/Desa
+1604061026,1604061,Jentian,Kelurahan/Desa
+1604062001,1604062,Muara Payang,Kelurahan/Desa
+1604062002,1604062,Muara Gelumpai,Kelurahan/Desa
+1604062003,1604062,Talang Tinggi,Kelurahan/Desa
+1604062004,1604062,Lawang Agung Lama,Kelurahan/Desa
+1604062005,1604062,Lawang Agung Baru,Kelurahan/Desa
+1604062006,1604062,Muara Jauh,Kelurahan/Desa
+1604062007,1604062,Bandu Agung,Kelurahan/Desa
+1604063001,1604063,Rambai Kaca,Kelurahan/Desa
+1604063002,1604063,Kapitan,Kelurahan/Desa
+1604063003,1604063,Sukamerindu,Kelurahan/Desa
+1604063004,1604063,Gunung Liwat,Kelurahan/Desa
+1604063005,1604063,Karang Caya,Kelurahan/Desa
+1604063006,1604063,Guru Agung,Kelurahan/Desa
+1604063007,1604063,Tanjung Agung,Kelurahan/Desa
+1604063008,1604063,Sukaraja,Kelurahan/Desa
+1604063009,1604063,Tanjung Raya,Kelurahan/Desa
+1604063010,1604063,Pagar Kaya,Kelurahan/Desa
+1604111001,1604111,Darma Raharja,Kelurahan/Desa
+1604111002,1604111,Suka Bakti,Kelurahan/Desa
+1604111003,1604111,Sidomakmur,Kelurahan/Desa
+1604111004,1604111,Saung Naga,Kelurahan/Desa
+1604111005,1604111,Penantian,Kelurahan/Desa
+1604111006,1604111,Singapura,Kelurahan/Desa
+1604111007,1604111,Babat Baru,Kelurahan/Desa
+1604111008,1604111,Ulak Bandung,Kelurahan/Desa
+1604111009,1604111,Jajaran Baru,Kelurahan/Desa
+1604111010,1604111,Wonorejo,Kelurahan/Desa
+1604111011,1604111,Suka Merindu,Kelurahan/Desa
+1604111012,1604111,Jajaran Lama,Kelurahan/Desa
+1604111013,1604111,Lubuk Seketi,Kelurahan/Desa
+1604111014,1604111,Sukarami,Kelurahan/Desa
+1604111015,1604111,Purwo Rejo,Kelurahan/Desa
+1604111016,1604111,Bandarjaya,Kelurahan/Desa
+1604111017,1604111,Wanaraya,Kelurahan/Desa
+1604111018,1604111,Purnamesari,Kelurahan/Desa
+1604111019,1604111,Mekar Jaya,Kelurahan/Desa
+1604112001,1604112,Lubuk Nambulan,Kelurahan/Desa
+1604112002,1604112,Gelumbang,Kelurahan/Desa
+1604112003,1604112,Gunung Aji,Kelurahan/Desa
+1604112004,1604112,Binjai,Kelurahan/Desa
+1604112005,1604112,Sendawar,Kelurahan/Desa
+1604112006,1604112,Gunung Kembang,Kelurahan/Desa
+1604112007,1604112,Bunga Mas,Kelurahan/Desa
+1604112008,1604112,Lubuk Layang Ilir,Kelurahan/Desa
+1604112009,1604112,Lubuk Layang Ulu,Kelurahan/Desa
+1604112010,1604112,Muara Danau,Kelurahan/Desa
+1604112011,1604112,Paduraksa,Kelurahan/Desa
+1604112012,1604112,Gunung Karto,Kelurahan/Desa
+1604112013,1604112,Karang Endah,Kelurahan/Desa
+1604112014,1604112,Petikal Baru,Kelurahan/Desa
+1604112015,1604112,Tanda Raja,Kelurahan/Desa
+1604112016,1604112,Petikal Lama,Kelurahan/Desa
+1604112017,1604112,Muara Empayang,Kelurahan/Desa
+1604112018,1604112,Lubuk Kuta,Kelurahan/Desa
+1604112019,1604112,Seronggo,Kelurahan/Desa
+1604112020,1604112,Gedung Agung,Kelurahan/Desa
+1604112021,1604112,Lubuk Tampang,Kelurahan/Desa
+1604112022,1604112,Cecar,Kelurahan/Desa
+1604112023,1604112,Datar Serdang,Kelurahan/Desa
+1604112024,1604112,Batu Urip,Kelurahan/Desa
+1604112025,1604112,Tanjung Bindu,Kelurahan/Desa
+1604112026,1604112,Babat Lama,Kelurahan/Desa
+1604112027,1604112,Linggar Jaya,Kelurahan/Desa
+1604112028,1604112,Marga Mulia,Kelurahan/Desa
+1604112029,1604112,Kencana Sari,Kelurahan/Desa
+1604112030,1604112,Purwa Raja,Kelurahan/Desa
+1604112031,1604112,Cempaka Sakti,Kelurahan/Desa
+1604112032,1604112,Sukoharjo,Kelurahan/Desa
+1604113001,1604113,Keban Agung Sp I,Kelurahan/Desa
+1604113002,1604113,Pandan Arang,Kelurahan/Desa
+1604113003,1604113,Keban Agung,Kelurahan/Desa
+1604113004,1604113,Tanjung Kurung,Kelurahan/Desa
+1604113005,1604113,Nanjungan,Kelurahan/Desa
+1604113006,1604113,Pulau Beringin,Kelurahan/Desa
+1604113007,1604113,Tanjung Beringin,Kelurahan/Desa
+1604113008,1604113,Pagar Jati,Kelurahan/Desa
+1604113009,1604113,Jagabaya,Kelurahan/Desa
+1604113010,1604113,Sirah Pulau,Kelurahan/Desa
+1604113011,1604113,Tanjung Alam,Kelurahan/Desa
+1604113012,1604113,Karang Cahaya,Kelurahan/Desa
+1604113013,1604113,Pagardin,Kelurahan/Desa
+1604113014,1604113,Banuayu,Kelurahan/Desa
+1604113015,1604113,Beringin Jaya,Kelurahan/Desa
+1604113016,1604113,Padang Bindu,Kelurahan/Desa
+1604113017,1604113,Lubuk Lungkang,Kelurahan/Desa
+1604113018,1604113,Beringin Janggut,Kelurahan/Desa
+1604114001,1604114,Tanjung Aur,Kelurahan/Desa
+1604114002,1604114,Sukaraja,Kelurahan/Desa
+1604114003,1604114,Maspura,Kelurahan/Desa
+1604114004,1604114,Sungai Laru,Kelurahan/Desa
+1604114005,1604114,Tanjung Baru,Kelurahan/Desa
+1604114006,1604114,Muara Lingsing,Kelurahan/Desa
+1604114007,1604114,Kepala Siring,Kelurahan/Desa
+1604114008,1604114,Banyumas,Kelurahan/Desa
+1604114009,1604114,Purbamas,Kelurahan/Desa
+1604120026,1604120,Pagar Agung,Kelurahan/Desa
+1604120027,1604120,Pagar Sari,Kelurahan/Desa
+1604120028,1604120,Pagar Negara,Kelurahan/Desa
+1604120029,1604120,Kota Baru,Kelurahan/Desa
+1604120030,1604120,Bandar Agung,Kelurahan/Desa
+1604120031,1604120,Pasar Lama,Kelurahan/Desa
+1604120033,1604120,Rd. Pjka Lahat,Kelurahan/Desa
+1604120034,1604120,Gunung Gajah,Kelurahan/Desa
+1604120035,1604120,Lahat Tengah,Kelurahan/Desa
+1604120036,1604120,Sukanegara,Kelurahan/Desa
+1604120037,1604120,Selawi,Kelurahan/Desa
+1604120039,1604120,Pasar Baru,Kelurahan/Desa
+1604120040,1604120,Pasar Bawah,Kelurahan/Desa
+1604120043,1604120,Kota Jaya,Kelurahan/Desa
+1604120044,1604120,Kota Negara,Kelurahan/Desa
+1604120045,1604120,Rd. Pjka Bandar Agung,Kelurahan/Desa
+1604120049,1604120,Manggul,Kelurahan/Desa
+1604120050,1604120,Ulak Lebar,Kelurahan/Desa
+1604120051,1604120,Padang Lengkuas,Kelurahan/Desa
+1604120052,1604120,Kota Raya,Kelurahan/Desa
+1604120053,1604120,Keban,Kelurahan/Desa
+1604120054,1604120,Senabing,Kelurahan/Desa
+1604120055,1604120,Makartitama,Kelurahan/Desa
+1604120056,1604120,Ulak Mas,Kelurahan/Desa
+1604120057,1604120,Sari Bunga Mas,Kelurahan/Desa
+1604120058,1604120,Girimuliya,Kelurahan/Desa
+1604120059,1604120,Bandar Jaya,Kelurahan/Desa
+1604120060,1604120,Talang Jawa Selatan,Kelurahan/Desa
+1604120061,1604120,Talang Jawa Utara,Kelurahan/Desa
+1604121001,1604121,Sugi Waras,Kelurahan/Desa
+1604121002,1604121,Tanjung Periuk,Kelurahan/Desa
+1604121003,1604121,Tanjung Karangan,Kelurahan/Desa
+1604121004,1604121,Muara Tandi,Kelurahan/Desa
+1604121005,1604121,Darmo,Kelurahan/Desa
+1604121006,1604121,Endikat Ilir,Kelurahan/Desa
+1604121007,1604121,Tanjung Baru,Kelurahan/Desa
+1604121008,1604121,Ngalam Baru,Kelurahan/Desa
+1604121009,1604121,Mandi Angin,Kelurahan/Desa
+1604121010,1604121,Tanjung Dalam,Kelurahan/Desa
+1604121011,1604121,Tanah Pilih,Kelurahan/Desa
+1604121012,1604121,Tanjung Beringin,Kelurahan/Desa
+1604121013,1604121,Batay,Kelurahan/Desa
+1604121014,1604121,Sukarami,Kelurahan/Desa
+1604121015,1604121,Suka Makmur,Kelurahan/Desa
+1604122001,1604122,Sukajadi,Kelurahan/Desa
+1604122002,1604122,Penandingan,Kelurahan/Desa
+1604122003,1604122,Tanjung Agung,Kelurahan/Desa
+1604122004,1604122,Talang Tinggi,Kelurahan/Desa
+1604122005,1604122,Batu Niding,Kelurahan/Desa
+1604122006,1604122,Tanjung Raya,Kelurahan/Desa
+1604122007,1604122,Lubuk Mabar,Kelurahan/Desa
+1604122008,1604122,Pagar Agung,Kelurahan/Desa
+1604122009,1604122,Lubuk Tuba,Kelurahan/Desa
+1604122010,1604122,Lubuk Atung,Kelurahan/Desa
+1604122011,1604122,Muara Cawang,Kelurahan/Desa
+1604123001,1604123,Tanjung Payang,Kelurahan/Desa
+1604123002,1604123,Banjar Negara,Kelurahan/Desa
+1604123003,1604123,Tanjung Tebat,Kelurahan/Desa
+1604123004,1604123,Karang Anyar,Kelurahan/Desa
+1604123005,1604123,Nantal,Kelurahan/Desa
+1604123006,1604123,Karang Baru,Kelurahan/Desa
+1604123007,1604123,Talang Sejemput,Kelurahan/Desa
+1604123008,1604123,Muara Cawang,Kelurahan/Desa
+1604123009,1604123,Talang Sawah,Kelurahan/Desa
+1604123010,1604123,Kerung,Kelurahan/Desa
+1604131010,1604131,Ulak Pandan,Kelurahan/Desa
+1604131011,1604131,Negeri Agung,Kelurahan/Desa
+1604131012,1604131,Lebak Budi,Kelurahan/Desa
+1604131013,1604131,Suka Cinta,Kelurahan/Desa
+1604131014,1604131,Gunung Agung,Kelurahan/Desa
+1604131015,1604131,Tanjung Pinang,Kelurahan/Desa
+1604131016,1604131,Suka Marga,Kelurahan/Desa
+1604131017,1604131,Payo,Kelurahan/Desa
+1604131018,1604131,Karang Endah,Kelurahan/Desa
+1604131019,1604131,Muara Temiang,Kelurahan/Desa
+1604131020,1604131,Lubuk Kepayang,Kelurahan/Desa
+1604131021,1604131,Tanjung Telang,Kelurahan/Desa
+1604131022,1604131,Kebur,Kelurahan/Desa
+1604131023,1604131,Tanjung Baru,Kelurahan/Desa
+1604131024,1604131,Muara Maung,Kelurahan/Desa
+1604131025,1604131,Telatang,Kelurahan/Desa
+1604131026,1604131,Merapi,Kelurahan/Desa
+1604131027,1604131,Purwosari,Kelurahan/Desa
+1604131028,1604131,Karang Rejo,Kelurahan/Desa
+1604132001,1604132,Sirah Pulau,Kelurahan/Desa
+1604132002,1604132,Prabu Menang,Kelurahan/Desa
+1604132003,1604132,Gunung Kembang,Kelurahan/Desa
+1604132004,1604132,Arahan,Kelurahan/Desa
+1604132005,1604132,Banjar Sari,Kelurahan/Desa
+1604132006,1604132,Tanjung Jambu,Kelurahan/Desa
+1604132007,1604132,Muara Lawai,Kelurahan/Desa
+1604132008,1604132,Lebuay Bandung,Kelurahan/Desa
+1604132009,1604132,Nanjungan,Kelurahan/Desa
+1604132010,1604132,Gedung Agung,Kelurahan/Desa
+1604132011,1604132,Tanjung Lontar,Kelurahan/Desa
+1604132012,1604132,Sengkuang,Kelurahan/Desa
+1604132013,1604132,Cempaka Wangi,Kelurahan/Desa
+1604132014,1604132,Lematang Jaya,Kelurahan/Desa
+1604133001,1604133,Geramat,Kelurahan/Desa
+1604133002,1604133,Lubuk Betung,Kelurahan/Desa
+1604133003,1604133,Perangai,Kelurahan/Desa
+1604133004,1604133,Tanjung Beringin,Kelurahan/Desa
+1604133005,1604133,Suka Merindu,Kelurahan/Desa
+1604133006,1604133,Talang Akar,Kelurahan/Desa
+1604133007,1604133,Lubuk Pedara,Kelurahan/Desa
+1604133008,1604133,Tanjung Menang,Kelurahan/Desa
+1604133009,1604133,Padang,Kelurahan/Desa
+1605030003,1605030,Pasenan,Kelurahan/Desa
+1605030015,1605030,Sukaraya,Kelurahan/Desa
+1605030016,1605030,Terawas,Kelurahan/Desa
+1605030018,1605030,Babat,Kelurahan/Desa
+1605030019,1605030,Suka Mana,Kelurahan/Desa
+1605030020,1605030,Padu Raksa,Kelurahan/Desa
+1605030021,1605030,Sumber Karya,Kelurahan/Desa
+1605030022,1605030,Sri Mulyo,Kelurahan/Desa
+1605030023,1605030,Sukakarya,Kelurahan/Desa
+1605030024,1605030,Sukarejo,Kelurahan/Desa
+1605030027,1605030,Sukamerindu,Kelurahan/Desa
+1605030035,1605030,Kosgoro,Kelurahan/Desa
+1605030036,1605030,Sukaraya Baru,Kelurahan/Desa
+1605031001,1605031,Selangit,Kelurahan/Desa
+1605031002,1605031,Taba Remanik,Kelurahan/Desa
+1605031003,1605031,Taba Tengah,Kelurahan/Desa
+1605031004,1605031,Taba Renah,Kelurahan/Desa
+1605031005,1605031,Prabu Menang,Kelurahan/Desa
+1605031006,1605031,Taba Gindo,Kelurahan/Desa
+1605031007,1605031,Muara Nilau,Kelurahan/Desa
+1605031008,1605031,Karang Panggung,Kelurahan/Desa
+1605031009,1605031,Batu Gane,Kelurahan/Desa
+1605031010,1605031,Napal Melintang,Kelurahan/Desa
+1605031011,1605031,Lubuk Ngin,Kelurahan/Desa
+1605031012,1605031,Lubuk Ngin Baru,Kelurahan/Desa
+1605032001,1605032,Sumber Jaya,Kelurahan/Desa
+1605032002,1605032,Sumber Harta,Kelurahan/Desa
+1605032003,1605032,Jambu Rejo,Kelurahan/Desa
+1605032004,1605032,Suka Maju,Kelurahan/Desa
+1605032005,1605032,Sumber Sari,Kelurahan/Desa
+1605032006,1605032,Suka Mulya,Kelurahan/Desa
+1605032007,1605032,Suka Jaya,Kelurahan/Desa
+1605032008,1605032,Sukarami,Kelurahan/Desa
+1605032009,1605032,Madang,Kelurahan/Desa
+1605032010,1605032,Sumber Asri,Kelurahan/Desa
+1605040001,1605040,Tegal Rejo,Kelurahan/Desa
+1605040002,1605040,Widodo,Kelurahan/Desa
+1605040003,1605040,Surodadi,Kelurahan/Desa
+1605040004,1605040,Srikaton,Kelurahan/Desa
+1605040005,1605040,Kali Bening,Kelurahan/Desa
+1605040006,1605040,Trikoyo,Kelurahan/Desa
+1605040007,1605040,Nawangsasi,Kelurahan/Desa
+1605040008,1605040,Sukomulio,Kelurahan/Desa
+1605040009,1605040,Wonokerto,Kelurahan/Desa
+1605040010,1605040,Wukir Sari,Kelurahan/Desa
+1605040011,1605040,Mataram,Kelurahan/Desa
+1605040012,1605040,Ngadirejo,Kelurahan/Desa
+1605040013,1605040,Sidoharjo,Kelurahan/Desa
+1605040014,1605040,Tambah Asri,Kelurahan/Desa
+1605040015,1605040,Wonorejo,Kelurahan/Desa
+1605040016,1605040,Dwijaya,Kelurahan/Desa
+1605040017,1605040,Siti Harjo,Kelurahan/Desa
+1605040018,1605040,Triwikaton,Kelurahan/Desa
+1605041001,1605041,Mangun Harjo,Kelurahan/Desa
+1605041002,1605041,Mardiharjo,Kelurahan/Desa
+1605041003,1605041,Rejosari,Kelurahan/Desa
+1605041004,1605041,Kertosari,Kelurahan/Desa
+1605041005,1605041,Bangun Sari,Kelurahan/Desa
+1605041006,1605041,Pagarsari,Kelurahan/Desa
+1605041007,1605041,Purwodadi,Kelurahan/Desa
+1605041008,1605041,Purwa Karya,Kelurahan/Desa
+1605041009,1605041,Karyadadi,Kelurahan/Desa
+1605041010,1605041,Sadar Karya,Kelurahan/Desa
+1605041011,1605041,Trikarya,Kelurahan/Desa
+1605050014,1605050,Pedang,Kelurahan/Desa
+1605050015,1605050,Muara Beliti Baru,Kelurahan/Desa
+1605050017,1605050,Pasar Muara Beliti,Kelurahan/Desa
+1605050018,1605050,Suro,Kelurahan/Desa
+1605050019,1605050,Bumi Agung,Kelurahan/Desa
+1605050020,1605050,Mana Resmi,Kelurahan/Desa
+1605050025,1605050,Tanah Periuk I,Kelurahan/Desa
+1605050026,1605050,Ketuan Jaya,Kelurahan/Desa
+1605050027,1605050,Air Satan,Kelurahan/Desa
+1605050028,1605050,Durian Remuk,Kelurahan/Desa
+1605050029,1605050,Satan Indah Jaya,Kelurahan/Desa
+1605050030,1605050,Air Lesing,Kelurahan/Desa
+1605051001,1605051,Rantau Serik,Kelurahan/Desa
+1605051002,1605051,Kebur,Kelurahan/Desa
+1605051003,1605051,Lubuk Besar,Kelurahan/Desa
+1605051004,1605051,Batu Bandung,Kelurahan/Desa
+1605051005,1605051,Muara Kati Baru I,Kelurahan/Desa
+1605051006,1605051,Muara Kati Baru II,Kelurahan/Desa
+1605051007,1605051,Muara Kati Lama,Kelurahan/Desa
+1605051008,1605051,Rantau Bingin,Kelurahan/Desa
+1605051009,1605051,Simpang Gegas Temuan,Kelurahan/Desa
+1605051010,1605051,Kebur Jaya,Kelurahan/Desa
+1605060001,1605060,Margatunggal,Kelurahan/Desa
+1605060002,1605060,Sidodadi,Kelurahan/Desa
+1605060003,1605060,Sukowono,Kelurahan/Desa
+1605060004,1605060,Bumi Rejo,Kelurahan/Desa
+1605060005,1605060,Margoyoso,Kelurahan/Desa
+1605060006,1605060,Giriyoso,Kelurahan/Desa
+1605060007,1605060,Ngestiboga II,Kelurahan/Desa
+1605060008,1605060,Kertosono,Kelurahan/Desa
+1605060009,1605060,Purwodadi,Kelurahan/Desa
+1605060010,1605060,Donorojo,Kelurahan/Desa
+1605060011,1605060,Ngestiboga I,Kelurahan/Desa
+1605060012,1605060,Margatani,Kelurahan/Desa
+1605060013,1605060,Ngestikarya,Kelurahan/Desa
+1605061001,1605061,Rantau Alih,Kelurahan/Desa
+1605061002,1605061,Ciptodadi,Kelurahan/Desa
+1605061003,1605061,Sugi Waras,Kelurahan/Desa
+1605061004,1605061,Sukowarno,Kelurahan/Desa
+1605061005,1605061,Bangun Rejo,Kelurahan/Desa
+1605061006,1605061,Yudha Karya,Kelurahan/Desa
+1605061007,1605061,Sukarena,Kelurahan/Desa
+1605061008,1605061,Ciptodadi II,Kelurahan/Desa
+1605070019,1605070,Binjai,Kelurahan/Desa
+1605070020,1605070,Pulau Panggung,Kelurahan/Desa
+1605070031,1605070,Mandi Aur,Kelurahan/Desa
+1605070032,1605070,Tanjung Lama,Kelurahan/Desa
+1605070033,1605070,Muara Kelingi,Kelurahan/Desa
+1605070034,1605070,Lubuk Tua,Kelurahan/Desa
+1605070035,1605070,Mambang,Kelurahan/Desa
+1605070036,1605070,Bingin,Kelurahan/Desa
+1605070037,1605070,Marga Sakti,Kelurahan/Desa
+1605070038,1605070,Tugu Sempurna,Kelurahan/Desa
+1605070039,1605070,Beliti Jaya,Kelurahan/Desa
+1605070040,1605070,Karya Sakti,Kelurahan/Desa
+1605070041,1605070,Petrans Jaya,Kelurahan/Desa
+1605070042,1605070,Karya Mukti,Kelurahan/Desa
+1605070044,1605070,Karya Teladan,Kelurahan/Desa
+1605070045,1605070,Temuan Sari,Kelurahan/Desa
+1605070046,1605070,Temuan Jaya,Kelurahan/Desa
+1605070047,1605070,Mekarsari,Kelurahan/Desa
+1605070048,1605070,Mangan Jaya,Kelurahan/Desa
+1605070049,1605070,Lubuk Muda,Kelurahan/Desa
+1605070050,1605070,Sukamenang,Kelurahan/Desa
+1605071001,1605071,Kembang Tanjung,Kelurahan/Desa
+1605071002,1605071,G Kembang Baru,Kelurahan/Desa
+1605071003,1605071,G Kembang Lama,Kelurahan/Desa
+1605071004,1605071,Sungai Bunut,Kelurahan/Desa
+1605071005,1605071,Mekar Jaya,Kelurahan/Desa
+1605071006,1605071,Sungai Naik,Kelurahan/Desa
+1605071007,1605071,Mulyo Harjo,Kelurahan/Desa
+1605071008,1605071,Trimukti,Kelurahan/Desa
+1605071009,1605071,Suka Makmur,Kelurahan/Desa
+1605071010,1605071,Raksa Budi,Kelurahan/Desa
+1605071011,1605071,Kota Baru,Kelurahan/Desa
+1605071012,1605071,Pangkalan Tarum Lama,Kelurahan/Desa
+1605071013,1605071,Trijaya,Kelurahan/Desa
+1605071014,1605071,Sadu,Kelurahan/Desa
+1605071015,1605071,Bangun Jaya,Kelurahan/Desa
+1605071016,1605071,Tambangan,Kelurahan/Desa
+1605071017,1605071,Pelawe,Kelurahan/Desa
+1605071018,1605071,Lubuk Pauh,Kelurahan/Desa
+1605071019,1605071,Sembatu Jaya Spi,Kelurahan/Desa
+1605072001,1605072,Air Beliti,Kelurahan/Desa
+1605072002,1605072,Suka Mulya,Kelurahan/Desa
+1605072003,1605072,Jaya Tunggal,Kelurahan/Desa
+1605072004,1605072,Remayu,Kelurahan/Desa
+1605072005,1605072,Petunang,Kelurahan/Desa
+1605072006,1605072,Jaya Bakti,Kelurahan/Desa
+1605072007,1605072,Dharma Sakti,Kelurahan/Desa
+1605072008,1605072,Banpres,Kelurahan/Desa
+1605072009,1605072,Bamasko,Kelurahan/Desa
+1605072010,1605072,Lubuk Rumbai,Kelurahan/Desa
+1605072011,1605072,Leban Jaya,Kelurahan/Desa
+1605080001,1605080,Pian Raya,Kelurahan/Desa
+1605080002,1605080,Bumi Makmur,Kelurahan/Desa
+1605080003,1605080,Sp V Tri Anggunjaya,Kelurahan/Desa
+1605080004,1605080,Harapan Makmur,Kelurahan/Desa
+1605080005,1605080,Mukti Karya,Kelurahan/Desa
+1605080006,1605080,Sindang Laya,Kelurahan/Desa
+1605080007,1605080,Semangus,Kelurahan/Desa
+1605080008,1605080,Pendingan,Kelurahan/Desa
+1605080009,1605080,Anyar,Kelurahan/Desa
+1605080010,1605080,Muara Rengas,Kelurahan/Desa
+1605080011,1605080,Sungai Pinang,Kelurahan/Desa
+1605080012,1605080,Semeteh,Kelurahan/Desa
+1605080013,1605080,Lubuk Pandan,Kelurahan/Desa
+1605080014,1605080,Muara Lakitan,Kelurahan/Desa
+1605080015,1605080,Prabumulih I,Kelurahan/Desa
+1605080016,1605080,Prabumulih II,Kelurahan/Desa
+1605080017,1605080,Pelita Jaya,Kelurahan/Desa
+1605080018,1605080,Sido Mulyo,Kelurahan/Desa
+1605080019,1605080,Marga Baru,Kelurahan/Desa
+1605080020,1605080,Semangus Baru,Kelurahan/Desa
+1605090001,1605090,Wonosari,Kelurahan/Desa
+1605090002,1605090,Megang Sakti II,Kelurahan/Desa
+1605090003,1605090,Megang Sakti IV,Kelurahan/Desa
+1605090004,1605090,Megang Sakti III,Kelurahan/Desa
+1605090005,1605090,Pagar Ayu,Kelurahan/Desa
+1605090006,1605090,Megang Sakti I,Kelurahan/Desa
+1605090007,1605090,Sumber Rejo,Kelurahan/Desa
+1605090008,1605090,Megang Sakti V,Kelurahan/Desa
+1605090009,1605090,Jajaran Baru II,Kelurahan/Desa
+1605090010,1605090,Muara Megang,Kelurahan/Desa
+1605090011,1605090,Marga Puspita,Kelurahan/Desa
+1605090012,1605090,Tegal Sari,Kelurahan/Desa
+1605090013,1605090,Campur Sari,Kelurahan/Desa
+1605090014,1605090,Mekarsari,Kelurahan/Desa
+1605090015,1605090,Karya Mulya,Kelurahan/Desa
+1605090016,1605090,Rejosari,Kelurahan/Desa
+1605090017,1605090,Trisakti,Kelurahan/Desa
+1605090018,1605090,Jajaran Baru I,Kelurahan/Desa
+1605090020,1605090,Mulyo Sari,Kelurahan/Desa
+1605090021,1605090,Muara Megang I,Kelurahan/Desa
+1605090022,1605090,Talang Ubi,Kelurahan/Desa
+1606010001,1606010,Air Balui,Kelurahan/Desa
+1606010002,1606010,Nganti,Kelurahan/Desa
+1606010003,1606010,Jud II,Kelurahan/Desa
+1606010004,1606010,Jud I,Kelurahan/Desa
+1606010005,1606010,Penggage,Kelurahan/Desa
+1606010006,1606010,Ngulak III,Kelurahan/Desa
+1606010007,1606010,Ngunang,Kelurahan/Desa
+1606010008,1606010,Ulak  Embacang,Kelurahan/Desa
+1606010009,1606010,Ngulak I,Kelurahan/Desa
+1606010010,1606010,Ngulak II,Kelurahan/Desa
+1606010011,1606010,Terusan,Kelurahan/Desa
+1606010012,1606010,Kemang,Kelurahan/Desa
+1606010013,1606010,Tanjung Raya,Kelurahan/Desa
+1606010014,1606010,Air Itam,Kelurahan/Desa
+1606010015,1606010,Keban II,Kelurahan/Desa
+1606010016,1606010,Keban I,Kelurahan/Desa
+1606010017,1606010,Panai,Kelurahan/Desa
+1606010018,1606010,Macang Sakti,Kelurahan/Desa
+1606010019,1606010,Ngulak,Kelurahan/Desa
+1606020026,1606020,Kasmaran,Kelurahan/Desa
+1606020027,1606020,Toman,Kelurahan/Desa
+1606020028,1606020,Babat,Kelurahan/Desa
+1606020029,1606020,Mangun Jaya,Kelurahan/Desa
+1606020030,1606020,Muara Punjung,Kelurahan/Desa
+1606020031,1606020,Beruga,Kelurahan/Desa
+1606020032,1606020,Sugiwaras,Kelurahan/Desa
+1606020033,1606020,Sugi Raya,Kelurahan/Desa
+1606020034,1606020,Sereka,Kelurahan/Desa
+1606020035,1606020,Sri Mulyo,Kelurahan/Desa
+1606020036,1606020,Sungai Angit,Kelurahan/Desa
+1606020037,1606020,Bangun Sari,Kelurahan/Desa
+1606020038,1606020,Pangkalan Jaya,Kelurahan/Desa
+1606021001,1606021,Pengaturan,Kelurahan/Desa
+1606021002,1606021,Pinggap,Kelurahan/Desa
+1606021003,1606021,Tanah Abang,Kelurahan/Desa
+1606021004,1606021,Talang Leban,Kelurahan/Desa
+1606021005,1606021,Saud,Kelurahan/Desa
+1606021006,1606021,Bukit Sejahtera,Kelurahan/Desa
+1606021007,1606021,Bukit Selabu Upt II,Kelurahan/Desa
+1606021008,1606021,Tanjung Bali,Kelurahan/Desa
+1606021009,1606021,Lubuk Buah,Kelurahan/Desa
+1606021010,1606021,Bukit Pangkuasan Upt IV,Kelurahan/Desa
+1606021011,1606021,Talang Buluh,Kelurahan/Desa
+1606021012,1606021,Sungai Napal,Kelurahan/Desa
+1606021013,1606021,Pangkalan Bulian,Kelurahan/Desa
+1606021014,1606021,Lubuk Bintialo,Kelurahan/Desa
+1606021015,1606021,Sako Suban,Kelurahan/Desa
+1606021016,1606021,Ulak Kembang,Kelurahan/Desa
+1606022001,1606022,"Bangun Harjo (Sp6,8)",Kelurahan/Desa
+1606022002,1606022,"Sukamaju (Sp5,7)",Kelurahan/Desa
+1606022003,1606022,Suka Makmur,Kelurahan/Desa
+1606022004,1606022,"Suka Damai (Sp2,4)",Kelurahan/Desa
+1606022005,1606022,"Sido Mukti (Sp1,3)",Kelurahan/Desa
+1606022006,1606022,Sukajaya (Sp.3),Kelurahan/Desa
+1606022007,1606022,"Sidorahayu (B1,2)",Kelurahan/Desa
+1606022008,1606022,Bukit Indah (B3),Kelurahan/Desa
+1606022009,1606022,"Air Putih Ulu (C1,2)",Kelurahan/Desa
+1606022010,1606022,Cinta Karya (C3),Kelurahan/Desa
+1606022011,1606022,Sialang Agung (C2),Kelurahan/Desa
+1606022012,1606022,Warga Mulya (B4),Kelurahan/Desa
+1606022013,1606022,Tanjung Kaputran (B5),Kelurahan/Desa
+1606022014,1606022,Air Putih Ilir,Kelurahan/Desa
+1606022015,1606022,Sumber Rezeki,Kelurahan/Desa
+1606023001,1606023,Rantau Panjang,Kelurahan/Desa
+1606023002,1606023,Karang Anyar,Kelurahan/Desa
+1606023003,1606023,Karang Waru,Kelurahan/Desa
+1606023004,1606023,Bumi Ayu,Kelurahan/Desa
+1606023005,1606023,Ulak Paceh,Kelurahan/Desa
+1606023006,1606023,Tanjung Durian,Kelurahan/Desa
+1606023007,1606023,Napal,Kelurahan/Desa
+1606023008,1606023,Rantau Kasih,Kelurahan/Desa
+1606023009,1606023,Karang Ringin II,Kelurahan/Desa
+1606023010,1606023,Karang Ringin I,Kelurahan/Desa
+1606023011,1606023,Ulak Teberau,Kelurahan/Desa
+1606023012,1606023,Simpang Sari,Kelurahan/Desa
+1606023013,1606023,Ulak Paceh Jaya,Kelurahan/Desa
+1606023014,1606023,Talang Piase,Kelurahan/Desa
+1606023015,1606023,Pandan Dulang,Kelurahan/Desa
+1606030001,1606030,Jirak,Kelurahan/Desa
+1606030002,1606030,Talang Mandung,Kelurahan/Desa
+1606030003,1606030,Sungai Dua,Kelurahan/Desa
+1606030004,1606030,Setia Jaya,Kelurahan/Desa
+1606030005,1606030,Pagar Kaya,Kelurahan/Desa
+1606030006,1606030,Suka Lali,Kelurahan/Desa
+1606030007,1606030,Kertayu,Kelurahan/Desa
+1606030008,1606030,Sindang Marga,Kelurahan/Desa
+1606030009,1606030,Tebing Bulang,Kelurahan/Desa
+1606030010,1606030,Gajah Mati,Kelurahan/Desa
+1606030011,1606030,Rantau Sialang,Kelurahan/Desa
+1606030012,1606030,Kerta Jaya,Kelurahan/Desa
+1606030013,1606030,Rukun Rahayu,Kelurahan/Desa
+1606030014,1606030,Mekarjaya D.1,Kelurahan/Desa
+1606030015,1606030,Rejo Sari,Kelurahan/Desa
+1606030016,1606030,Jembatan Gantung,Kelurahan/Desa
+1606030017,1606030,Baru Jaya,Kelurahan/Desa
+1606030018,1606030,Layan,Kelurahan/Desa
+1606030019,1606030,Keramat Jaya,Kelurahan/Desa
+1606030020,1606030,Sinar Jaya,Kelurahan/Desa
+1606030021,1606030,Talang Simpang,Kelurahan/Desa
+1606030022,1606030,Bangkit Jaya,Kelurahan/Desa
+1606040001,1606040,Rimbah Ukur,Kelurahan/Desa
+1606040002,1606040,Sungai Medak,Kelurahan/Desa
+1606040003,1606040,Sungai Batang/ C.6,Kelurahan/Desa
+1606040004,1606040,Sukarami,Kelurahan/Desa
+1606040005,1606040,Soak Baru,Kelurahan/Desa
+1606040006,1606040,Balai Agung,Kelurahan/Desa
+1606040007,1606040,Serasan Jaya,Kelurahan/Desa
+1606040008,1606040,Kayuara,Kelurahan/Desa
+1606040009,1606040,Lumpatan,Kelurahan/Desa
+1606040010,1606040,Bailangu,Kelurahan/Desa
+1606040022,1606040,Muara Teladan,Kelurahan/Desa
+1606040023,1606040,Bandar Jaya,Kelurahan/Desa
+1606040024,1606040,Lumpatan II,Kelurahan/Desa
+1606040025,1606040,Bailangu Timur,Kelurahan/Desa
+1606041001,1606041,Danau Cala,Kelurahan/Desa
+1606041002,1606041,Rantau Keroya,Kelurahan/Desa
+1606041003,1606041,Teluk Kijing I,Kelurahan/Desa
+1606041004,1606041,Tanjung Agung Barat,Kelurahan/Desa
+1606041005,1606041,Tanjung Agung Timur,Kelurahan/Desa
+1606041006,1606041,Tanjung Agung Utara,Kelurahan/Desa
+1606041007,1606041,Purwosari,Kelurahan/Desa
+1606041008,1606041,Teluk Kijing III,Kelurahan/Desa
+1606041009,1606041,Teluk Kijing II,Kelurahan/Desa
+1606041010,1606041,Petaling,Kelurahan/Desa
+1606041011,1606041,Lais,Kelurahan/Desa
+1606041012,1606041,Teluk,Kelurahan/Desa
+1606041013,1606041,Epil,Kelurahan/Desa
+1606041014,1606041,Tanjung Agung Selatan,Kelurahan/Desa
+1606041015,1606041,Lais Utara,Kelurahan/Desa
+1606090007,1606090,Sungai Lilin,Kelurahan/Desa
+1606090018,1606090,Sumber Rejeki,Kelurahan/Desa
+1606090019,1606090,Sukadamai Baru,Kelurahan/Desa
+1606090020,1606090,Cinta Damai,Kelurahan/Desa
+1606090021,1606090,Berlian Makmur,Kelurahan/Desa
+1606090022,1606090,Srigunung,Kelurahan/Desa
+1606090023,1606090,Bumi Kencana,Kelurahan/Desa
+1606090024,1606090,Panca Tunggal,Kelurahan/Desa
+1606090025,1606090,Mulyorejo,Kelurahan/Desa
+1606090026,1606090,Linggo Sari,Kelurahan/Desa
+1606090027,1606090,Nusa Serasan,Kelurahan/Desa
+1606090028,1606090,Pinang Banjar,Kelurahan/Desa
+1606090029,1606090,Mekar Jadi,Kelurahan/Desa
+1606090035,1606090,Bukit Jaya,Kelurahan/Desa
+1606090036,1606090,Sungai Lilin Jaya,Kelurahan/Desa
+1606091001,1606091,Tenggaro,Kelurahan/Desa
+1606091002,1606091,Keluang,Kelurahan/Desa
+1606091003,1606091,Sumber Agung,Kelurahan/Desa
+1606091004,1606091,Karya Maju,Kelurahan/Desa
+1606091005,1606091,Tegal Mulya,Kelurahan/Desa
+1606091006,1606091,Mekar Jaya,Kelurahan/Desa
+1606091007,1606091,Loka Jaya,Kelurahan/Desa
+1606091008,1606091,Dawas,Kelurahan/Desa
+1606091009,1606091,Tanjung Dalam,Kelurahan/Desa
+1606091010,1606091,Cipta Praja,Kelurahan/Desa
+1606091011,1606091,Mekarsari,Kelurahan/Desa
+1606091012,1606091,Mulyo Asih,Kelurahan/Desa
+1606091013,1606091,Sido Rejo,Kelurahan/Desa
+1606091014,1606091,Sridamai,Kelurahan/Desa
+1606092001,1606092,Gajah Mati,Kelurahan/Desa
+1606092002,1606092,Tanjung Kerang,Kelurahan/Desa
+1606092003,1606092,Babat Banyuasin,Kelurahan/Desa
+1606092004,1606092,Supat,Kelurahan/Desa
+1606092005,1606092,Letang,Kelurahan/Desa
+1606092006,1606092,Suka Maju,Kelurahan/Desa
+1606092007,1606092,Langkap,Kelurahan/Desa
+1606092008,1606092,Tenggulang Jaya,Kelurahan/Desa
+1606092009,1606092,Bandar Tenggulang,Kelurahan/Desa
+1606092010,1606092,Sumber Jaya,Kelurahan/Desa
+1606092011,1606092,Tenggulang Baru,Kelurahan/Desa
+1606092012,1606092,Seratus Lapan,Kelurahan/Desa
+1606092013,1606092,Babat Ramba Jaya,Kelurahan/Desa
+1606092014,1606092,Supat Barat,Kelurahan/Desa
+1606092015,1606092,Supat Timur,Kelurahan/Desa
+1606092016,1606092,Gajah Muda,Kelurahan/Desa
+1606100027,1606100,Muara Merang,Kelurahan/Desa
+1606100028,1606100,Mangsang,Kelurahan/Desa
+1606100040,1606100,Tampang Baru,Kelurahan/Desa
+1606100041,1606100,Pulai Gading,Kelurahan/Desa
+1606100042,1606100,Muara Medak,Kelurahan/Desa
+1606100043,1606100,Kali Berau,Kelurahan/Desa
+1606100047,1606100,Sindang Marga,Kelurahan/Desa
+1606100048,1606100,Telang,Kelurahan/Desa
+1606100049,1606100,Mendis,Kelurahan/Desa
+1606100050,1606100,Simpang Bayat,Kelurahan/Desa
+1606100051,1606100,Pangkalan Bayat,Kelurahan/Desa
+1606100052,1606100,Pagar Desa,Kelurahan/Desa
+1606100053,1606100,Bayat Ilir,Kelurahan/Desa
+1606100054,1606100,Bayung Lencir,Kelurahan/Desa
+1606100055,1606100,Senawar Jaya,Kelurahan/Desa
+1606100056,1606100,Sukajaya,Kelurahan/Desa
+1606100057,1606100,Muara Bahar,Kelurahan/Desa
+1606100058,1606100,Mekar Jaya,Kelurahan/Desa
+1606100059,1606100,Kepayang,Kelurahan/Desa
+1606100060,1606100,Mendis Jaya,Kelurahan/Desa
+1606100061,1606100,Lubuk Harjo,Kelurahan/Desa
+1606100062,1606100,Bayung Lencir Indah,Kelurahan/Desa
+1606100063,1606100,Wonorejo,Kelurahan/Desa
+1606101001,1606101,Karang Agung,Kelurahan/Desa
+1606101002,1606101,Gali Sari,Kelurahan/Desa
+1606101003,1606101,Perumpung Raya,Kelurahan/Desa
+1606101004,1606101,Karang Makmur,Kelurahan/Desa
+1606101005,1606101,Karang Rejo,Kelurahan/Desa
+1606101006,1606101,Karya Mukti,Kelurahan/Desa
+1606101007,1606101,Mulya Agung,Kelurahan/Desa
+1606101008,1606101,Madya Mulya,Kelurahan/Desa
+1606101009,1606101,Karang Tirta,Kelurahan/Desa
+1606101010,1606101,Purwa Agung,Kelurahan/Desa
+1606101011,1606101,Tri Mulya Agung,Kelurahan/Desa
+1606101012,1606101,Ringin Agung,Kelurahan/Desa
+1606101013,1606101,Mekar Sari,Kelurahan/Desa
+1606101014,1606101,Sri Karang Rejo,Kelurahan/Desa
+1606101015,1606101,Karang Mukti,Kelurahan/Desa
+1606101016,1606101,Karang Sari,Kelurahan/Desa
+1606101017,1606101,Mulya Jaya,Kelurahan/Desa
+1606101018,1606101,Sari Agung,Kelurahan/Desa
+1606101019,1606101,Sukajadi,Kelurahan/Desa
+1606101020,1606101,Bandar Agung,Kelurahan/Desa
+1606101021,1606101,Mandala Sari,Kelurahan/Desa
+1606101022,1606101,Sri Gading,Kelurahan/Desa
+1606101023,1606101,Bumi Agung,Kelurahan/Desa
+1606101024,1606101,Agung Jaya,Kelurahan/Desa
+1606101025,1606101,Jaya Agung,Kelurahan/Desa
+1606101026,1606101,Suka Makmur,Kelurahan/Desa
+1606101027,1606101,Mekar Jaya,Kelurahan/Desa
+1606102001,1606102,Berojaya Timur,Kelurahan/Desa
+1606102002,1606102,Beji Mulyo,Kelurahan/Desa
+1606102003,1606102,Margo Mulyo,Kelurahan/Desa
+1606102004,1606102,Pandan Sari,Kelurahan/Desa
+1606102005,1606102,Simpang Tungkal,Kelurahan/Desa
+1606102006,1606102,Suka Damai,Kelurahan/Desa
+1606102007,1606102,Peninggalan,Kelurahan/Desa
+1606102008,1606102,Pangkalan Tungkal,Kelurahan/Desa
+1606102009,1606102,Berlian Jaya,Kelurahan/Desa
+1606102010,1606102,Sumber Harum,Kelurahan/Desa
+1606102011,1606102,Sumber Sari,Kelurahan/Desa
+1606102012,1606102,Srimulyo,Kelurahan/Desa
+1606102013,1606102,Banjar Jaya,Kelurahan/Desa
+1606102014,1606102,Sinar Harapan,Kelurahan/Desa
+1606102015,1606102,Sinar Tungkal,Kelurahan/Desa
+1606102016,1606102,Sido Mulyo,Kelurahan/Desa
+1607010001,1607010,Muara Abab,Kelurahan/Desa
+1607010002,1607010,Peldas,Kelurahan/Desa
+1607010003,1607010,Tanjung Pasir,Kelurahan/Desa
+1607010004,1607010,Tanjung Tiga,Kelurahan/Desa
+1607010005,1607010,Rantau Bayur,Kelurahan/Desa
+1607010006,1607010,Tebing Abang,Kelurahan/Desa
+1607010007,1607010,Pagar Bulan,Kelurahan/Desa
+1607010008,1607010,Lubuk Rengas,Kelurahan/Desa
+1607010009,1607010,Lebung,Kelurahan/Desa
+1607010010,1607010,Kemang Bejalu,Kelurahan/Desa
+1607010011,1607010,Tanjung Menang Musi,Kelurahan/Desa
+1607010012,1607010,Sri Jaya,Kelurahan/Desa
+1607010013,1607010,Sejagung,Kelurahan/Desa
+1607010014,1607010,Sungai Pinang,Kelurahan/Desa
+1607010015,1607010,Semuntul,Kelurahan/Desa
+1607010016,1607010,Talang Kemang,Kelurahan/Desa
+1607010017,1607010,Rantau Harapan,Kelurahan/Desa
+1607010018,1607010,Sungai Lilin,Kelurahan/Desa
+1607010019,1607010,Suka Rela,Kelurahan/Desa
+1607010020,1607010,Penandingan,Kelurahan/Desa
+1607010021,1607010,Sungai Naik,Kelurahan/Desa
+1607020001,1607020,Talang Jaya Indah,Kelurahan/Desa
+1607020002,1607020,Talang Jaya Mulya,Kelurahan/Desa
+1607020003,1607020,Talang Jaya Raya,Kelurahan/Desa
+1607020004,1607020,Pulau Rajak,Kelurahan/Desa
+1607020014,1607020,Lubuk Karet,Kelurahan/Desa
+1607020015,1607020,Betung,Kelurahan/Desa
+1607020016,1607020,Bukit,Kelurahan/Desa
+1607020017,1607020,Sri Kembang,Kelurahan/Desa
+1607020018,1607020,Talang Jaya Raya II,Kelurahan/Desa
+1607020020,1607020,Suka Mulya,Kelurahan/Desa
+1607020021,1607020,Rimba Asam,Kelurahan/Desa
+1607021001,1607021,Talang Ipuh,Kelurahan/Desa
+1607021002,1607021,Air Senggeris,Kelurahan/Desa
+1607021003,1607021,Lubuk Lancang,Kelurahan/Desa
+1607021004,1607021,Biyuku,Kelurahan/Desa
+1607021005,1607021,Rimba Terab,Kelurahan/Desa
+1607021006,1607021,Sedang,Kelurahan/Desa
+1607021007,1607021,Tanjung Laut,Kelurahan/Desa
+1607021008,1607021,Bengkuang,Kelurahan/Desa
+1607021009,1607021,Durian Daun,Kelurahan/Desa
+1607021010,1607021,Meranti,Kelurahan/Desa
+1607021011,1607021,Suka Raja,Kelurahan/Desa
+1607030001,1607030,Tabuan Asri (Sp VI),Kelurahan/Desa
+1607030002,1607030,Teluk Betung,Kelurahan/Desa
+1607030003,1607030,Banjarsari (Air Senda IV),Kelurahan/Desa
+1607030004,1607030,Buana Murti (Air Senda III),Kelurahan/Desa
+1607030005,1607030,Tirta Mulya (Air Senda I),Kelurahan/Desa
+1607030006,1607030,Senda Mukti (Air Senda II),Kelurahan/Desa
+1607030007,1607030,Budi Asih,Kelurahan/Desa
+1607030008,1607030,Wonosari Upt VII Pr I,Kelurahan/Desa
+1607030009,1607030,Majatra Upt VI Pr I,Kelurahan/Desa
+1607030010,1607030,Bumi Rejo,Kelurahan/Desa
+1607030011,1607030,Songo Makmur,Kelurahan/Desa
+1607030012,1607030,Mekar Sari Upt XI Pr II,Kelurahan/Desa
+1607030013,1607030,Sumber Mukti,Kelurahan/Desa
+1607030014,1607030,Wonodadi,Kelurahan/Desa
+1607030015,1607030,Rukun Makmur,Kelurahan/Desa
+1607030016,1607030,Wana Mukti,Kelurahan/Desa
+1607030017,1607030,Sumber Mulya,Kelurahan/Desa
+1607030018,1607030,Rawa Banda,Kelurahan/Desa
+1607030019,1607030,Sumber Agung,Kelurahan/Desa
+1607030020,1607030,Kelapa Dua,Kelurahan/Desa
+1607030021,1607030,Sumber Rejo,Kelurahan/Desa
+1607030022,1607030,Nunggal Sari,Kelurahan/Desa
+1607030023,1607030,Dana Mulya,Kelurahan/Desa
+1607030024,1607030,Sumber Rejeki,Kelurahan/Desa
+1607030025,1607030,Purwodadi,Kelurahan/Desa
+1607030026,1607030,Karang Manunggal,Kelurahan/Desa
+1607030027,1607030,Ringin Harjo,Kelurahan/Desa
+1607030028,1607030,Penuguan,Kelurahan/Desa
+1607030029,1607030,Mukut,Kelurahan/Desa
+1607031001,1607031,Teluk Tenggulang,Kelurahan/Desa
+1607031002,1607031,Sukamulya Upt I K A Ulu,Kelurahan/Desa
+1607031003,1607031,Sukaraja P.Rimau,Kelurahan/Desa
+1607031004,1607031,Karang Anyar,Kelurahan/Desa
+1607031005,1607031,Karang Mulya/Sumber Jaya,Kelurahan/Desa
+1607031006,1607031,Karang Asem,Kelurahan/Desa
+1607031007,1607031,Marga Rahayu,Kelurahan/Desa
+1607031008,1607031,Bumi Serdang,Kelurahan/Desa
+1607031009,1607031,Sidomulyo,Kelurahan/Desa
+1607031010,1607031,Keluang,Kelurahan/Desa
+1607031011,1607031,Bentayan,Kelurahan/Desa
+1607031012,1607031,Pancamulya Pertak II Sp 2,Kelurahan/Desa
+1607031013,1607031,Suka Jaya Pertak III,Kelurahan/Desa
+1607031014,1607031,Suka Karya,Kelurahan/Desa
+1607040001,1607040,Galang Tinggi,Kelurahan/Desa
+1607040002,1607040,Petaling,Kelurahan/Desa
+1607040003,1607040,Sidang Mas,Kelurahan/Desa
+1607040004,1607040,Ujung Tanjung,Kelurahan/Desa
+1607040005,1607040,Rimba Alai,Kelurahan/Desa
+1607040006,1607040,Terentang,Kelurahan/Desa
+1607040007,1607040,Tanjung Beringin,Kelurahan/Desa
+1607040008,1607040,Pelajau,Kelurahan/Desa
+1607040010,1607040,Regan Agung,Kelurahan/Desa
+1607040011,1607040,Pelajau Ilir,Kelurahan/Desa
+1607040012,1607040,Lubuk Saung,Kelurahan/Desa
+1607040013,1607040,Mulya Agung,Kelurahan/Desa
+1607040014,1607040,Pangkalan Balai,Kelurahan/Desa
+1607040015,1607040,Seterio,Kelurahan/Desa
+1607040016,1607040,Sri Bandung,Kelurahan/Desa
+1607040017,1607040,Tanjung Menang Darat,Kelurahan/Desa
+1607040018,1607040,Suka Mulya,Kelurahan/Desa
+1607040019,1607040,Kayuara Kuning,Kelurahan/Desa
+1607040020,1607040,Tanjung Agung,Kelurahan/Desa
+1607040021,1607040,Pangkalan Panji,Kelurahan/Desa
+1607040022,1607040,Langkan,Kelurahan/Desa
+1607040029,1607040,Tanjung Kepayang,Kelurahan/Desa
+1607040033,1607040,Kedondong Raye,Kelurahan/Desa
+1607040034,1607040,Suka Raja Baru,Kelurahan/Desa
+1607040037,1607040,Terlangu,Kelurahan/Desa
+1607040038,1607040,Rimba Balai,Kelurahan/Desa
+1607041001,1607041,Pulau,Kelurahan/Desa
+1607041002,1607041,Lalang Sembawa,Kelurahan/Desa
+1607041003,1607041,Rejodadi,Kelurahan/Desa
+1607041004,1607041,Mainan,Kelurahan/Desa
+1607041005,1607041,Limau,Kelurahan/Desa
+1607041006,1607041,Purwosari,Kelurahan/Desa
+1607041007,1607041,Limbang Mulya,Kelurahan/Desa
+1607041008,1607041,Sakomakmur,Kelurahan/Desa
+1607041009,1607041,Air Rengit / Pulau Muning,Kelurahan/Desa
+1607041010,1607041,Muara Damai,Kelurahan/Desa
+1607041011,1607041,Santan Sari,Kelurahan/Desa
+1607050001,1607050,Air Batu,Kelurahan/Desa
+1607050002,1607050,Sukamoro,Kelurahan/Desa
+1607050003,1607050,Sukajadi,Kelurahan/Desa
+1607050004,1607050,Pangkalan Benteng,Kelurahan/Desa
+1607050005,1607050,Gasing,Kelurahan/Desa
+1607050006,1607050,Kenten,Kelurahan/Desa
+1607050009,1607050,Sungai Rengit,Kelurahan/Desa
+1607050019,1607050,Talang Buluh,Kelurahan/Desa
+1607050020,1607050,Tanah Mas,Kelurahan/Desa
+1607050021,1607050,Kenten Laut,Kelurahan/Desa
+1607050022,1607050,Talang Keramat,Kelurahan/Desa
+1607050023,1607050,Sungai Rengit Murni,Kelurahan/Desa
+1607051001,1607051,Sebalik,Kelurahan/Desa
+1607051002,1607051,Tanjung Lago,Kelurahan/Desa
+1607051003,1607051,Manggar Raya,Kelurahan/Desa
+1607051004,1607051,Banyu Urip,Kelurahan/Desa
+1607051005,1607051,Suka Damai,Kelurahan/Desa
+1607051006,1607051,Muara Sugih,Kelurahan/Desa
+1607051007,1607051,Suka Tani,Kelurahan/Desa
+1607051008,1607051,Sri Menanti,Kelurahan/Desa
+1607051009,1607051,Bangun Sari,Kelurahan/Desa
+1607051010,1607051,Sumber Mekar Mukti,Kelurahan/Desa
+1607051011,1607051,Kuala Puntian,Kelurahan/Desa
+1607051012,1607051,Telang Sari,Kelurahan/Desa
+1607051013,1607051,Mulya Sari,Kelurahan/Desa
+1607051014,1607051,Purwosari,Kelurahan/Desa
+1607051015,1607051,Bunga Karang,Kelurahan/Desa
+1607060017,1607060,Sungai Rebo,Kelurahan/Desa
+1607060018,1607060,Sungai Gerong,Kelurahan/Desa
+1607060019,1607060,Mariana,Kelurahan/Desa
+1607060026,1607060,Tirto Sari,Kelurahan/Desa
+1607060027,1607060,Pematang Palas,Kelurahan/Desa
+1607060028,1607060,Perajen,Kelurahan/Desa
+1607060029,1607060,Pulau Borang,Kelurahan/Desa
+1607060030,1607060,Merah Mata,Kelurahan/Desa
+1607060031,1607060,Cinta Manis,Kelurahan/Desa
+1607060032,1607060,Perambahan,Kelurahan/Desa
+1607060044,1607060,Mariana Ilir,Kelurahan/Desa
+1607060045,1607060,Duren Ijo,Kelurahan/Desa
+1607060051,1607060,Perambahan Baru,Kelurahan/Desa
+1607061001,1607061,Sidomulyo,Kelurahan/Desa
+1607061002,1607061,Cinta Manis Baru,Kelurahan/Desa
+1607061003,1607061,Nusa Makmur,Kelurahan/Desa
+1607061004,1607061,Sebokor,Kelurahan/Desa
+1607061005,1607061,Rimba Jaya,Kelurahan/Desa
+1607061006,1607061,Panca Desa,Kelurahan/Desa
+1607061007,1607061,Teluk Tenggirik,Kelurahan/Desa
+1607061008,1607061,Padang Rejo,Kelurahan/Desa
+1607061009,1607061,Budi Mulyo,Kelurahan/Desa
+1607061010,1607061,Sido Makmur,Kelurahan/Desa
+1607061011,1607061,Kumbang Padang Permata,Kelurahan/Desa
+1607061012,1607061,Tirta Makmur,Kelurahan/Desa
+1607061013,1607061,Panca Mulya,Kelurahan/Desa
+1607061014,1607061,Muara Baru,Kelurahan/Desa
+1607061015,1607061,Air Kumdang Bhakti,Kelurahan/Desa
+1607061016,1607061,Sebubus,Kelurahan/Desa
+1607070001,1607070,Rambutan,Kelurahan/Desa
+1607070002,1607070,Kebon Sahang,Kelurahan/Desa
+1607070003,1607070,Pulau Parang,Kelurahan/Desa
+1607070004,1607070,Siju,Kelurahan/Desa
+1607070005,1607070,Tanah Lembak,Kelurahan/Desa
+1607070006,1607070,Parit,Kelurahan/Desa
+1607070007,1607070,Pelaju,Kelurahan/Desa
+1607070008,1607070,Suka Pindah,Kelurahan/Desa
+1607070009,1607070,Durian Gadis,Kelurahan/Desa
+1607070010,1607070,Tanjung Kerang,Kelurahan/Desa
+1607070011,1607070,Tanjung Merbu,Kelurahan/Desa
+1607070012,1607070,Gelebak Dalam,Kelurahan/Desa
+1607070013,1607070,Sako,Kelurahan/Desa
+1607070014,1607070,Pangkalan Gelebak,Kelurahan/Desa
+1607070015,1607070,Sungai Pinang,Kelurahan/Desa
+1607070016,1607070,Sungai Kedukan,Kelurahan/Desa
+1607070017,1607070,Sungai Dua,Kelurahan/Desa
+1607070018,1607070,Menten,Kelurahan/Desa
+1607070019,1607070,Desa Baru,Kelurahan/Desa
+1607070020,1607070,Jakabaring Selatan,Kelurahan/Desa
+1607080003,1607080,Muara Padang,Kelurahan/Desa
+1607080009,1607080,Karang Anyar,Kelurahan/Desa
+1607080010,1607080,Tanjung Baru,Kelurahan/Desa
+1607080011,1607080,Sumber Sari/Margo Mulyo,Kelurahan/Desa
+1607080012,1607080,Purwodadi,Kelurahan/Desa
+1607080013,1607080,Sumber Makmur,Kelurahan/Desa
+1607080014,1607080,Upt V Jalur 18/ Sidomulyo,Kelurahan/Desa
+1607080015,1607080,Air Gading,Kelurahan/Desa
+1607080016,1607080,Tirto Raharjo,Kelurahan/Desa
+1607080017,1607080,Marga Sugihan,Kelurahan/Desa
+1607080018,1607080,Sidorejo,Kelurahan/Desa
+1607080019,1607080,Sidomulyo,Kelurahan/Desa
+1607080020,1607080,Daya Makmur,Kelurahan/Desa
+1607080021,1607080,Daya Utama,Kelurahan/Desa
+1607080022,1607080,Tirta Jaya,Kelurahan/Desa
+1607081001,1607081,Daya Murni,Kelurahan/Desa
+1607081002,1607081,Daya Bangun Harjo,Kelurahan/Desa
+1607081003,1607081,Sumber Mulyo,Kelurahan/Desa
+1607081004,1607081,Margomulyo I Jalur 16,Kelurahan/Desa
+1607081005,1607081,Sugih Waras,Kelurahan/Desa
+1607081006,1607081,Indrapura,Kelurahan/Desa
+1607081007,1607081,Cendana,Kelurahan/Desa
+1607081008,1607081,Argo Mulyo,Kelurahan/Desa
+1607081009,1607081,Rejosari,Kelurahan/Desa
+1607081010,1607081,Tirto Harjo,Kelurahan/Desa
+1607081011,1607081,Daya Kusuma,Kelurahan/Desa
+1607081012,1607081,Margo Rukun,Kelurahan/Desa
+1607081013,1607081,Ganesha Mukti,Kelurahan/Desa
+1607081014,1607081,Gilirang,Kelurahan/Desa
+1607081015,1607081,Tirta Mulyo,Kelurahan/Desa
+1607081016,1607081,Beringin Agung,Kelurahan/Desa
+1607081017,1607081,Jalur Mulya,Kelurahan/Desa
+1607081018,1607081,Timbul Jaya,Kelurahan/Desa
+1607081019,1607081,Juru Taroh,Kelurahan/Desa
+1607081020,1607081,Kuala Sugihan,Kelurahan/Desa
+1607081021,1607081,Sido Makmur,Kelurahan/Desa
+1607081022,1607081,Mekar Jaya,Kelurahan/Desa
+1607090007,1607090,Upang Makmur,Kelurahan/Desa
+1607090008,1607090,Pangestu,Kelurahan/Desa
+1607090009,1607090,Makarti Jaya,Kelurahan/Desa
+1607090010,1607090,Tirta Kencana,Kelurahan/Desa
+1607090011,1607090,Tirta Mulya,Kelurahan/Desa
+1607090012,1607090,Pendowo Harjo,Kelurahan/Desa
+1607090013,1607090,Upang Mulya,Kelurahan/Desa
+1607090017,1607090,Purwosari,Kelurahan/Desa
+1607090019,1607090,Muara Baru,Kelurahan/Desa
+1607090020,1607090,Sungai Semut,Kelurahan/Desa
+1607090021,1607090,Tanjung Baru,Kelurahan/Desa
+1607090022,1607090,Tanjung Mas,Kelurahan/Desa
+1607091001,1607091,Srimulyo,Kelurahan/Desa
+1607091002,1607091,Srikaton,Kelurahan/Desa
+1607091003,1607091,Sidoharjo,Kelurahan/Desa
+1607091004,1607091,Bintaran,Kelurahan/Desa
+1607091005,1607091,Damarwulan,Kelurahan/Desa
+1607091006,1607091,Enggalrejo,Kelurahan/Desa
+1607091007,1607091,Air Solok Batu,Kelurahan/Desa
+1607091008,1607091,Salek Agung,Kelurahan/Desa
+1607091009,1607091,Salek Mukti,Kelurahan/Desa
+1607091010,1607091,Salek Jaya,Kelurahan/Desa
+1607091011,1607091,Salek Mulya,Kelurahan/Desa
+1607091012,1607091,Salek Makmur,Kelurahan/Desa
+1607091013,1607091,Upang,Kelurahan/Desa
+1607091014,1607091,Upang Marga,Kelurahan/Desa
+1607100016,1607100,Teluk Payo,Kelurahan/Desa
+1607100022,1607100,Sungsang III,Kelurahan/Desa
+1607100023,1607100,Sungsang I,Kelurahan/Desa
+1607100024,1607100,Sungsang II,Kelurahan/Desa
+1607100025,1607100,Sumber Rejeki,Kelurahan/Desa
+1607100026,1607100,Sri Agung,Kelurahan/Desa
+1607100027,1607100,Karang Sari,Kelurahan/Desa
+1607100028,1607100,Majuria,Kelurahan/Desa
+1607100029,1607100,Tabala Jaya,Kelurahan/Desa
+1607100030,1607100,Sungsang IV,Kelurahan/Desa
+1607100031,1607100,Tanah Pilih,Kelurahan/Desa
+1607100032,1607100,Jati Sari,Kelurahan/Desa
+1607100033,1607100,Perajen Jaya,Kelurahan/Desa
+1607100034,1607100,Rimau Sungsang,Kelurahan/Desa
+1607100037,1607100,Muara Sungsang,Kelurahan/Desa
+1607100038,1607100,Marga Sungsang,Kelurahan/Desa
+1607100039,1607100,Mekar Sari,Kelurahan/Desa
+1607110001,1607110,Mukti Jaya,Kelurahan/Desa
+1607110002,1607110,Mekar Sari (Upt XII),Kelurahan/Desa
+1607110003,1607110,Telang Jaya,Kelurahan/Desa
+1607110004,1607110,Telang Makmur,Kelurahan/Desa
+1607110005,1607110,Sumber Hidup,Kelurahan/Desa
+1607110006,1607110,Telang Rejo,Kelurahan/Desa
+1607110007,1607110,Telang Karya,Kelurahan/Desa
+1607110012,1607110,Sumber Mulya,Kelurahan/Desa
+1607110013,1607110,Marga Rahayu,Kelurahan/Desa
+1607110018,1607110,Panca Mukti,Kelurahan/Desa
+1607110023,1607110,Mekar Mukti,Kelurahan/Desa
+1607110024,1607110,Talang Indah,Kelurahan/Desa
+1607110025,1607110,Upang Jaya,Kelurahan/Desa
+1607110026,1607110,Upang Ceria,Kelurahan/Desa
+1607110027,1607110,Upang Cemara,Kelurahan/Desa
+1607110028,1607110,Upang Karya,Kelurahan/Desa
+1607111001,1607111,Karang Baru,Kelurahan/Desa
+1607111002,1607111,Karang Anyar,Kelurahan/Desa
+1607111003,1607111,Muara Telang Marga,Kelurahan/Desa
+1607111004,1607111,Sri Tiga,Kelurahan/Desa
+1607111005,1607111,Muara Telang,Kelurahan/Desa
+1607111006,1607111,Sumber Jaya,Kelurahan/Desa
+1607111007,1607111,Terusan Muara,Kelurahan/Desa
+1607111008,1607111,Terusan Tengah,Kelurahan/Desa
+1607111009,1607111,Terusan Dalam,Kelurahan/Desa
+1607111010,1607111,Talang Lubuk,Kelurahan/Desa
+1608010001,1608010,Kota Dalam,Kelurahan/Desa
+1608010002,1608010,Teluk Agung,Kelurahan/Desa
+1608010003,1608010,Tanjung Besar,Kelurahan/Desa
+1608010004,1608010,Pulau Duku,Kelurahan/Desa
+1608010005,1608010,Sinar Marga,Kelurahan/Desa
+1608010006,1608010,Kota Baru,Kelurahan/Desa
+1608010007,1608010,Galang Tinggi,Kelurahan/Desa
+1608010008,1608010,Sukaraja,Kelurahan/Desa
+1608010009,1608010,Srimenanti,Kelurahan/Desa
+1608010010,1608010,Kepayang,Kelurahan/Desa
+1608010011,1608010,Kemang Bandung,Kelurahan/Desa
+1608010012,1608010,Selabung Belimbing Jaya,Kelurahan/Desa
+1608010013,1608010,Air Baru,Kelurahan/Desa
+1608010014,1608010,Bunut,Kelurahan/Desa
+1608010015,1608010,Perean,Kelurahan/Desa
+1608020020,1608020,Way Timah,Kelurahan/Desa
+1608020021,1608020,Sipatuhu,Kelurahan/Desa
+1608020022,1608020,Air Rupik,Kelurahan/Desa
+1608020023,1608020,Banding Agung,Kelurahan/Desa
+1608020024,1608020,Surabaya,Kelurahan/Desa
+1608020025,1608020,Bandar Agung Ranau,Kelurahan/Desa
+1608020026,1608020,Sugih Waras,Kelurahan/Desa
+1608020027,1608020,Suka Negeri,Kelurahan/Desa
+1608020028,1608020,Rantau Nipis,Kelurahan/Desa
+1608020033,1608020,Merbau,Kelurahan/Desa
+1608020034,1608020,Tanjung Agung,Kelurahan/Desa
+1608020035,1608020,Telanai,Kelurahan/Desa
+1608020036,1608020,Tanjung Harapan,Kelurahan/Desa
+1608020037,1608020,Sidodadi,Kelurahan/Desa
+1608020038,1608020,Sipatuhu Dua,Kelurahan/Desa
+1608020039,1608020,Penantian,Kelurahan/Desa
+1608020040,1608020,Sukamaju,Kelurahan/Desa
+1608020041,1608020,Tangsi Agung,Kelurahan/Desa
+1608020042,1608020,Sumber Makmur,Kelurahan/Desa
+1608020043,1608020,Karang Indah,Kelurahan/Desa
+1608020044,1608020,Terap Mulia,Kelurahan/Desa
+1608020045,1608020,Surabaya Timur,Kelurahan/Desa
+1608021001,1608021,Sukajaya,Kelurahan/Desa
+1608021002,1608021,Kota Batu,Kelurahan/Desa
+1608021003,1608021,Pagar Dewa,Kelurahan/Desa
+1608021004,1608021,Tanjung Jati,Kelurahan/Desa
+1608021005,1608021,Gunung Aji,Kelurahan/Desa
+1608021006,1608021,Pilla,Kelurahan/Desa
+1608021007,1608021,Gunung Raya,Kelurahan/Desa
+1608021008,1608021,Remanam Jaya,Kelurahan/Desa
+1608021009,1608021,Way Wangi Seminung,Kelurahan/Desa
+1608021010,1608021,Tanjung Baru,Kelurahan/Desa
+1608021011,1608021,Mekar Sari,Kelurahan/Desa
+1608021012,1608021,Bumi Agung,Kelurahan/Desa
+1608021013,1608021,Kiwis Raya,Kelurahan/Desa
+1608021014,1608021,Sigigok Raya,Kelurahan/Desa
+1608021015,1608021,Gedung Ranau,Kelurahan/Desa
+1608021016,1608021,Bedeng Tiga,Kelurahan/Desa
+1608022001,1608022,Tanjung Kemala,Kelurahan/Desa
+1608022002,1608022,Sukamarga,Kelurahan/Desa
+1608022003,1608022,Subik,Kelurahan/Desa
+1608022004,1608022,Jepara,Kelurahan/Desa
+1608022005,1608022,Hangkusa,Kelurahan/Desa
+1608022006,1608022,Sukarami,Kelurahan/Desa
+1608022007,1608022,Simpang Sender,Kelurahan/Desa
+1608022008,1608022,Sumber Mulia,Kelurahan/Desa
+1608022009,1608022,Tanjung Setia,Kelurahan/Desa
+1608022010,1608022,Gedung Baru,Kelurahan/Desa
+1608022011,1608022,Padang Ratu,Kelurahan/Desa
+1608022012,1608022,Tanjung Sari,Kelurahan/Desa
+1608022013,1608022,Sukabumi,Kelurahan/Desa
+1608022014,1608022,Way Relai,Kelurahan/Desa
+1608022015,1608022,Tanjung Baru Ranau,Kelurahan/Desa
+1608022016,1608022,Simpang Sender Utara,Kelurahan/Desa
+1608022017,1608022,Simpang Sender Selatan,Kelurahan/Desa
+1608022018,1608022,Simpang Sender Timur,Kelurahan/Desa
+1608022019,1608022,Simpang Sender Tengah,Kelurahan/Desa
+1608022020,1608022,Sumber Jaya,Kelurahan/Desa
+1608022021,1608022,Pakhda Suka,Kelurahan/Desa
+1608022022,1608022,Serumpun Jaya,Kelurahan/Desa
+1608030001,1608030,Sipin,Kelurahan/Desa
+1608030002,1608030,Tanjung Durian,Kelurahan/Desa
+1608030003,1608030,Kota Way,Kelurahan/Desa
+1608030004,1608030,Karet Jaya,Kelurahan/Desa
+1608030005,1608030,Sri Menanti,Kelurahan/Desa
+1608030006,1608030,Talang Padang,Kelurahan/Desa
+1608030007,1608030,Serakat Jaya,Kelurahan/Desa
+1608030008,1608030,Durian Sembilan,Kelurahan/Desa
+1608030010,1608030,Sumber Ringin,Kelurahan/Desa
+1608030011,1608030,Kembang Tinggi,Kelurahan/Desa
+1608030012,1608030,Danau Jaya,Kelurahan/Desa
+1608030013,1608030,Sido Rahayu,Kelurahan/Desa
+1608030014,1608030,Sidodadi,Kelurahan/Desa
+1608030020,1608030,Sumber Raya,Kelurahan/Desa
+1608030021,1608030,Sinar Napalan,Kelurahan/Desa
+1608030022,1608030,Tanjung Jaya,Kelurahan/Desa
+1608030023,1608030,Sinar Baru,Kelurahan/Desa
+1608030024,1608030,Mekar Jaya,Kelurahan/Desa
+1608030025,1608030,Air Kelian,Kelurahan/Desa
+1608030026,1608030,Tanjung Sari,Kelurahan/Desa
+1608030027,1608030,Tanjung Baru,Kelurahan/Desa
+1608030028,1608030,Tanjung Menang,Kelurahan/Desa
+1608040012,1608040,Tanjung Sari,Kelurahan/Desa
+1608040014,1608040,Lubar,Kelurahan/Desa
+1608040015,1608040,Karang Agung,Kelurahan/Desa
+1608040016,1608040,Simpangan,Kelurahan/Desa
+1608040017,1608040,Bungin Campang,Kelurahan/Desa
+1608040020,1608040,Simpang Agung,Kelurahan/Desa
+1608040021,1608040,Sinar Mulyo,Kelurahan/Desa
+1608041001,1608041,Tanjung Beringin,Kelurahan/Desa
+1608041002,1608041,Bandar,Kelurahan/Desa
+1608041003,1608041,Jagaraga,Kelurahan/Desa
+1608041004,1608041,Damarpura,Kelurahan/Desa
+1608041005,1608041,Tekana,Kelurahan/Desa
+1608041006,1608041,Sinar Danau,Kelurahan/Desa
+1608041007,1608041,Tunas Jaya,Kelurahan/Desa
+1608041008,1608041,Gemiung,Kelurahan/Desa
+1608050013,1608050,Sukabanjar,Kelurahan/Desa
+1608050014,1608050,Sukaraja II,Kelurahan/Desa
+1608050017,1608050,Bumi Agung,Kelurahan/Desa
+1608050018,1608050,Batu Belang Jaya,Kelurahan/Desa
+1608050019,1608050,Kisau,Kelurahan/Desa
+1608050020,1608050,Pancur Pungah,Kelurahan/Desa
+1608050021,1608050,Pasar Muaradua,Kelurahan/Desa
+1608050022,1608050,Gunung Tiga,Kelurahan/Desa
+1608050023,1608050,Gedung Lepihan,Kelurahan/Desa
+1608050058,1608050,Pendagan,Kelurahan/Desa
+1608050059,1608050,Mehanggin,Kelurahan/Desa
+1608050064,1608050,Batu Belang 2,Kelurahan/Desa
+1608050065,1608050,Pelangki,Kelurahan/Desa
+1608050066,1608050,Datar,Kelurahan/Desa
+1608051002,1608051,Pelawi,Kelurahan/Desa
+1608051003,1608051,Bendi,Kelurahan/Desa
+1608051004,1608051,Gunung Cahya,Kelurahan/Desa
+1608051005,1608051,Ruos,Kelurahan/Desa
+1608051006,1608051,Bumi Jaya,Kelurahan/Desa
+1608051007,1608051,Banjar Agung,Kelurahan/Desa
+1608051008,1608051,Sukajaya,Kelurahan/Desa
+1608051009,1608051,Rantau Panjang,Kelurahan/Desa
+1608051010,1608051,Pekuwolan,Kelurahan/Desa
+1608051011,1608051,Majar,Kelurahan/Desa
+1608051012,1608051,Bumi Agung Jaya,Kelurahan/Desa
+1608060008,1608060,Tanjung Raya,Kelurahan/Desa
+1608060009,1608060,Sukarami,Kelurahan/Desa
+1608060010,1608060,Gunung Terang,Kelurahan/Desa
+1608060011,1608060,Negeri Agung,Kelurahan/Desa
+1608060012,1608060,Madura,Kelurahan/Desa
+1608060013,1608060,Negeri Batin,Kelurahan/Desa
+1608060014,1608060,Kota Karang,Kelurahan/Desa
+1608060015,1608060,Tanjung Menang Ilir,Kelurahan/Desa
+1608060016,1608060,Tanjung Menang Ulu,Kelurahan/Desa
+1608060017,1608060,Kenali,Kelurahan/Desa
+1608060018,1608060,Negeri Cahya,Kelurahan/Desa
+1608060019,1608060,Sukaraja I,Kelurahan/Desa
+1608060020,1608060,Tanjung Iman,Kelurahan/Desa
+1608060021,1608060,Talang Baru,Kelurahan/Desa
+1608060022,1608060,Bunga Mas,Kelurahan/Desa
+1608060023,1608060,Lubuk Liku,Kelurahan/Desa
+1608061001,1608061,Sukabumi,Kelurahan/Desa
+1608061002,1608061,Kota Agung,Kelurahan/Desa
+1608061003,1608061,Karang Pendeta,Kelurahan/Desa
+1608061004,1608061,Sukarena,Kelurahan/Desa
+1608061005,1608061,Surabaya,Kelurahan/Desa
+1608061006,1608061,Kuripan,Kelurahan/Desa
+1608061007,1608061,Peninggiran,Kelurahan/Desa
+1608061008,1608061,Kuripan 2,Kelurahan/Desa
+1608070001,1608070,Sugih Waras,Kelurahan/Desa
+1608070002,1608070,Padang Sari,Kelurahan/Desa
+1608070003,1608070,Padang Bindu,Kelurahan/Desa
+1608070004,1608070,Nagar Agung,Kelurahan/Desa
+1608070005,1608070,Saung Naga,Kelurahan/Desa
+1608070006,1608070,Negeri Batin Baru,Kelurahan/Desa
+1608070007,1608070,Kota Aman,Kelurahan/Desa
+1608070008,1608070,Peninjauan,Kelurahan/Desa
+1608070013,1608070,Blambangan,Kelurahan/Desa
+1608070014,1608070,Simpang Saga,Kelurahan/Desa
+1608070015,1608070,Perupus Blambangan,Kelurahan/Desa
+1608070016,1608070,Kagelang Blambangan,Kelurahan/Desa
+1608070017,1608070,Sukajadi Blambangan,Kelurahan/Desa
+1608070018,1608070,Bedeng Blambangan,Kelurahan/Desa
+1608071001,1608071,Penanggungan,Kelurahan/Desa
+1608071002,1608071,Tanjung Kurung,Kelurahan/Desa
+1608071003,1608071,Bumi Genap,Kelurahan/Desa
+1608071004,1608071,Gedung Nyawa,Kelurahan/Desa
+1608071005,1608071,Gedung Wani,Kelurahan/Desa
+1608071006,1608071,Sura,Kelurahan/Desa
+1608071007,1608071,Merpang,Kelurahan/Desa
+1608071008,1608071,Karang Endah,Kelurahan/Desa
+1608071009,1608071,Air Baru,Kelurahan/Desa
+1608080001,1608080,Balaian,Kelurahan/Desa
+1608080002,1608080,Berasang,Kelurahan/Desa
+1608080003,1608080,Tebat Gabus,Kelurahan/Desa
+1608080004,1608080,Padang Lay,Kelurahan/Desa
+1608080005,1608080,Danau Rata,Kelurahan/Desa
+1608080006,1608080,Pulau Panggung,Kelurahan/Desa
+1608080007,1608080,Ulak Pandan,Kelurahan/Desa
+1608080008,1608080,Gunung Megang,Kelurahan/Desa
+1608080009,1608080,Tenang,Kelurahan/Desa
+1608080010,1608080,Padang Bindu,Kelurahan/Desa
+1608080011,1608080,Kota Padang,Kelurahan/Desa
+1608080012,1608080,Muara Payang,Kelurahan/Desa
+1608080013,1608080,Siring Agung,Kelurahan/Desa
+1608080014,1608080,Pajar Bulan,Kelurahan/Desa
+1608080015,1608080,Bandar Alam Lama,Kelurahan/Desa
+1608080016,1608080,Simpang Empat,Kelurahan/Desa
+1608080017,1608080,Simpang Tiga,Kelurahan/Desa
+1608080018,1608080,Singa Laga,Kelurahan/Desa
+1608080019,1608080,Air Alun,Kelurahan/Desa
+1608090001,1608090,Gunung Gare,Kelurahan/Desa
+1608090009,1608090,Tanjung Beringin,Kelurahan/Desa
+1608090010,1608090,Simpang Lubuk Dalam,Kelurahan/Desa
+1608090011,1608090,Ulak Agung Ulu,Kelurahan/Desa
+1608090012,1608090,Bandar Alam Baru,Kelurahan/Desa
+1608090013,1608090,Ulak Agung Ilir,Kelurahan/Desa
+1608090014,1608090,Alundua,Kelurahan/Desa
+1608090015,1608090,Penyandingan,Kelurahan/Desa
+1608090016,1608090,Dusun Tengah,Kelurahan/Desa
+1608090017,1608090,Penantian,Kelurahan/Desa
+1608090021,1608090,Sukaraja,Kelurahan/Desa
+1608090022,1608090,Muaradua Kisam,Kelurahan/Desa
+1608090023,1608090,Pagar Dewa,Kelurahan/Desa
+1608090024,1608090,Sukananti,Kelurahan/Desa
+1608090037,1608090,Tanjung Tebat,Kelurahan/Desa
+1608090038,1608090,Lawang Agung,Kelurahan/Desa
+1608090039,1608090,Bayur Tengah,Kelurahan/Desa
+1608090040,1608090,Sugihan,Kelurahan/Desa
+1608091001,1608091,Pulau Kemiling,Kelurahan/Desa
+1608091002,1608091,Siring Alam,Kelurahan/Desa
+1608091003,1608091,Simpang Campang,Kelurahan/Desa
+1608091004,1608091,Pangandonan,Kelurahan/Desa
+1608091005,1608091,Keban Agung,Kelurahan/Desa
+1608091006,1608091,Pius,Kelurahan/Desa
+1608091007,1608091,Muara Sindang,Kelurahan/Desa
+1608091008,1608091,Tanjung Jati,Kelurahan/Desa
+1608091009,1608091,Campang Jaya,Kelurahan/Desa
+1608100001,1608100,Gunung Batu,Kelurahan/Desa
+1608100002,1608100,Kemu,Kelurahan/Desa
+1608100003,1608100,Simpang Pancur,Kelurahan/Desa
+1608100004,1608100,Pagar Agung,Kelurahan/Desa
+1608100005,1608100,Tanjung Kari,Kelurahan/Desa
+1608100006,1608100,Aromantai,Kelurahan/Desa
+1608100007,1608100,Pulau Beringin,Kelurahan/Desa
+1608100008,1608100,Tanjung Bulan,Kelurahan/Desa
+1608100026,1608100,Pematang Obar,Kelurahan/Desa
+1608100027,1608100,Anugerah Kemu,Kelurahan/Desa
+1608100028,1608100,Kemu Ulu,Kelurahan/Desa
+1608100029,1608100,Pulau Beringin Utara,Kelurahan/Desa
+1608100030,1608100,Tanjung Bulan Ulu,Kelurahan/Desa
+1608101001,1608101,Tanjung Harapan,Kelurahan/Desa
+1608101002,1608101,Muara Sindang Ilir,Kelurahan/Desa
+1608101003,1608101,Muara Sindang Tengah,Kelurahan/Desa
+1608101004,1608101,Pematang Danau,Kelurahan/Desa
+1608101005,1608101,Ulu Danau,Kelurahan/Desa
+1608101006,1608101,Watas,Kelurahan/Desa
+1608101007,1608101,Tebat Layang,Kelurahan/Desa
+1608102001,1608102,Cukoh Nau,Kelurahan/Desa
+1608102002,1608102,Pecah Pinggan,Kelurahan/Desa
+1608102003,1608102,Ujan Mas,Kelurahan/Desa
+1608102004,1608102,Pulau Kemuning,Kelurahan/Desa
+1608102005,1608102,Tanah Pilih,Kelurahan/Desa
+1608102006,1608102,Guntung Jaya,Kelurahan/Desa
+1608102007,1608102,Simpang Luas,Kelurahan/Desa
+1608102008,1608102,Sebaja,Kelurahan/Desa
+1608102009,1608102,Sadau Jaya,Kelurahan/Desa
+1609010008,1609010,Tanjung Kemala,Kelurahan/Desa
+1609010009,1609010,Kota Baru,Kelurahan/Desa
+1609010010,1609010,Pasar Martapura,Kelurahan/Desa
+1609010011,1609010,Paku Sengkunyit,Kelurahan/Desa
+1609010012,1609010,Dusun Martapura,Kelurahan/Desa
+1609010013,1609010,Keromongan,Kelurahan/Desa
+1609010014,1609010,Perjaya,Kelurahan/Desa
+1609010021,1609010,Kota Baru Barat,Kelurahan/Desa
+1609010022,1609010,Sukomulyo,Kelurahan/Desa
+1609010023,1609010,Kota Baru Selatan,Kelurahan/Desa
+1609010024,1609010,Sungai Tuha Jaya,Kelurahan/Desa
+1609010025,1609010,Terukis Rahayu,Kelurahan/Desa
+1609010026,1609010,Bukit Sari,Kelurahan/Desa
+1609010027,1609010,Veteran Jaya,Kelurahan/Desa
+1609010028,1609010,Perjaya Barat,Kelurahan/Desa
+1609010029,1609010,Tanjung Kemala Barat,Kelurahan/Desa
+1609011001,1609011,Baturaja Bungin,Kelurahan/Desa
+1609011002,1609011,Tulang Bawang,Kelurahan/Desa
+1609011003,1609011,Sabah Lioh,Kelurahan/Desa
+1609011004,1609011,Negeri Ratu,Kelurahan/Desa
+1609011005,1609011,Negeri Ratu Baru,Kelurahan/Desa
+1609011006,1609011,Peracak,Kelurahan/Desa
+1609011007,1609011,Tunas Peracak,Kelurahan/Desa
+1609011008,1609011,Suka Baru,Kelurahan/Desa
+1609012001,1609012,Mendah,Kelurahan/Desa
+1609012002,1609012,Bunga Mayang,Kelurahan/Desa
+1609012003,1609012,Tumi Jaya,Kelurahan/Desa
+1609012004,1609012,Condong,Kelurahan/Desa
+1609012005,1609012,Way Salak,Kelurahan/Desa
+1609012006,1609012,Jayapura,Kelurahan/Desa
+1609012007,1609012,Peracak Jaya,Kelurahan/Desa
+1609012008,1609012,Kambang,Kelurahan/Desa
+1609020001,1609020,Negeri Agung,Kelurahan/Desa
+1609020002,1609020,Banumas,Kelurahan/Desa
+1609020003,1609020,Banuayu,Kelurahan/Desa
+1609020004,1609020,Pulau Negara,Kelurahan/Desa
+1609020005,1609020,Bantan,Kelurahan/Desa
+1609020006,1609020,Negeri Pakuan,Kelurahan/Desa
+1609020007,1609020,Bandar Jaya,Kelurahan/Desa
+1609020008,1609020,Pahang Asri,Kelurahan/Desa
+1609020009,1609020,Pemetung Basuki,Kelurahan/Desa
+1609020010,1609020,Saung Dadi,Kelurahan/Desa
+1609020011,1609020,Terantang Sakti,Kelurahan/Desa
+1609020012,1609020,Negeri Agung Jaya,Kelurahan/Desa
+1609020013,1609020,Bantan Pelita,Kelurahan/Desa
+1609030001,1609030,Sukaraja,Kelurahan/Desa
+1609030002,1609030,Pisang Jaya,Kelurahan/Desa
+1609030003,1609030,Kurungan Nyawa,Kelurahan/Desa
+1609030004,1609030,Way Halom,Kelurahan/Desa
+1609030005,1609030,Tebat Jaya,Kelurahan/Desa
+1609030006,1609030,Sumber Agung,Kelurahan/Desa
+1609030007,1609030,Sri Dadi / Saridati,Kelurahan/Desa
+1609030016,1609030,Tanjung Bulan,Kelurahan/Desa
+1609030041,1609030,Kurungan Nyawa I,Kelurahan/Desa
+1609030042,1609030,Kurungan Nyawa II,Kelurahan/Desa
+1609030043,1609030,Kurungan Nyawa III,Kelurahan/Desa
+1609030044,1609030,Cipta Muda,Kelurahan/Desa
+1609030045,1609030,Aman Jaya,Kelurahan/Desa
+1609030046,1609030,Sukaraja Tuha,Kelurahan/Desa
+1609030047,1609030,Mulyo Agung,Kelurahan/Desa
+1609030048,1609030,Ganjar Agung,Kelurahan/Desa
+1609030049,1609030,Mudasentosa,Kelurahan/Desa
+1609031001,1609031,Tanjung Mas,Kelurahan/Desa
+1609031002,1609031,Limansari,Kelurahan/Desa
+1609031003,1609031,Sumber Harjo,Kelurahan/Desa
+1609031004,1609031,Sumber Mulyo,Kelurahan/Desa
+1609031005,1609031,Bangun Harjo,Kelurahan/Desa
+1609031006,1609031,Karang Tengah,Kelurahan/Desa
+1609031007,1609031,Sri Katon,Kelurahan/Desa
+1609031008,1609031,Tanjung Sari,Kelurahan/Desa
+1609031009,1609031,Sumber Asri,Kelurahan/Desa
+1609031010,1609031,Suka Maju,Kelurahan/Desa
+1609031011,1609031,Sukoharjo,Kelurahan/Desa
+1609031012,1609031,Tekorejo,Kelurahan/Desa
+1609031013,1609031,Pengandonan,Kelurahan/Desa
+1609031014,1609031,Tambak Boyo,Kelurahan/Desa
+1609031015,1609031,Rejodadi,Kelurahan/Desa
+1609031017,1609031,Rowodadi,Kelurahan/Desa
+1609031018,1609031,Sukodadi,Kelurahan/Desa
+1609031019,1609031,Sumedang Sari,Kelurahan/Desa
+1609031020,1609031,Kumpul Rejo,Kelurahan/Desa
+1609031021,1609031,Metro Rejo,Kelurahan/Desa
+1609031022,1609031,Kedu,Kelurahan/Desa
+1609031023,1609031,Kedung Rejo,Kelurahan/Desa
+1609031024,1609031,Banyumas Asri,Kelurahan/Desa
+1609031025,1609031,Tanjung Agung,Kelurahan/Desa
+1609031026,1609031,Tanjung Mulya,Kelurahan/Desa
+1609031027,1609031,Raman Agung,Kelurahan/Desa
+1609031028,1609031,Bukit Mas,Kelurahan/Desa
+1609031029,1609031,Berasan Mulya,Kelurahan/Desa
+1609031030,1609031,Gumuk Rejo,Kelurahan/Desa
+1609031031,1609031,Sumber Tani,Kelurahan/Desa
+1609031032,1609031,Wonodadi Asri,Kelurahan/Desa
+1609031033,1609031,Suka Jaya,Kelurahan/Desa
+1609031034,1609031,Bumi Rahayu Mukti,Kelurahan/Desa
+1609032001,1609032,Sri Bunga,Kelurahan/Desa
+1609032002,1609032,Anyar,Kelurahan/Desa
+1609032003,1609032,Pandan Sari II,Kelurahan/Desa
+1609032004,1609032,Rawa Sari,Kelurahan/Desa
+1609032005,1609032,Surya Menang,Kelurahan/Desa
+1609032006,1609032,Muncak Kabau,Kelurahan/Desa
+1609032007,1609032,Sri Bulan,Kelurahan/Desa
+1609040001,1609040,Pandan Jaya,Kelurahan/Desa
+1609040002,1609040,Riang Bandung,Kelurahan/Desa
+1609040003,1609040,Karang Negara,Kelurahan/Desa
+1609040012,1609040,Sukanegara,Kelurahan/Desa
+1609040013,1609040,Jati Mulyo II,Kelurahan/Desa
+1609040014,1609040,Sri Mulyo,Kelurahan/Desa
+1609040015,1609040,Rasuan Baru,Kelurahan/Desa
+1609040016,1609040,Kertanegara,Kelurahan/Desa
+1609040018,1609040,Kota Negara,Kelurahan/Desa
+1609040019,1609040,Pandan Agung,Kelurahan/Desa
+1609040020,1609040,Margo Tani,Kelurahan/Desa
+1609040021,1609040,Banban Rejo,Kelurahan/Desa
+1609040022,1609040,Riang Bandung Ilir,Kelurahan/Desa
+1609040023,1609040,Dadi Mulyo,Kelurahan/Desa
+1609040024,1609040,Sri Kencana,Kelurahan/Desa
+1609040025,1609040,Margotani II,Kelurahan/Desa
+1609040026,1609040,Kotanegara Timur,Kelurahan/Desa
+1609040027,1609040,Talang Giring,Kelurahan/Desa
+1609040028,1609040,Kalirejo,Kelurahan/Desa
+1609041001,1609041,Batu Marta X,Kelurahan/Desa
+1609041002,1609041,Bina Amarta,Kelurahan/Desa
+1609041003,1609041,Batu Marta VI,Kelurahan/Desa
+1609041004,1609041,Banding Agung,Kelurahan/Desa
+1609041005,1609041,Nikan,Kelurahan/Desa
+1609041006,1609041,Karya Makmur VIII,Kelurahan/Desa
+1609041007,1609041,Wana Bakti,Kelurahan/Desa
+1609041008,1609041,Suka Damai,Kelurahan/Desa
+1609041009,1609041,Surabaya,Kelurahan/Desa
+1609041010,1609041,Marta V Jaya,Kelurahan/Desa
+1609041011,1609041,Marta Mulya,Kelurahan/Desa
+1609041012,1609041,Tri Marta Jaya,Kelurahan/Desa
+1609041013,1609041,Suka Damai Timur,Kelurahan/Desa
+1609041014,1609041,Sido Mulyo,Kelurahan/Desa
+1609041015,1609041,Banjar Agung,Kelurahan/Desa
+1609050011,1609050,Jaya Bakti,Kelurahan/Desa
+1609050012,1609050,Harjo Mulyo,Kelurahan/Desa
+1609050013,1609050,Jatisari,Kelurahan/Desa
+1609050014,1609050,Mendayun,Kelurahan/Desa
+1609050015,1609050,Gunung Terang,Kelurahan/Desa
+1609050016,1609050,Rasuan,Kelurahan/Desa
+1609050017,1609050,Mengulak,Kelurahan/Desa
+1609050018,1609050,Sp Karta Mulya,Kelurahan/Desa
+1609050019,1609050,Karta Mulya,Kelurahan/Desa
+1609050021,1609050,Agung Jati,Kelurahan/Desa
+1609050022,1609050,Tridadi,Kelurahan/Desa
+1609050023,1609050,Rasuan Darat,Kelurahan/Desa
+1609050024,1609050,Harjomulyo Jaya,Kelurahan/Desa
+1609051001,1609051,Tugumulyo,Kelurahan/Desa
+1609051002,1609051,Bangsa Negara,Kelurahan/Desa
+1609051003,1609051,Tugu Harum,Kelurahan/Desa
+1609051004,1609051,Tulus Ayu,Kelurahan/Desa
+1609051005,1609051,Karang Binangun,Kelurahan/Desa
+1609051006,1609051,Jati Mulyo 1,Kelurahan/Desa
+1609051007,1609051,Pandan Sari 1,Kelurahan/Desa
+1609051008,1609051,Pelita Jaya,Kelurahan/Desa
+1609051009,1609051,Mekar Jaya,Kelurahan/Desa
+1609051010,1609051,Lubuk Harjo,Kelurahan/Desa
+1609051011,1609051,Tanah Merah,Kelurahan/Desa
+1609051012,1609051,Joso Winangun,Kelurahan/Desa
+1609051013,1609051,Rantau Jaya,Kelurahan/Desa
+1609051014,1609051,Tebing Sari Mulya,Kelurahan/Desa
+1609051015,1609051,Marga Cinta,Kelurahan/Desa
+1609051016,1609051,Karang Binangun II,Kelurahan/Desa
+1609051017,1609051,Burnai Sari Mulya,Kelurahan/Desa
+1609060001,1609060,Sido Rahayu,Kelurahan/Desa
+1609060002,1609060,Sukarami,Kelurahan/Desa
+1609060003,1609060,Tawang Rejo,Kelurahan/Desa
+1609060012,1609060,Triyoso,Kelurahan/Desa
+1609060013,1609060,Serbaguna,Kelurahan/Desa
+1609060014,1609060,Sumber Suko,Kelurahan/Desa
+1609060015,1609060,Sukajadi,Kelurahan/Desa
+1609060016,1609060,Sukosari,Kelurahan/Desa
+1609060017,1609060,Pujorahayu,Kelurahan/Desa
+1609060018,1609060,Sidomulyo,Kelurahan/Desa
+1609060022,1609060,Tanjung Raya,Kelurahan/Desa
+1609060023,1609060,Harjo Winangun,Kelurahan/Desa
+1609060024,1609060,Tegal Rejo,Kelurahan/Desa
+1609060025,1609060,Gumawang,Kelurahan/Desa
+1609060026,1609060,Bedilan,Kelurahan/Desa
+1609060027,1609060,Sidogede,Kelurahan/Desa
+1609060028,1609060,Sido Makmur,Kelurahan/Desa
+1609060029,1609060,Gunung Mas,Kelurahan/Desa
+1609060030,1609060,Karang Kemiri,Kelurahan/Desa
+1609060031,1609060,Sidodadi,Kelurahan/Desa
+1609060032,1609060,Sumber Suko Jaya,Kelurahan/Desa
+1609060033,1609060,Gedung Rejo,Kelurahan/Desa
+1609060034,1609060,Mojosari,Kelurahan/Desa
+1609060035,1609060,Ketapang,Kelurahan/Desa
+1609061001,1609061,Rejosari,Kelurahan/Desa
+1609061002,1609061,Rejosari Jaya,Kelurahan/Desa
+1609061003,1609061,Sumber Agung,Kelurahan/Desa
+1609061004,1609061,Banjar Rejo,Kelurahan/Desa
+1609061005,1609061,Panca Tunggal,Kelurahan/Desa
+1609061006,1609061,Sidorejo,Kelurahan/Desa
+1609061007,1609061,Margo Koyo,Kelurahan/Desa
+1609061008,1609061,Karsa Jaya,Kelurahan/Desa
+1609061009,1609061,Windu Sari,Kelurahan/Desa
+1609061010,1609061,Karya Makmur,Kelurahan/Desa
+1609061011,1609061,Giri Mulyo,Kelurahan/Desa
+1609061012,1609061,Madugondo,Kelurahan/Desa
+1609061013,1609061,Argo Mulyo,Kelurahan/Desa
+1609061014,1609061,Tunggal Jaya,Kelurahan/Desa
+1609061015,1609061,Panca Jaya,Kelurahan/Desa
+1609061016,1609061,Sumber Makmur,Kelurahan/Desa
+1609061017,1609061,Sumber Jaya,Kelurahan/Desa
+1609070004,1609070,Tri Karya,Kelurahan/Desa
+1609070005,1609070,Nusa Tunggal,Kelurahan/Desa
+1609070006,1609070,Kutosari,Kelurahan/Desa
+1609070007,1609070,Nusaraya,Kelurahan/Desa
+1609070008,1609070,Nusa Bali,Kelurahan/Desa
+1609070009,1609070,Nusa Bakti,Kelurahan/Desa
+1609070010,1609070,Senu Marga,Kelurahan/Desa
+1609070011,1609070,Karang Sari,Kelurahan/Desa
+1609070012,1609070,Sukanegara,Kelurahan/Desa
+1609070013,1609070,Nusa Maju,Kelurahan/Desa
+1609070014,1609070,Nusa Agung,Kelurahan/Desa
+1609070015,1609070,Nusa Jaya,Kelurahan/Desa
+1609070016,1609070,Nusa Tenggara,Kelurahan/Desa
+1609070017,1609070,Sumber Rejo,Kelurahan/Desa
+1609070018,1609070,Sinar Bali,Kelurahan/Desa
+1609070019,1609070,Karang Jadi,Kelurahan/Desa
+1609070020,1609070,Ringin Sari,Kelurahan/Desa
+1609070021,1609070,Ganti Warno,Kelurahan/Desa
+1609070022,1609070,Dadi Rejo,Kelurahan/Desa
+1609070023,1609070,Karya Maju,Kelurahan/Desa
+1609080001,1609080,Sumber Rahayu,Kelurahan/Desa
+1609080002,1609080,Sri Bantolo,Kelurahan/Desa
+1609080003,1609080,Purwosari,Kelurahan/Desa
+1609080008,1609080,Tanjung Kemuning,Kelurahan/Desa
+1609080010,1609080,Margo Mulyo,Kelurahan/Desa
+1609080011,1609080,Karang Manik,Kelurahan/Desa
+1609080012,1609080,Raman Jaya,Kelurahan/Desa
+1609080013,1609080,Tegal Sari,Kelurahan/Desa
+1609080014,1609080,Sumber Jaya,Kelurahan/Desa
+1609080015,1609080,Sumber Sari,Kelurahan/Desa
+1609080016,1609080,Sumber Harapan,Kelurahan/Desa
+1609080017,1609080,Keli Rejo,Kelurahan/Desa
+1609080018,1609080,Sumber Rejo,Kelurahan/Desa
+1609080019,1609080,Toto Rejo,Kelurahan/Desa
+1609080020,1609080,Kemuning Jaya,Kelurahan/Desa
+1609080021,1609080,Bangun Rejo,Kelurahan/Desa
+1609080022,1609080,Srijaya,Kelurahan/Desa
+1609080023,1609080,Batu Mas,Kelurahan/Desa
+1609080024,1609080,Suka Jaya,Kelurahan/Desa
+1609080025,1609080,Karang Jaya,Kelurahan/Desa
+1609080026,1609080,Darma Buana,Kelurahan/Desa
+1609080027,1609080,Tegal Besar,Kelurahan/Desa
+1609080028,1609080,Rejo Mulyo,Kelurahan/Desa
+1609080029,1609080,Purworejo,Kelurahan/Desa
+1609080030,1609080,Sumber Makmur,Kelurahan/Desa
+1609080031,1609080,Budi Luhur,Kelurahan/Desa
+1609080032,1609080,Margo Mulyo Makmur,Kelurahan/Desa
+1609081001,1609081,Sukoharjo,Kelurahan/Desa
+1609081002,1609081,Sribudaya,Kelurahan/Desa
+1609081003,1609081,Sri Mulyo,Kelurahan/Desa
+1609081004,1609081,Purwodadi,Kelurahan/Desa
+1609081005,1609081,Ulak Buntar,Kelurahan/Desa
+1609081006,1609081,Sari Guna,Kelurahan/Desa
+1609081007,1609081,Sido Waluyo,Kelurahan/Desa
+1609081008,1609081,Sugih Waras,Kelurahan/Desa
+1609081009,1609081,Rejosari,Kelurahan/Desa
+1609081010,1609081,Tulung Sari,Kelurahan/Desa
+1609081011,1609081,Petanggan,Kelurahan/Desa
+1609081012,1609081,Mulya Sari,Kelurahan/Desa
+1609090002,1609090,Jaya Mulia,Kelurahan/Desa
+1609090007,1609090,Gunung Sugih,Kelurahan/Desa
+1609090008,1609090,Taman Agung,Kelurahan/Desa
+1609090009,1609090,Trimo Harjo,Kelurahan/Desa
+1609090011,1609090,Suka Mulya,Kelurahan/Desa
+1609090018,1609090,Taraman,Kelurahan/Desa
+1609090019,1609090,Karang Endah,Kelurahan/Desa
+1609090020,1609090,Sri Wangi,Kelurahan/Desa
+1609090021,1609090,Krujon,Kelurahan/Desa
+1609090022,1609090,Margorejo,Kelurahan/Desa
+1609090023,1609090,Cahaya Negeri,Kelurahan/Desa
+1609090024,1609090,Taman Mulyo,Kelurahan/Desa
+1609090025,1609090,Mujo Rahayu,Kelurahan/Desa
+1609090026,1609090,Taman Harjo,Kelurahan/Desa
+1609090027,1609090,Trimo Rejo,Kelurahan/Desa
+1609090028,1609090,Karang Marga,Kelurahan/Desa
+1609090029,1609090,Taraman Jaya,Kelurahan/Desa
+1609090030,1609090,Sri Wangi Ulu,Kelurahan/Desa
+1609090031,1609090,Margo Dadi,Kelurahan/Desa
+1609091001,1609091,Karang Menjangan,Kelurahan/Desa
+1609091002,1609091,Karang Melati,Kelurahan/Desa
+1609091003,1609091,Karang Anyar,Kelurahan/Desa
+1609091004,1609091,Tulung Harapan,Kelurahan/Desa
+1609091005,1609091,Nirwana,Kelurahan/Desa
+1609091006,1609091,Burnai Mulya,Kelurahan/Desa
+1609091007,1609091,Kota Tanah,Kelurahan/Desa
+1609091008,1609091,Melati Jaya,Kelurahan/Desa
+1609091009,1609091,Karang Mulya,Kelurahan/Desa
+1609091010,1609091,Harapan Jaya,Kelurahan/Desa
+1609091011,1609091,Wana Sari,Kelurahan/Desa
+1609091012,1609091,Burnai Jaya,Kelurahan/Desa
+1609091013,1609091,Mulya Jaya,Kelurahan/Desa
+1609091014,1609091,Kota Mulya,Kelurahan/Desa
+1609091015,1609091,Bungin Jaya,Kelurahan/Desa
+1609091016,1609091,Melati Agung,Kelurahan/Desa
+1609091017,1609091,Wana Makmur,Kelurahan/Desa
+1609091018,1609091,Bawang Tikar,Kelurahan/Desa
+1609091019,1609091,Karya Bakti,Kelurahan/Desa
+1609091020,1609091,Harapan Makmur,Kelurahan/Desa
+1609091021,1609091,Wana Jaya,Kelurahan/Desa
+1609100033,1609100,Ulak Baru,Kelurahan/Desa
+1609100034,1609100,Kuripan,Kelurahan/Desa
+1609100035,1609100,Gunung Jati,Kelurahan/Desa
+1609100036,1609100,Negeri Sakti,Kelurahan/Desa
+1609100037,1609100,Campang Tiga Ulu,Kelurahan/Desa
+1609100038,1609100,Campang Tiga Ilir,Kelurahan/Desa
+1609100039,1609100,Sukaraja,Kelurahan/Desa
+1609100040,1609100,Cempaka,Kelurahan/Desa
+1609100041,1609100,Sukabumi,Kelurahan/Desa
+1609100042,1609100,Gunung Batu,Kelurahan/Desa
+1609100043,1609100,Maluai Indah,Kelurahan/Desa
+1609100044,1609100,Harisan Jaya,Kelurahan/Desa
+1609100045,1609100,Campang Tiga Jaya,Kelurahan/Desa
+1609101001,1609101,Tanjung Kukuh,Kelurahan/Desa
+1609101002,1609101,Betung,Kelurahan/Desa
+1609101003,1609101,Tanjung Mas,Kelurahan/Desa
+1609101004,1609101,Menanga Besar,Kelurahan/Desa
+1609101005,1609101,Menanga Tengah,Kelurahan/Desa
+1609101006,1609101,Kangkung,Kelurahan/Desa
+1609101007,1609101,Adu Manis,Kelurahan/Desa
+1609101008,1609101,Suka Negeri,Kelurahan/Desa
+1609101009,1609101,Sri Tanjung,Kelurahan/Desa
+1609101010,1609101,Kangkung Ilir,Kelurahan/Desa
+1609101011,1609101,Betung Timur,Kelurahan/Desa
+1609101012,1609101,Menanga Sari,Kelurahan/Desa
+1609101013,1609101,Tanjung Jaya,Kelurahan/Desa
+1610010004,1610010,Munggu,Kelurahan/Desa
+1610010005,1610010,Seri Menanti,Kelurahan/Desa
+1610010006,1610010,Rantau Sialang,Kelurahan/Desa
+1610010007,1610010,Kuang Anyar,Kelurahan/Desa
+1610010009,1610010,Kasah,Kelurahan/Desa
+1610010011,1610010,Muara Kuang,Kelurahan/Desa
+1610010012,1610010,Tanabang Ilir,Kelurahan/Desa
+1610010013,1610010,Seri Kembang,Kelurahan/Desa
+1610010014,1610010,Naga Sari,Kelurahan/Desa
+1610010015,1610010,Suka Cinta,Kelurahan/Desa
+1610010016,1610010,Kelampadu,Kelurahan/Desa
+1610010017,1610010,Sukajadi,Kelurahan/Desa
+1610010018,1610010,Rama Kasih,Kelurahan/Desa
+1610010019,1610010,Tanabang Ulu,Kelurahan/Desa
+1610011001,1610011,Ibul Dalam,Kelurahan/Desa
+1610011002,1610011,Beringin Dalam,Kelurahan/Desa
+1610011003,1610011,Kuang Dalam Barat,Kelurahan/Desa
+1610011004,1610011,Lubuk Tunggal,Kelurahan/Desa
+1610011005,1610011,Ulak Segara,Kelurahan/Desa
+1610011006,1610011,Tambang Rambang,Kelurahan/Desa
+1610011007,1610011,Tangai,Kelurahan/Desa
+1610011008,1610011,Tanjung Miring,Kelurahan/Desa
+1610011009,1610011,Kayu Ara,Kelurahan/Desa
+1610011010,1610011,Tanjung Bulan,Kelurahan/Desa
+1610011011,1610011,Sunur,Kelurahan/Desa
+1610011012,1610011,Kuang Dalam Timur,Kelurahan/Desa
+1610011013,1610011,Sukananti,Kelurahan/Desa
+1610012001,1610012,Ulak Kembahang,Kelurahan/Desa
+1610012002,1610012,Lubuk Keliat,Kelurahan/Desa
+1610012003,1610012,Embacang,Kelurahan/Desa
+1610012004,1610012,Betung I,Kelurahan/Desa
+1610012005,1610012,Kasih Raja,Kelurahan/Desa
+1610012006,1610012,Talang Tengah,Kelurahan/Desa
+1610012007,1610012,Ketiau,Kelurahan/Desa
+1610012008,1610012,Betung II,Kelurahan/Desa
+1610012009,1610012,Payalingkung,Kelurahan/Desa
+1610012010,1610012,Talang Tengah Laut,Kelurahan/Desa
+1610020008,1610020,Seri Bandung,Kelurahan/Desa
+1610020012,1610020,Seri Tanjung,Kelurahan/Desa
+1610020013,1610020,Bangun Jaya,Kelurahan/Desa
+1610020014,1610020,Tanjung Tambak,Kelurahan/Desa
+1610020015,1610020,Tanjung Baru Petai,Kelurahan/Desa
+1610020016,1610020,Tanjung Batu Seberang,Kelurahan/Desa
+1610020017,1610020,Tanjung Atap,Kelurahan/Desa
+1610020018,1610020,Limbang Jaya I,Kelurahan/Desa
+1610020024,1610020,Tanjung Laut,Kelurahan/Desa
+1610020025,1610020,Tanjung Pinang I,Kelurahan/Desa
+1610020026,1610020,Tanjung Batu,Kelurahan/Desa
+1610020027,1610020,Pajar Bulan,Kelurahan/Desa
+1610020028,1610020,Senuro Timur,Kelurahan/Desa
+1610020029,1610020,Sentul,Kelurahan/Desa
+1610020030,1610020,Burai,Kelurahan/Desa
+1610020031,1610020,Tanjung Batu Timur,Kelurahan/Desa
+1610020032,1610020,Tanjung Tambak Baru,Kelurahan/Desa
+1610020033,1610020,Limbang Jaya II,Kelurahan/Desa
+1610020034,1610020,Senuro Barat,Kelurahan/Desa
+1610020035,1610020,Tanjung Pinang II,Kelurahan/Desa
+1610020036,1610020,Tanjung Atap Barat,Kelurahan/Desa
+1610021001,1610021,Tebedak I,Kelurahan/Desa
+1610021002,1610021,Lubuk Bandung,Kelurahan/Desa
+1610021003,1610021,Rengas I,Kelurahan/Desa
+1610021004,1610021,Paya Besar,Kelurahan/Desa
+1610021005,1610021,Talang Seleman,Kelurahan/Desa
+1610021006,1610021,Payaraman Timur,Kelurahan/Desa
+1610021007,1610021,Seri Kembang I,Kelurahan/Desa
+1610021008,1610021,Tanjung Lalang,Kelurahan/Desa
+1610021009,1610021,Seri Kembang II,Kelurahan/Desa
+1610021010,1610021,Seri Kembang III,Kelurahan/Desa
+1610021011,1610021,Tebedak II,Kelurahan/Desa
+1610021012,1610021,Rengas II,Kelurahan/Desa
+1610021013,1610021,Payaraman Barat,Kelurahan/Desa
+1610030001,1610030,Kelampaian,Kelurahan/Desa
+1610030002,1610030,Suka Nanti,Kelurahan/Desa
+1610030003,1610030,Rantau Alai,Kelurahan/Desa
+1610030004,1610030,Kertabayang,Kelurahan/Desa
+1610030005,1610030,Suka Maju,Kelurahan/Desa
+1610030006,1610030,Sukamarga,Kelurahan/Desa
+1610030007,1610030,Sanding Marga,Kelurahan/Desa
+1610030011,1610030,Tanjung Mas,Kelurahan/Desa
+1610030012,1610030,Lebung Bandung,Kelurahan/Desa
+1610030013,1610030,Talang Sari,Kelurahan/Desa
+1610030019,1610030,Sirah Pulau Kilip,Kelurahan/Desa
+1610030020,1610030,Mekar Sari,Kelurahan/Desa
+1610030021,1610030,Sukananti  Baru,Kelurahan/Desa
+1610031001,1610031,Kumbang Ulu,Kelurahan/Desa
+1610031002,1610031,Kumbang Ilir,Kelurahan/Desa
+1610031003,1610031,Tanjung Alai,Kelurahan/Desa
+1610031004,1610031,Muara Kumbang,Kelurahan/Desa
+1610031005,1610031,Lubuk Rukam,Kelurahan/Desa
+1610031006,1610031,Pandan Arang,Kelurahan/Desa
+1610031007,1610031,Kandis I,Kelurahan/Desa
+1610031008,1610031,Santapan Barat,Kelurahan/Desa
+1610031009,1610031,Miji,Kelurahan/Desa
+1610031010,1610031,Santapan Timur,Kelurahan/Desa
+1610031011,1610031,Kandis II,Kelurahan/Desa
+1610031012,1610031,Lubuk Segonang,Kelurahan/Desa
+1610040024,1610040,Tanjung Temiang,Kelurahan/Desa
+1610040028,1610040,Seridalam,Kelurahan/Desa
+1610040030,1610040,Tanjung Raja,Kelurahan/Desa
+1610040031,1610040,Tanjung Raja Barat,Kelurahan/Desa
+1610040032,1610040,Tanjung Raja Utara,Kelurahan/Desa
+1610040035,1610040,Talang Balai Baru I,Kelurahan/Desa
+1610040036,1610040,Siring Alam,Kelurahan/Desa
+1610040037,1610040,Tanjung Agas,Kelurahan/Desa
+1610040038,1610040,Talang Balai Lama,Kelurahan/Desa
+1610040045,1610040,Suka Pindah,Kelurahan/Desa
+1610040046,1610040,Ulak Kerbau Lama,Kelurahan/Desa
+1610040047,1610040,Ulak Kerbau Baru,Kelurahan/Desa
+1610040048,1610040,Kerinjing,Kelurahan/Desa
+1610040049,1610040,Tanjung Raja Timur,Kelurahan/Desa
+1610040050,1610040,Belanti,Kelurahan/Desa
+1610040051,1610040,Tanjung Raja Selatan,Kelurahan/Desa
+1610040052,1610040,Talang Balai Baru II,Kelurahan/Desa
+1610040053,1610040,Skonjing,Kelurahan/Desa
+1610040054,1610040,Tanjung Harapan,Kelurahan/Desa
+1610041001,1610041,Ketapang I,Kelurahan/Desa
+1610041002,1610041,Jagalana,Kelurahan/Desa
+1610041003,1610041,Kota Daro I,Kelurahan/Desa
+1610041004,1610041,Kota Daro II,Kelurahan/Desa
+1610041005,1610041,Rantau Panjang Ilir,Kelurahan/Desa
+1610041006,1610041,Jagaraja,Kelurahan/Desa
+1610041007,1610041,Sejangko I,Kelurahan/Desa
+1610041008,1610041,Sungai Rotan,Kelurahan/Desa
+1610041009,1610041,Sejangko II,Kelurahan/Desa
+1610041010,1610041,Rantau Panjang Ulu,Kelurahan/Desa
+1610041011,1610041,Ketapang II,Kelurahan/Desa
+1610041012,1610041,Arisan Deras,Kelurahan/Desa
+1610042001,1610042,Tanjung Serian,Kelurahan/Desa
+1610042002,1610042,Talang Dukun,Kelurahan/Desa
+1610042003,1610042,Sungai Pinang III,Kelurahan/Desa
+1610042004,1610042,Sungai Pinang,Kelurahan/Desa
+1610042005,1610042,Sungai Pinang II,Kelurahan/Desa
+1610042006,1610042,Serijabo,Kelurahan/Desa
+1610042007,1610042,Penyandingan,Kelurahan/Desa
+1610042008,1610042,Pinang Jaya,Kelurahan/Desa
+1610042009,1610042,Sungai Pinang I,Kelurahan/Desa
+1610042010,1610042,Pinang Mas,Kelurahan/Desa
+1610042011,1610042,Sungai Pinang Lagati,Kelurahan/Desa
+1610042012,1610042,Sungai Pinang Nibung,Kelurahan/Desa
+1610042013,1610042,Serijabo Baru,Kelurahan/Desa
+1610050016,1610050,Aur Standing,Kelurahan/Desa
+1610050019,1610050,Suka Rami,Kelurahan/Desa
+1610050020,1610050,Palu,Kelurahan/Desa
+1610050021,1610050,Muara Dua,Kelurahan/Desa
+1610050022,1610050,Teluk Kecapi,Kelurahan/Desa
+1610050023,1610050,Pelabuhan Dalam,Kelurahan/Desa
+1610050024,1610050,Pemulutan Ulu,Kelurahan/Desa
+1610050025,1610050,Pemulutan Ilir,Kelurahan/Desa
+1610050026,1610050,Sungai Rasau,Kelurahan/Desa
+1610050027,1610050,Pegayut,Kelurahan/Desa
+1610050028,1610050,Ibul Besar I,Kelurahan/Desa
+1610050029,1610050,Ibul Besar II,Kelurahan/Desa
+1610050030,1610050,Ibul Besar III,Kelurahan/Desa
+1610050031,1610050,Mekar Jaya,Kelurahan/Desa
+1610050032,1610050,Lebung Jangkar,Kelurahan/Desa
+1610050033,1610050,Kedukan Bujang,Kelurahan/Desa
+1610050034,1610050,Rawa Jaya,Kelurahan/Desa
+1610050035,1610050,Babatan Saudagar,Kelurahan/Desa
+1610050036,1610050,Tanjung Pasir,Kelurahan/Desa
+1610050037,1610050,Harapan,Kelurahan/Desa
+1610050038,1610050,Pipa Putih,Kelurahan/Desa
+1610050039,1610050,Sungai Buaya,Kelurahan/Desa
+1610050040,1610050,Muara Baru,Kelurahan/Desa
+1610050041,1610050,Sembadak,Kelurahan/Desa
+1610050042,1610050,Simpang Pelabuhan Dalam,Kelurahan/Desa
+1610051001,1610051,Maju Jaya,Kelurahan/Desa
+1610051002,1610051,Naikan Tembakang,Kelurahan/Desa
+1610051003,1610051,Pematang Bangsal,Kelurahan/Desa
+1610051004,1610051,Sungai Lebung,Kelurahan/Desa
+1610051005,1610051,Cahaya Marga,Kelurahan/Desa
+1610051006,1610051,Mayapati,Kelurahan/Desa
+1610051007,1610051,Kapuk,Kelurahan/Desa
+1610051008,1610051,Segayam,Kelurahan/Desa
+1610051009,1610051,Ulak Aur Standing,Kelurahan/Desa
+1610051010,1610051,Harimau Tandang,Kelurahan/Desa
+1610051011,1610051,Sungai Keli,Kelurahan/Desa
+1610051012,1610051,Sungai Lebung Ulu,Kelurahan/Desa
+1610051013,1610051,Lebak Pering,Kelurahan/Desa
+1610051014,1610051,Sungai Ondok,Kelurahan/Desa
+1610051015,1610051,Pematang Bungur,Kelurahan/Desa
+1610052001,1610052,Suka Merindu,Kelurahan/Desa
+1610052002,1610052,Saranglang,Kelurahan/Desa
+1610052003,1610052,Kamal,Kelurahan/Desa
+1610052004,1610052,Pulau Negara,Kelurahan/Desa
+1610052005,1610052,Seribanding,Kelurahan/Desa
+1610052006,1610052,Talang Pangeran Ulu,Kelurahan/Desa
+1610052007,1610052,Ulak Kembahang I,Kelurahan/Desa
+1610052008,1610052,Ulak Petangisan,Kelurahan/Desa
+1610052009,1610052,Talang Pangeran Ilir,Kelurahan/Desa
+1610052010,1610052,Ulak Kembahang II,Kelurahan/Desa
+1610052011,1610052,Arisan Jaya,Kelurahan/Desa
+1610060005,1610060,Lubuk Sakti,Kelurahan/Desa
+1610060006,1610060,Tanjung Gelam,Kelurahan/Desa
+1610060007,1610060,Tanjung Agung,Kelurahan/Desa
+1610060008,1610060,Ulak Bedil,Kelurahan/Desa
+1610060010,1610060,Sudi Mampir,Kelurahan/Desa
+1610060011,1610060,Penyandingan,Kelurahan/Desa
+1610060012,1610060,Talang Aur,Kelurahan/Desa
+1610060013,1610060,Ulak Banding,Kelurahan/Desa
+1610060014,1610060,Muara Penimbung Ulu,Kelurahan/Desa
+1610060015,1610060,Sakatiga,Kelurahan/Desa
+1610060016,1610060,Tanjung Sejaro,Kelurahan/Desa
+1610060017,1610060,Sakatiga Seberang,Kelurahan/Desa
+1610060019,1610060,Tanjung Seteko,Kelurahan/Desa
+1610060027,1610060,Ulak Segelung,Kelurahan/Desa
+1610060028,1610060,Indralaya Mulya,Kelurahan/Desa
+1610060029,1610060,Indralaya Raya,Kelurahan/Desa
+1610060030,1610060,Indralaya Indah,Kelurahan/Desa
+1610060031,1610060,Muara Penimbung Ilir,Kelurahan/Desa
+1610060032,1610060,Tunas Aur,Kelurahan/Desa
+1610060033,1610060,Sejaro Sakti,Kelurahan/Desa
+1610061001,1610061,Bakung,Kelurahan/Desa
+1610061002,1610061,Lorok,Kelurahan/Desa
+1610061003,1610061,Parit,Kelurahan/Desa
+1610061004,1610061,Purnajaya,Kelurahan/Desa
+1610061005,1610061,Payakabung,Kelurahan/Desa
+1610061006,1610061,Tanjung Baru,Kelurahan/Desa
+1610061007,1610061,Tanjung Pering,Kelurahan/Desa
+1610061008,1610061,Sungai Rambutan,Kelurahan/Desa
+1610061009,1610061,Suak Batok,Kelurahan/Desa
+1610061010,1610061,Timbangan,Kelurahan/Desa
+1610061011,1610061,Suka Mulia,Kelurahan/Desa
+1610061012,1610061,Pulau Kabal,Kelurahan/Desa
+1610061013,1610061,Tanjung Pule,Kelurahan/Desa
+1610061014,1610061,Permata Baru,Kelurahan/Desa
+1610061015,1610061,Palem Raya,Kelurahan/Desa
+1610061016,1610061,Pulau Semambu,Kelurahan/Desa
+1610062001,1610062,Tanjung Dayang Selatan,Kelurahan/Desa
+1610062002,1610062,Mandi  Angin,Kelurahan/Desa
+1610062003,1610062,Sukaraja Baru,Kelurahan/Desa
+1610062004,1610062,Sukaraja Lama,Kelurahan/Desa
+1610062005,1610062,Tanjung Lubuk,Kelurahan/Desa
+1610062006,1610062,Beti,Kelurahan/Desa
+1610062007,1610062,Meranjat Ilir,Kelurahan/Desa
+1610062008,1610062,Meranjat II,Kelurahan/Desa
+1610062009,1610062,Meranjat I,Kelurahan/Desa
+1610062010,1610062,Tebing Gerinting Selatan,Kelurahan/Desa
+1610062011,1610062,Arisan Gading,Kelurahan/Desa
+1610062012,1610062,Meranjat III,Kelurahan/Desa
+1610062013,1610062,Tebing Gerinting Utara,Kelurahan/Desa
+1610062014,1610062,Tanjung Dayang Utara,Kelurahan/Desa
+1611010006,1611010,Sawah,Kelurahan/Desa
+1611010007,1611010,Seleman Ulu,Kelurahan/Desa
+1611010008,1611010,Seleman Ilir,Kelurahan/Desa
+1611010009,1611010,Muara Timbuk,Kelurahan/Desa
+1611010010,1611010,Batu Galang,Kelurahan/Desa
+1611010011,1611010,Lubuk Ulak,Kelurahan/Desa
+1611010012,1611010,Talang Benteng,Kelurahan/Desa
+1611010013,1611010,Muara Semah,Kelurahan/Desa
+1611010014,1611010,Niur,Kelurahan/Desa
+1611010015,1611010,Fajar Menang,Kelurahan/Desa
+1611010016,1611010,Gedung Agung,Kelurahan/Desa
+1611010017,1611010,Tanjung Tawang,Kelurahan/Desa
+1611010018,1611010,Muara Pinang Lama,Kelurahan/Desa
+1611010019,1611010,Sapapanjang,Kelurahan/Desa
+1611010020,1611010,Talang Baru,Kelurahan/Desa
+1611010021,1611010,Muara Pinang Baru,Kelurahan/Desa
+1611010022,1611010,Lubuk Tanjung,Kelurahan/Desa
+1611010034,1611010,Padang Burnai,Kelurahan/Desa
+1611010035,1611010,Tanjung Kurung,Kelurahan/Desa
+1611010036,1611010,Belimbing,Kelurahan/Desa
+1611010037,1611010,Suka Dana,Kelurahan/Desa
+1611010038,1611010,Batu Jungul,Kelurahan/Desa
+1611020001,1611020,Tanjung Alam,Kelurahan/Desa
+1611020002,1611020,Lesung Batu,Kelurahan/Desa
+1611020003,1611020,Babatan,Kelurahan/Desa
+1611020004,1611020,Rantaualih,Kelurahan/Desa
+1611020005,1611020,Sukarami,Kelurahan/Desa
+1611020006,1611020,Rantau Kasai,Kelurahan/Desa
+1611020007,1611020,Lubuk Cik,Kelurahan/Desa
+1611020008,1611020,Karang Tanding,Kelurahan/Desa
+1611020009,1611020,Batu Ampar,Kelurahan/Desa
+1611020010,1611020,Nibung,Kelurahan/Desa
+1611020011,1611020,Pagar Jati,Kelurahan/Desa
+1611020012,1611020,Tanjung Jati,Kelurahan/Desa
+1611020013,1611020,Umojati,Kelurahan/Desa
+1611020014,1611020,Muara Danau,Kelurahan/Desa
+1611020015,1611020,Lubuk Tapang,Kelurahan/Desa
+1611020016,1611020,Endalo,Kelurahan/Desa
+1611030001,1611030,Lubuk Layang,Kelurahan/Desa
+1611030002,1611030,Bandar Agung,Kelurahan/Desa
+1611030003,1611030,Jarakan,Kelurahan/Desa
+1611030004,1611030,Lubuk Sepang,Kelurahan/Desa
+1611030005,1611030,Nanjungan,Kelurahan/Desa
+1611030006,1611030,Tanjung Eran,Kelurahan/Desa
+1611030007,1611030,Tanjung Raman,Kelurahan/Desa
+1611030008,1611030,Pendopo,Kelurahan/Desa
+1611030010,1611030,Gunung Meraksabaru,Kelurahan/Desa
+1611030011,1611030,Sarang Bulan,Kelurahan/Desa
+1611030012,1611030,Bayau,Kelurahan/Desa
+1611030013,1611030,Tanjung Baru,Kelurahan/Desa
+1611030014,1611030,Muara Karang,Kelurahan/Desa
+1611030015,1611030,Landur,Kelurahan/Desa
+1611030016,1611030,Gunung Meraksa Lama,Kelurahan/Desa
+1611030017,1611030,Manggilan,Kelurahan/Desa
+1611030018,1611030,Batu Cawang,Kelurahan/Desa
+1611030021,1611030,Beruge Ilir,Kelurahan/Desa
+1611030031,1611030,Pagar Tengah,Kelurahan/Desa
+1611031001,1611031,Muara Lintang Lama,Kelurahan/Desa
+1611031002,1611031,Muara Lintang Baru,Kelurahan/Desa
+1611031003,1611031,Tebat Payang,Kelurahan/Desa
+1611031004,1611031,Karang Caya,Kelurahan/Desa
+1611031005,1611031,Tanjung Raya,Kelurahan/Desa
+1611031006,1611031,Padang Bindu,Kelurahan/Desa
+1611031007,1611031,Lingge,Kelurahan/Desa
+1611031008,1611031,Rantau Dodor,Kelurahan/Desa
+1611031009,1611031,Kungkilan,Kelurahan/Desa
+1611031010,1611031,Air Kandis,Kelurahan/Desa
+1611040001,1611040,Penantian,Kelurahan/Desa
+1611040002,1611040,Talang Padang,Kelurahan/Desa
+1611040003,1611040,Tanjung Beringin,Kelurahan/Desa
+1611040004,1611040,Lawang Agung,Kelurahan/Desa
+1611040005,1611040,Pagar Jati,Kelurahan/Desa
+1611040006,1611040,Bandar Agung,Kelurahan/Desa
+1611040007,1611040,Keban Jati,Kelurahan/Desa
+1611040008,1611040,Nanjungan,Kelurahan/Desa
+1611040009,1611040,Talang Randai,Kelurahan/Desa
+1611040010,1611040,Air Mayan,Kelurahan/Desa
+1611040011,1611040,Padang Gelai,Kelurahan/Desa
+1611040012,1611040,Muara Rungga,Kelurahan/Desa
+1611040013,1611040,Padang Bindu,Kelurahan/Desa
+1611040014,1611040,Muara Sindang,Kelurahan/Desa
+1611040015,1611040,Muara Aman,Kelurahan/Desa
+1611050016,1611050,Air Kelinsar,Kelurahan/Desa
+1611050017,1611050,Talang Bengkulu,Kelurahan/Desa
+1611050018,1611050,Kunduran,Kelurahan/Desa
+1611050019,1611050,Simpang Perigi,Kelurahan/Desa
+1611050020,1611050,Muara Kalangan,Kelurahan/Desa
+1611050021,1611050,Batu Lintang,Kelurahan/Desa
+1611050022,1611050,Galang,Kelurahan/Desa
+1611050023,1611050,Tanjung Agung,Kelurahan/Desa
+1611050024,1611050,Padang Tepong,Kelurahan/Desa
+1611050025,1611050,Muara Betung,Kelurahan/Desa
+1611050026,1611050,Pulau Kemang,Kelurahan/Desa
+1611050027,1611050,Lubuk Puding Baru,Kelurahan/Desa
+1611050028,1611050,Lubuk Puding Lama,Kelurahan/Desa
+1611050029,1611050,Batu Bidung,Kelurahan/Desa
+1611051001,1611051,Puntang,Kelurahan/Desa
+1611051002,1611051,Bandar Aji,Kelurahan/Desa
+1611051003,1611051,Paduraksa,Kelurahan/Desa
+1611051004,1611051,Karang Gede,Kelurahan/Desa
+1611051005,1611051,Karang Dapo Baru,Kelurahan/Desa
+1611051006,1611051,Karang Dapo Lama,Kelurahan/Desa
+1611051007,1611051,Tangga Rasa,Kelurahan/Desa
+1611051008,1611051,Tapa Lama,Kelurahan/Desa
+1611051009,1611051,Tapa Baru,Kelurahan/Desa
+1611051010,1611051,Marta Pura,Kelurahan/Desa
+1611051011,1611051,Karang Anyar,Kelurahan/Desa
+1611060001,1611060,Karang Are,Kelurahan/Desa
+1611060002,1611060,Kembahang Lama,Kelurahan/Desa
+1611060003,1611060,Padang Titiran,Kelurahan/Desa
+1611060004,1611060,Ps Talang Padang,Kelurahan/Desa
+1611060005,1611060,Macang Manis,Kelurahan/Desa
+1611060006,1611060,Talang Padang,Kelurahan/Desa
+1611060007,1611060,Lampar Baru,Kelurahan/Desa
+1611060008,1611060,Kembahang Baru,Kelurahan/Desa
+1611060009,1611060,Canggu,Kelurahan/Desa
+1611060010,1611060,Remantai,Kelurahan/Desa
+1611060011,1611060,Talang Durian,Kelurahan/Desa
+1611060012,1611060,Lubuk Buntak,Kelurahan/Desa
+1611060013,1611060,Ulak Dabuk,Kelurahan/Desa
+1611070014,1611070,Ujung Alih,Kelurahan/Desa
+1611070015,1611070,Lubuk Gelanggang,Kelurahan/Desa
+1611070016,1611070,Ulak Mengkudu,Kelurahan/Desa
+1611070017,1611070,Batu Pance,Kelurahan/Desa
+1611070018,1611070,Aur Gading,Kelurahan/Desa
+1611070019,1611070,Terusan Lama,Kelurahan/Desa
+1611070020,1611070,Terusan Baru,Kelurahan/Desa
+1611070021,1611070,Seguring Kecil,Kelurahan/Desa
+1611070022,1611070,Rantau Tenang,Kelurahan/Desa
+1611070023,1611070,Lampar Baru,Kelurahan/Desa
+1611070024,1611070,Kemang Manis,Kelurahan/Desa
+1611070025,1611070,Kupang,Kelurahan/Desa
+1611070026,1611070,Mekar Jaya,Kelurahan/Desa
+1611070027,1611070,Makarti Jaya,Kelurahan/Desa
+1611070028,1611070,Pancurmas Unit Jaya,Kelurahan/Desa
+1611070029,1611070,Tanjung Kupang,Kelurahan/Desa
+1611070030,1611070,Pasar Tebing Tinggi,Kelurahan/Desa
+1611070031,1611070,Tanjung Makmur,Kelurahan/Desa
+1611070032,1611070,Kelumpang Jaya,Kelurahan/Desa
+1611070033,1611070,Pajar Bakti,Kelurahan/Desa
+1611070034,1611070,Sugi Waras,Kelurahan/Desa
+1611070035,1611070,Batu Raja Baru,Kelurahan/Desa
+1611070036,1611070,Batu Raja Lama,Kelurahan/Desa
+1611070037,1611070,Kota Gading,Kelurahan/Desa
+1611070047,1611070,Jaya Loka,Kelurahan/Desa
+1611070048,1611070,Tanjung Kupang Baru,Kelurahan/Desa
+1611071001,1611071,Lubuk Kelumpang,Kelurahan/Desa
+1611071002,1611071,Sawah,Kelurahan/Desa
+1611071003,1611071,Tanjung Ning Simpang,Kelurahan/Desa
+1611071004,1611071,Tanjung Ning Jaya,Kelurahan/Desa
+1611071005,1611071,Tanjung Ning Lama,Kelurahan/Desa
+1611071006,1611071,Tanjung Ning Tengah,Kelurahan/Desa
+1611071007,1611071,Kebon,Kelurahan/Desa
+1611071008,1611071,Suka Kaya,Kelurahan/Desa
+1611071009,1611071,Taba,Kelurahan/Desa
+1611071010,1611071,Muara Saling,Kelurahan/Desa
+1612010001,1612010,Semangus,Kelurahan/Desa
+1612010002,1612010,Benakat Minyak,Kelurahan/Desa
+1612010003,1612010,Sungai Baung,Kelurahan/Desa
+1612010004,1612010,Talang Ubi Barat,Kelurahan/Desa
+1612010005,1612010,Pasar Bhayangkara,Kelurahan/Desa
+1612010006,1612010,Talang Ubi Selatan,Kelurahan/Desa
+1612010007,1612010,Talang Ubi Timur,Kelurahan/Desa
+1612010008,1612010,Handayani Mulia,Kelurahan/Desa
+1612010009,1612010,Simpang Tais,Kelurahan/Desa
+1612010010,1612010,Talang Bulang,Kelurahan/Desa
+1612010011,1612010,Benuang,Kelurahan/Desa
+1612010012,1612010,Beruge Darat,Kelurahan/Desa
+1612010013,1612010,Kertadewa,Kelurahan/Desa
+1612010014,1612010,Sinar Dewa,Kelurahan/Desa
+1612010015,1612010,Panta Dewa,Kelurahan/Desa
+1612010016,1612010,Sungai Ibul,Kelurahan/Desa
+1612010017,1612010,Sukamaju,Kelurahan/Desa
+1612010018,1612010,Talang Ubi Utara,Kelurahan/Desa
+1612010019,1612010,Suka Damai,Kelurahan/Desa
+1612010020,1612010,Talang Akar,Kelurahan/Desa
+1612020001,1612020,Bumiayu,Kelurahan/Desa
+1612020002,1612020,Tanah Abang Selatan,Kelurahan/Desa
+1612020003,1612020,Suka Manis,Kelurahan/Desa
+1612020004,1612020,Muara Dua,Kelurahan/Desa
+1612020005,1612020,Petulai,Kelurahan/Desa
+1612020006,1612020,Tanah Abang Utara,Kelurahan/Desa
+1612020007,1612020,Muara Sungai,Kelurahan/Desa
+1612020008,1612020,Curup,Kelurahan/Desa
+1612020009,1612020,Raja,Kelurahan/Desa
+1612020010,1612020,Raja Barat,Kelurahan/Desa
+1612020011,1612020,Harapan Jaya,Kelurahan/Desa
+1612020012,1612020,Lunas Jaya,Kelurahan/Desa
+1612020013,1612020,Sukaraja,Kelurahan/Desa
+1612020014,1612020,Sedupi,Kelurahan/Desa
+1612020015,1612020,Tanjung Dalam,Kelurahan/Desa
+1612020016,1612020,Pandan,Kelurahan/Desa
+1612020017,1612020,Modong,Kelurahan/Desa
+1612030001,1612030,Pengabuan,Kelurahan/Desa
+1612030002,1612030,Pengabuan Timur,Kelurahan/Desa
+1612030003,1612030,Perambatan,Kelurahan/Desa
+1612030004,1612030,Betung,Kelurahan/Desa
+1612030005,1612030,Betung Selatan,Kelurahan/Desa
+1612030006,1612030,Betung Barat,Kelurahan/Desa
+1612030007,1612030,Karang Agung,Kelurahan/Desa
+1612030008,1612030,Tanjung Kurung,Kelurahan/Desa
+1612040001,1612040,Purun Timur,Kelurahan/Desa
+1612040002,1612040,Purun,Kelurahan/Desa
+1612040003,1612040,Babat,Kelurahan/Desa
+1612040004,1612040,Sungai Langan,Kelurahan/Desa
+1612040005,1612040,Sepantan Jaya,Kelurahan/Desa
+1612040006,1612040,Gunung Raja,Kelurahan/Desa
+1612040007,1612040,Suka Raja,Kelurahan/Desa
+1612040008,1612040,Gunung Menang,Kelurahan/Desa
+1612040009,1612040,Mangkunegara,Kelurahan/Desa
+1612040010,1612040,Raja Jaya,Kelurahan/Desa
+1612040011,1612040,Mangkunegara Timur,Kelurahan/Desa
+1612040012,1612040,Air Itam,Kelurahan/Desa
+1612040013,1612040,Air Itam Timur,Kelurahan/Desa
+1612040014,1612040,Simpang Tiga Babat,Kelurahan/Desa
+1612040015,1612040,Simpang Babat,Kelurahan/Desa
+1612050001,1612050,Tambak,Kelurahan/Desa
+1612050002,1612050,Suka Rami,Kelurahan/Desa
+1612050003,1612050,Tanjung Baru,Kelurahan/Desa
+1612050004,1612050,Muara Ikan,Kelurahan/Desa
+1612050005,1612050,Kota Baru,Kelurahan/Desa
+1612050006,1612050,Tanding Marga,Kelurahan/Desa
+1612050007,1612050,Karang Tanding,Kelurahan/Desa
+1612050008,1612050,Lubuk Tampui,Kelurahan/Desa
+1612050009,1612050,Prabumenang,Kelurahan/Desa
+1612050010,1612050,Tempirai Selatan,Kelurahan/Desa
+1612050011,1612050,Tempirai Utara,Kelurahan/Desa
+1612050012,1612050,Tempirai Timur,Kelurahan/Desa
+1612050013,1612050,Tempirai,Kelurahan/Desa
+1612050014,1612050,Madu Kincing,Kelurahan/Desa
+1612050015,1612050,Tanding Jaya,Kelurahan/Desa
+1613010001,1613010,Kuto Tanjung,Kelurahan/Desa
+1613010002,1613010,Napal Licin,Kelurahan/Desa
+1613010003,1613010,Sosokan,Kelurahan/Desa
+1613010004,1613010,Muara Kulam,Kelurahan/Desa
+1613010005,1613010,Muara Kuis,Kelurahan/Desa
+1613010006,1613010,Pulau Kidak,Kelurahan/Desa
+1613010007,1613010,Jangkat,Kelurahan/Desa
+1613020001,1613020,Lubuk Kumbung,Kelurahan/Desa
+1613020002,1613020,Bukit Ulu,Kelurahan/Desa
+1613020003,1613020,Bukit Langkap,Kelurahan/Desa
+1613020004,1613020,Rantau Jaya,Kelurahan/Desa
+1613020005,1613020,Sukaraja,Kelurahan/Desa
+1613020006,1613020,Muara Batang Empu,Kelurahan/Desa
+1613020007,1613020,Rantau Telang,Kelurahan/Desa
+1613020008,1613020,Tanjung Agung,Kelurahan/Desa
+1613020009,1613020,Sukamenang,Kelurahan/Desa
+1613020010,1613020,Terusan,Kelurahan/Desa
+1613020011,1613020,Karang Jaya,Kelurahan/Desa
+1613020012,1613020,Embacang Baru,Kelurahan/Desa
+1613020013,1613020,Embacang Baru Ilir,Kelurahan/Desa
+1613020014,1613020,Embacang Lama,Kelurahan/Desa
+1613020015,1613020,Muara Tiku,Kelurahan/Desa
+1613030001,1613030,Lubuk Mas,Kelurahan/Desa
+1613030002,1613030,Pangkalan,Kelurahan/Desa
+1613030003,1613030,Teladas,Kelurahan/Desa
+1613030004,1613030,Kerta Dewa,Kelurahan/Desa
+1613030005,1613030,Pulau Lebar,Kelurahan/Desa
+1613030006,1613030,Sungai Baung,Kelurahan/Desa
+1613030007,1613030,Surulangun,Kelurahan/Desa
+1613030008,1613030,Sukomoro,Kelurahan/Desa
+1613030009,1613030,Pasar Surulangun,Kelurahan/Desa
+1613030010,1613030,Lesung Batu Muda,Kelurahan/Desa
+1613030011,1613030,Lesung Batu,Kelurahan/Desa
+1613030012,1613030,Lubuk Kemang,Kelurahan/Desa
+1613030013,1613030,Remban,Kelurahan/Desa
+1613030014,1613030,Sungai Kijang,Kelurahan/Desa
+1613030015,1613030,Sungai Jauh,Kelurahan/Desa
+1613030016,1613030,Simpang Nibung Rawas,Kelurahan/Desa
+1613030017,1613030,Sungai Lanang,Kelurahan/Desa
+1613040001,1613040,Batu Gajah,Kelurahan/Desa
+1613040002,1613040,Tanjung Beringin,Kelurahan/Desa
+1613040003,1613040,Noman,Kelurahan/Desa
+1613040004,1613040,Noman Baru,Kelurahan/Desa
+1613040005,1613040,Batu Gajah Baru,Kelurahan/Desa
+1613040006,1613040,Maur Baru,Kelurahan/Desa
+1613040007,1613040,Maur Lama,Kelurahan/Desa
+1613040008,1613040,Bingin Rupit,Kelurahan/Desa
+1613040009,1613040,Beringin Jaya,Kelurahan/Desa
+1613040010,1613040,Muara Rupit,Kelurahan/Desa
+1613040011,1613040,Karang Anyar,Kelurahan/Desa
+1613040012,1613040,Karang Waru,Kelurahan/Desa
+1613040013,1613040,Lawang Agung,Kelurahan/Desa
+1613040014,1613040,Lubuk Rumbai,Kelurahan/Desa
+1613040015,1613040,Lubuk Rumbai Baru,Kelurahan/Desa
+1613040016,1613040,Sungai Jernih,Kelurahan/Desa
+1613040017,1613040,Pantai,Kelurahan/Desa
+1613050001,1613050,Kertasari,Kelurahan/Desa
+1613050002,1613050,Rantau Kadam,Kelurahan/Desa
+1613050003,1613050,Karang Dapo I,Kelurahan/Desa
+1613050004,1613050,Karang Dapo,Kelurahan/Desa
+1613050005,1613050,Setia Marga,Kelurahan/Desa
+1613050006,1613050,Biaro Baru,Kelurahan/Desa
+1613050007,1613050,Biaro Lama,Kelurahan/Desa
+1613050008,1613050,Aringin,Kelurahan/Desa
+1613050009,1613050,Bina Karya,Kelurahan/Desa
+1613060001,1613060,Mandi Angin,Kelurahan/Desa
+1613060002,1613060,Beringin Makmur I,Kelurahan/Desa
+1613060003,1613060,Batu Kucing,Kelurahan/Desa
+1613060004,1613060,Pauh,Kelurahan/Desa
+1613060005,1613060,Mekarsari,Kelurahan/Desa
+1613060006,1613060,Ketapat Bening,Kelurahan/Desa
+1613060007,1613060,Air Bening,Kelurahan/Desa
+1613060008,1613060,Pauh I,Kelurahan/Desa
+1613060009,1613060,Belani,Kelurahan/Desa
+1613060010,1613060,Tanjung Raja,Kelurahan/Desa
+1613060011,1613060,Beringin Makmur II,Kelurahan/Desa
+1613060012,1613060,Bingin Teluk,Kelurahan/Desa
+1613060013,1613060,Beringin Sakti,Kelurahan/Desa
+1613070001,1613070,Jadi Mulya I,Kelurahan/Desa
+1613070002,1613070,Kerani Jaya,Kelurahan/Desa
+1613070003,1613070,Jadi Mulya,Kelurahan/Desa
+1613070004,1613070,Sumber Makmur,Kelurahan/Desa
+1613070005,1613070,Mulya Jaya,Kelurahan/Desa
+1613070006,1613070,Kelumpang Jaya,Kelurahan/Desa
+1613070007,1613070,Srijaya Makmur,Kelurahan/Desa
+1613070008,1613070,Karya Makmur,Kelurahan/Desa
+1613070009,1613070,Bumi Makmur,Kelurahan/Desa
+1613070010,1613070,Sumber Sari,Kelurahan/Desa
+1613070011,1613070,Tebing Tinggi,Kelurahan/Desa
+1671010006,1671010,35 Ilir,Kelurahan/Desa
+1671010007,1671010,32 Ilir,Kelurahan/Desa
+1671010008,1671010,30 Ilir,Kelurahan/Desa
+1671010009,1671010,Kemang Manis,Kelurahan/Desa
+1671010010,1671010,29 Ilir,Kelurahan/Desa
+1671010011,1671010,28 Ilir,Kelurahan/Desa
+1671010012,1671010,27 Ilir,Kelurahan/Desa
+1671011001,1671011,Pulo Kerto,Kelurahan/Desa
+1671011002,1671011,Gandus,Kelurahan/Desa
+1671011003,1671011,Karang Jaya,Kelurahan/Desa
+1671011004,1671011,Karang Anyar,Kelurahan/Desa
+1671011005,1671011,36 Ilir,Kelurahan/Desa
+1671020008,1671020,1 Ulu,Kelurahan/Desa
+1671020010,1671020,2 Ulu,Kelurahan/Desa
+1671020011,1671020,3-4 Ulu,Kelurahan/Desa
+1671020012,1671020,5 Ulu,Kelurahan/Desa
+1671020013,1671020,7 Ulu,Kelurahan/Desa
+1671021001,1671021,Karya Jaya,Kelurahan/Desa
+1671021002,1671021,Keramasan,Kelurahan/Desa
+1671021003,1671021,Kemang Agung,Kelurahan/Desa
+1671021004,1671021,Kemas Rindo,Kelurahan/Desa
+1671021005,1671021,Ogan Baru,Kelurahan/Desa
+1671021006,1671021,Kertapati,Kelurahan/Desa
+1671022001,1671022,15 Ulu,Kelurahan/Desa
+1671022002,1671022,Tuan Kentang,Kelurahan/Desa
+1671022003,1671022,8 Ulu,Kelurahan/Desa
+1671022004,1671022,Silaberanti,Kelurahan/Desa
+1671022005,1671022,9/10 Ulu,Kelurahan/Desa
+1671030007,1671030,Sentosa,Kelurahan/Desa
+1671030008,1671030,16 Ulu,Kelurahan/Desa
+1671030010,1671030,Tangga Takat,Kelurahan/Desa
+1671030011,1671030,14 Ulu,Kelurahan/Desa
+1671030012,1671030,13 Ulu,Kelurahan/Desa
+1671030013,1671030,12 Ulu,Kelurahan/Desa
+1671030014,1671030,11 Ulu,Kelurahan/Desa
+1671031001,1671031,Plaju Darat,Kelurahan/Desa
+1671031002,1671031,Talang Putri,Kelurahan/Desa
+1671031003,1671031,Komperta,Kelurahan/Desa
+1671031004,1671031,Plaju Ilir,Kelurahan/Desa
+1671031005,1671031,Talang Bubuk,Kelurahan/Desa
+1671031006,1671031,Plaju Ulu,Kelurahan/Desa
+1671031007,1671031,Bagus Kuning,Kelurahan/Desa
+1671040001,1671040,Bukit Lama,Kelurahan/Desa
+1671040002,1671040,26 Ilir I,Kelurahan/Desa
+1671040009,1671040,Lorok Pakjo,Kelurahan/Desa
+1671040010,1671040,Demang Lebar Daun,Kelurahan/Desa
+1671040011,1671040,Bukit Baru,Kelurahan/Desa
+1671040012,1671040,Siring Agung,Kelurahan/Desa
+1671041001,1671041,Talang Semut,Kelurahan/Desa
+1671041002,1671041,22 Ilir,Kelurahan/Desa
+1671041003,1671041,19 Ilir,Kelurahan/Desa
+1671041004,1671041,23 Ilir,Kelurahan/Desa
+1671041005,1671041,26 Ilir,Kelurahan/Desa
+1671041006,1671041,24 Ilir,Kelurahan/Desa
+1671050001,1671050,18 Ilir,Kelurahan/Desa
+1671050002,1671050,16 Ilir,Kelurahan/Desa
+1671050003,1671050,13 Ilir,Kelurahan/Desa
+1671050004,1671050,14 Ilir,Kelurahan/Desa
+1671050005,1671050,15 Ilir,Kelurahan/Desa
+1671050006,1671050,17 Ilir,Kelurahan/Desa
+1671050007,1671050,Kepandean Baru,Kelurahan/Desa
+1671050008,1671050,20 Ilir I,Kelurahan/Desa
+1671050009,1671050,Sei Pangeran,Kelurahan/Desa
+1671050011,1671050,20 Ilir III,Kelurahan/Desa
+1671050017,1671050,20 Ilir IV,Kelurahan/Desa
+1671051001,1671051,Sekip Jaya,Kelurahan/Desa
+1671051002,1671051,Pahlawan,Kelurahan/Desa
+1671051003,1671051,20 Ilir II,Kelurahan/Desa
+1671051004,1671051,Pipa Reja,Kelurahan/Desa
+1671051005,1671051,Talang Aman,Kelurahan/Desa
+1671051006,1671051,Ario Kemuning,Kelurahan/Desa
+1671060004,1671060,Lawang Kidul,Kelurahan/Desa
+1671060005,1671060,3 Ilir,Kelurahan/Desa
+1671060006,1671060,1 Ilir,Kelurahan/Desa
+1671060007,1671060,Sungai Buah,Kelurahan/Desa
+1671060008,1671060,2 Ilir,Kelurahan/Desa
+1671060009,1671060,5 Ilir,Kelurahan/Desa
+1671061001,1671061,Sei Lais,Kelurahan/Desa
+1671061002,1671061,Sei Selincah,Kelurahan/Desa
+1671061003,1671061,Sei Selayur,Kelurahan/Desa
+1671061004,1671061,Kalidoni,Kelurahan/Desa
+1671061005,1671061,Bukit Sangkal,Kelurahan/Desa
+1671062001,1671062,10 Ilir,Kelurahan/Desa
+1671062002,1671062,11 Ilir,Kelurahan/Desa
+1671062003,1671062,Kuto Batu,Kelurahan/Desa
+1671062004,1671062,Duku,Kelurahan/Desa
+1671062005,1671062,9 Ilir,Kelurahan/Desa
+1671062006,1671062,8 Ilir,Kelurahan/Desa
+1671070001,1671070,Sukamaju,Kelurahan/Desa
+1671070002,1671070,Sialang,Kelurahan/Desa
+1671070003,1671070,Sako,Kelurahan/Desa
+1671070007,1671070,Sako Baru,Kelurahan/Desa
+1671071001,1671071,Lebong Gajah,Kelurahan/Desa
+1671071002,1671071,Srimulyo,Kelurahan/Desa
+1671071003,1671071,Suka Mulya,Kelurahan/Desa
+1671071004,1671071,Karya Mulya,Kelurahan/Desa
+1671080002,1671080,Suka Bangun,Kelurahan/Desa
+1671080003,1671080,Sukajaya,Kelurahan/Desa
+1671080004,1671080,Sukarami,Kelurahan/Desa
+1671080008,1671080,Kebun Bunga,Kelurahan/Desa
+1671080009,1671080,Talang Betutu,Kelurahan/Desa
+1671080010,1671080,Sukodadi,Kelurahan/Desa
+1671080011,1671080,Talang Jambe,Kelurahan/Desa
+1671081001,1671081,Srijaya,Kelurahan/Desa
+1671081002,1671081,Karya Baru,Kelurahan/Desa
+1671081003,1671081,Talang Kelapa,Kelurahan/Desa
+1671081004,1671081,Alang Alang Lebar,Kelurahan/Desa
+1672010001,1672010,Rambang Senuling,Kelurahan/Desa
+1672010002,1672010,Tanjung Rambang,Kelurahan/Desa
+1672010003,1672010,Karang Bindu,Kelurahan/Desa
+1672010005,1672010,Karya Mulya,Kelurahan/Desa
+1672010006,1672010,Sinar Rambang,Kelurahan/Desa
+1672010007,1672010,Jungai,Kelurahan/Desa
+1672010008,1672010,Talang Batu,Kelurahan/Desa
+1672010009,1672010,Karangan,Kelurahan/Desa
+1672010010,1672010,Kemang Tanduk,Kelurahan/Desa
+1672020003,1672020,Karang Raja,Kelurahan/Desa
+1672020004,1672020,Muara Dua,Kelurahan/Desa
+1672020005,1672020,Gunung Ibul Barat,Kelurahan/Desa
+1672020006,1672020,Gunung Ibul,Kelurahan/Desa
+1672020007,1672020,Karang Jaya,Kelurahan/Desa
+1672020008,1672020,Tugu Kecil,Kelurahan/Desa
+1672020009,1672020,Prabu Jaya,Kelurahan/Desa
+1672020010,1672020,Sukajadi,Kelurahan/Desa
+1672021001,1672021,Tanjung Menang,Kelurahan/Desa
+1672021002,1672021,Tanjung Raman,Kelurahan/Desa
+1672021003,1672021,Suka Raja,Kelurahan/Desa
+1672021004,1672021,Majasari,Kelurahan/Desa
+1672030001,1672030,Gunung Kemala,Kelurahan/Desa
+1672030002,1672030,Patih Galung,Kelurahan/Desa
+1672030003,1672030,Prabumulih,Kelurahan/Desa
+1672030008,1672030,Muntang Tapus,Kelurahan/Desa
+1672030011,1672030,Payu Putat,Kelurahan/Desa
+1672030012,1672030,Tanjung Telang,Kelurahan/Desa
+1672031001,1672031,Wonosari,Kelurahan/Desa
+1672031002,1672031,Pasar Prabumulih,Kelurahan/Desa
+1672031003,1672031,Mangga Besar,Kelurahan/Desa
+1672031004,1672031,Anak Petai,Kelurahan/Desa
+1672031005,1672031,Pasar II Prabumulih,Kelurahan/Desa
+1672040003,1672040,Sungai Medang,Kelurahan/Desa
+1672040004,1672040,Muara Sungai,Kelurahan/Desa
+1672040005,1672040,Cambai,Kelurahan/Desa
+1672040006,1672040,Sindur,Kelurahan/Desa
+1672040007,1672040,Pangkul,Kelurahan/Desa
+1673010001,1673010,Penjalang,Kelurahan/Desa
+1673010002,1673010,Lubuk Buntak,Kelurahan/Desa
+1673010003,1673010,Perahu Dipo,Kelurahan/Desa
+1673010004,1673010,Kance Diwe,Kelurahan/Desa
+1673010005,1673010,Atung Bungsu,Kelurahan/Desa
+1673011001,1673011,Candi Jaya,Kelurahan/Desa
+1673011002,1673011,Jokoh,Kelurahan/Desa
+1673011003,1673011,Pelang Kenidai,Kelurahan/Desa
+1673011004,1673011,Padang Temu,Kelurahan/Desa
+1673011005,1673011,Karang Dalo,Kelurahan/Desa
+1673020001,1673020,Burung Dinang,Kelurahan/Desa
+1673020002,1673020,Muara Siban,Kelurahan/Desa
+1673020003,1673020,Reba Tinggi,Kelurahan/Desa
+1673020004,1673020,Jangkar Mas,Kelurahan/Desa
+1673020005,1673020,Pagar Wangi,Kelurahan/Desa
+1673020006,1673020,Bumi Agung,Kelurahan/Desa
+1673020007,1673020,Agung Lawangan,Kelurahan/Desa
+1673030001,1673030,Tanjung Agung,Kelurahan/Desa
+1673030002,1673030,Ulu Rurah,Kelurahan/Desa
+1673030003,1673030,Tumbak Ulas,Kelurahan/Desa
+1673030004,1673030,Basemah Serasan,Kelurahan/Desa
+1673030005,1673030,Tebat Giri Indah,Kelurahan/Desa
+1673030006,1673030,Sidorejo,Kelurahan/Desa
+1673030007,1673030,Nendagung,Kelurahan/Desa
+1673030008,1673030,Gunung Dempo,Kelurahan/Desa
+1673040001,1673040,Dempo Makmur,Kelurahan/Desa
+1673040002,1673040,Bangun Rejo,Kelurahan/Desa
+1673040003,1673040,Curup Jare,Kelurahan/Desa
+1673040004,1673040,Pagar Alam,Kelurahan/Desa
+1673040005,1673040,Sukorejo,Kelurahan/Desa
+1673040006,1673040,Bangun Jaya,Kelurahan/Desa
+1673040007,1673040,Beringin Jaya,Kelurahan/Desa
+1673040008,1673040,Alun Dua,Kelurahan/Desa
+1673040009,1673040,Kuripan Babas,Kelurahan/Desa
+1673040010,1673040,Selibar,Kelurahan/Desa
+1674011001,1674011,Kayu Ara,Kelurahan/Desa
+1674011002,1674011,Watas Lubuk Durian,Kelurahan/Desa
+1674011003,1674011,Lubuk Tanjung,Kelurahan/Desa
+1674011004,1674011,Tanjung Indah,Kelurahan/Desa
+1674011005,1674011,Tanjung Aman,Kelurahan/Desa
+1674011006,1674011,Lubuk Aman,Kelurahan/Desa
+1674011007,1674011,Pelita Jaya,Kelurahan/Desa
+1674011008,1674011,Bandung Ujung,Kelurahan/Desa
+1674011009,1674011,Bandung Kiri,Kelurahan/Desa
+1674011010,1674011,Sukajadi,Kelurahan/Desa
+1674011011,1674011,Muara Enim,Kelurahan/Desa
+1674012001,1674012,Sidorejo,Kelurahan/Desa
+1674012002,1674012,Tapak Lebar,Kelurahan/Desa
+1674012003,1674012,Ulak Lebar,Kelurahan/Desa
+1674012004,1674012,Bandung Kanan,Kelurahan/Desa
+1674012005,1674012,Keputeraan,Kelurahan/Desa
+1674012006,1674012,Lubuk Linggau Ulu,Kelurahan/Desa
+1674012007,1674012,Lubuk Linggau Ilir,Kelurahan/Desa
+1674012008,1674012,Pasar Permiri,Kelurahan/Desa
+1674021001,1674021,Rahma,Kelurahan/Desa
+1674021002,1674021,Perumnas Rahma,Kelurahan/Desa
+1674021003,1674021,Jukung,Kelurahan/Desa
+1674021004,1674021,Air Kati,Kelurahan/Desa
+1674021005,1674021,Lubuk Binjai,Kelurahan/Desa
+1674021006,1674021,Lubuk Kupang,Kelurahan/Desa
+1674021007,1674021,Air Temam,Kelurahan/Desa
+1674022001,1674022,Taba Pingin,Kelurahan/Desa
+1674022002,1674022,Moneng Sepati,Kelurahan/Desa
+1674022003,1674022,Marga Mulya,Kelurahan/Desa
+1674022004,1674022,Marga Rahayu,Kelurahan/Desa
+1674022005,1674022,Tanah Periuk,Kelurahan/Desa
+1674022006,1674022,Simpang Periuk,Kelurahan/Desa
+1674022007,1674022,Karang Ketuan,Kelurahan/Desa
+1674022008,1674022,Eka Marga,Kelurahan/Desa
+1674022009,1674022,Siring Agung,Kelurahan/Desa
+1674031001,1674031,Taba Jemekeh,Kelurahan/Desa
+1674031002,1674031,Taba Koji,Kelurahan/Desa
+1674031003,1674031,Batu Urip Taba,Kelurahan/Desa
+1674031004,1674031,Watervang,Kelurahan/Desa
+1674031005,1674031,Majapahit,Kelurahan/Desa
+1674031006,1674031,Air Kuti,Kelurahan/Desa
+1674031007,1674031,Nikan Jaya,Kelurahan/Desa
+1674031008,1674031,Taba Lestari,Kelurahan/Desa
+1674032001,1674032,Mesat Jaya,Kelurahan/Desa
+1674032002,1674032,Mesat Seni,Kelurahan/Desa
+1674032003,1674032,Jawa Kanan,Kelurahan/Desa
+1674032004,1674032,Jawa Kanan Ss,Kelurahan/Desa
+1674032005,1674032,Jawa Kiri,Kelurahan/Desa
+1674032006,1674032,Wira Karya,Kelurahan/Desa
+1674032007,1674032,Dempo,Kelurahan/Desa
+1674032008,1674032,Karya Bhakti,Kelurahan/Desa
+1674032009,1674032,Cereme Taba,Kelurahan/Desa
+1674041001,1674041,Sumber Agung,Kelurahan/Desa
+1674041002,1674041,Petanang Ulu,Kelurahan/Desa
+1674041003,1674041,Petanang Ilir,Kelurahan/Desa
+1674041004,1674041,Belalau I,Kelurahan/Desa
+1674041005,1674041,Belalau II,Kelurahan/Desa
+1674041006,1674041,Taba Baru,Kelurahan/Desa
+1674041007,1674041,Margo Rejo,Kelurahan/Desa
+1674041008,1674041,Marga Bakti,Kelurahan/Desa
+1674041009,1674041,Durian Rampak,Kelurahan/Desa
+1674041010,1674041,Tanjung Raya,Kelurahan/Desa
+1674042001,1674042,Ulak Surung,Kelurahan/Desa
+1674042002,1674042,Pasar Satelit,Kelurahan/Desa
+1674042003,1674042,Kenanga,Kelurahan/Desa
+1674042004,1674042,Senalang,Kelurahan/Desa
+1674042005,1674042,Batu Urip,Kelurahan/Desa
+1674042006,1674042,Megang,Kelurahan/Desa
+1674042007,1674042,Ponorogo,Kelurahan/Desa
+1674042008,1674042,Jogoboyo,Kelurahan/Desa
+1674042009,1674042,Puncak Kemuning,Kelurahan/Desa
+1674042010,1674042,Kali Serayu,Kelurahan/Desa

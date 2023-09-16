@@ -1,0 +1,237 @@
+﻿id,regency_id,name,area
+1601052,1601,Lengkiti,Kecamatan
+1601070,1601,Sosoh Buay Rayap,Kecamatan
+1601080,1601,Pengandonan,Kecamatan
+1601081,1601,Semidang Aji,Kecamatan
+1601082,1601,Ulu Ogan,Kecamatan
+1601083,1601,Muara Jaya,Kecamatan
+1601090,1601,Peninjauan,Kecamatan
+1601091,1601,Lubuk Batang,Kecamatan
+1601092,1601,Sinar Peninjauan,Kecamatan
+1601093,1601,Kedaton Peninjauan Raya,Kecamatan
+1601130,1601,Batu Raja Timur,Kecamatan
+1601131,1601,Lubuk Raja,Kecamatan
+1601140,1601,Batu Raja Barat,Kecamatan
+1602010,1602,Lempuing,Kecamatan
+1602011,1602,Lempuing Jaya,Kecamatan
+1602020,1602,Mesuji,Kecamatan
+1602021,1602,Sungai Menang,Kecamatan
+1602022,1602,Mesuji Makmur,Kecamatan
+1602023,1602,Mesuji Raya,Kecamatan
+1602030,1602,Tulung Selapan,Kecamatan
+1602031,1602,Cengal,Kecamatan
+1602040,1602,Pedamaran,Kecamatan
+1602041,1602,Pedamaran Timur,Kecamatan
+1602050,1602,Tanjung Lubuk,Kecamatan
+1602051,1602,Teluk Gelam,Kecamatan
+1602060,1602,Kota Kayu Agung,Kecamatan
+1602120,1602,Sirah Pulau Padang,Kecamatan
+1602121,1602,Jejawi,Kecamatan
+1602130,1602,Pampangan,Kecamatan
+1602131,1602,Pangkalan Lapam,Kecamatan
+1602140,1602,Air Sugihan,Kecamatan
+1603010,1603,Semendo Darat Laut,Kecamatan
+1603011,1603,Semendo Darat Ulu,Kecamatan
+1603012,1603,Semendo Darat Tengah,Kecamatan
+1603020,1603,Tanjung Agung,Kecamatan
+1603031,1603,Rambang,Kecamatan
+1603032,1603,Lubai,Kecamatan
+1603033,1603,Lubai Ulu,Kecamatan
+1603040,1603,Lawang Kidul,Kecamatan
+1603050,1603,Muara Enim,Kecamatan
+1603051,1603,Ujan Mas,Kecamatan
+1603060,1603,Gunung Megang,Kecamatan
+1603061,1603,Benakat,Kecamatan
+1603062,1603,Belimbing,Kecamatan
+1603070,1603,Rambang Dangku,Kecamatan
+1603090,1603,Gelumbang,Kecamatan
+1603091,1603,Lembak,Kecamatan
+1603092,1603,Sungai Rotan,Kecamatan
+1603093,1603,Muara Belida,Kecamatan
+1603094,1603,Kelekar,Kecamatan
+1603095,1603,Belida Darat,Kecamatan
+1604011,1604,Tanjung Sakti Pumi,Kecamatan
+1604012,1604,Tanjung Sakti Pumu,Kecamatan
+1604040,1604,Kota Agung,Kecamatan
+1604041,1604,Mulak Ulu,Kecamatan
+1604042,1604,Tanjung Tebat,Kecamatan
+1604043,1604,Mulak Sebingkai,Kecamatan
+1604050,1604,Pulau Pinang,Kecamatan
+1604051,1604,Pagar Gunung,Kecamatan
+1604052,1604,Gumay Ulu,Kecamatan
+1604060,1604,Jarai,Kecamatan
+1604061,1604,Pajar Bulan,Kecamatan
+1604062,1604,Muara Payang,Kecamatan
+1604063,1604,Sukamerindu,Kecamatan
+1604111,1604,Kikim Barat,Kecamatan
+1604112,1604,Kikim Timur,Kecamatan
+1604113,1604,Kikim Selatan,Kecamatan
+1604114,1604,Kikim Tengah,Kecamatan
+1604120,1604,Lahat,Kecamatan
+1604121,1604,Gumay Talang,Kecamatan
+1604122,1604,Pseksu,Kecamatan
+1604123,1604,Lahat Selatan,Kecamatan
+1604131,1604,Merapi Barat,Kecamatan
+1604132,1604,Merapi Timur,Kecamatan
+1604133,1604,Merapi Selatan,Kecamatan
+1605030,1605,Suku Tengah Lakitan Ulu,Kecamatan
+1605031,1605,Selangit,Kecamatan
+1605032,1605,Sumber Harta,Kecamatan
+1605040,1605,Tugumulyo,Kecamatan
+1605041,1605,Purwodadi,Kecamatan
+1605050,1605,Muara Beliti,Kecamatan
+1605051,1605,Tiang Pumpung Kepungut,Kecamatan
+1605060,1605,Jayaloka,Kecamatan
+1605061,1605,Suka Karya,Kecamatan
+1605070,1605,Muara Kelingi,Kecamatan
+1605071,1605,Bulang Tengah Suku Ulu,Kecamatan
+1605072,1605,Tuah Negeri,Kecamatan
+1605080,1605,Muara Lakitan,Kecamatan
+1605090,1605,Megang Sakti,Kecamatan
+1606010,1606,Sanga Desa,Kecamatan
+1606020,1606,Babat Toman,Kecamatan
+1606021,1606,Batanghari Leko,Kecamatan
+1606022,1606,Plakat Tinggi,Kecamatan
+1606023,1606,Lawang Wetan,Kecamatan
+1606030,1606,Sungai Keruh,Kecamatan
+1606040,1606,Sekayu,Kecamatan
+1606041,1606,Lais,Kecamatan
+1606090,1606,Sungai Lilin,Kecamatan
+1606091,1606,Keluang,Kecamatan
+1606092,1606,Babat Supat,Kecamatan
+1606100,1606,Bayung Lencir,Kecamatan
+1606101,1606,Lalan,Kecamatan
+1606102,1606,Tungkal Jaya,Kecamatan
+1607010,1607,Rantau Bayur,Kecamatan
+1607020,1607,Betung,Kecamatan
+1607021,1607,Suak Tapeh,Kecamatan
+1607030,1607,Pulau Rimau,Kecamatan
+1607031,1607,Tungkal Ilir,Kecamatan
+1607040,1607,Banyuasin III,Kecamatan
+1607041,1607,Sembawa,Kecamatan
+1607050,1607,Talang Kelapa,Kecamatan
+1607051,1607,Tanjung Lago,Kecamatan
+1607060,1607,Banyuasin I,Kecamatan
+1607061,1607,Air Kumbang,Kecamatan
+1607070,1607,Rambutan,Kecamatan
+1607080,1607,Muara Padang,Kecamatan
+1607081,1607,Muara Sugihan,Kecamatan
+1607090,1607,Makarti Jaya,Kecamatan
+1607091,1607,Air Saleh,Kecamatan
+1607100,1607,Banyuasin II,Kecamatan
+1607110,1607,Muara Telang,Kecamatan
+1607111,1607,Sumber Marga Telang,Kecamatan
+1608010,1608,Mekakau Ilir,Kecamatan
+1608020,1608,Banding Agung,Kecamatan
+1608021,1608,Warkuk Ranau Selatan,Kecamatan
+1608022,1608,Buay Pematang Ribu Ranau Tengah,Kecamatan
+1608030,1608,Buay Pemaca,Kecamatan
+1608040,1608,Simpang,Kecamatan
+1608041,1608,Buana Pemaca,Kecamatan
+1608050,1608,Muaradua,Kecamatan
+1608051,1608,Buay Rawan,Kecamatan
+1608060,1608,Buay Sandang Aji,Kecamatan
+1608061,1608,Tiga Dihaji,Kecamatan
+1608070,1608,Buay Runjung,Kecamatan
+1608071,1608,Runjung Agung,Kecamatan
+1608080,1608,Kisam Tinggi,Kecamatan
+1608090,1608,Muaradua Kisam,Kecamatan
+1608091,1608,Kisam Ilir,Kecamatan
+1608100,1608,Pulau Beringin,Kecamatan
+1608101,1608,Sindang Danau,Kecamatan
+1608102,1608,Sungai Are,Kecamatan
+1609010,1609,Martapura,Kecamatan
+1609011,1609,Bunga Mayang,Kecamatan
+1609012,1609,Jaya Pura,Kecamatan
+1609020,1609,Buay Pemuka Peliung,Kecamatan
+1609030,1609,Buay Madang,Kecamatan
+1609031,1609,Buay Madang Timur,Kecamatan
+1609032,1609,Buay Pemuka Bangsa Raja,Kecamatan
+1609040,1609,Madang Suku II,Kecamatan
+1609041,1609,Madang Suku III,Kecamatan
+1609050,1609,Madang Suku I,Kecamatan
+1609051,1609,Belitang Madang Raya,Kecamatan
+1609060,1609,Belitang,Kecamatan
+1609061,1609,Belitang Jaya,Kecamatan
+1609070,1609,Belitang III,Kecamatan
+1609080,1609,Belitang II,Kecamatan
+1609081,1609,Belitang Mulya,Kecamatan
+1609090,1609,Semendawai Suku III,Kecamatan
+1609091,1609,Semendawai Timur,Kecamatan
+1609100,1609,Cempaka,Kecamatan
+1609101,1609,Semendawai Barat,Kecamatan
+1610010,1610,Muara Kuang,Kecamatan
+1610011,1610,Rambang Kuang,Kecamatan
+1610012,1610,Lubuk Keliat,Kecamatan
+1610020,1610,Tanjung Batu,Kecamatan
+1610021,1610,Payaraman,Kecamatan
+1610030,1610,Rantau Alai,Kecamatan
+1610031,1610,Kandis,Kecamatan
+1610040,1610,Tanjung Raja,Kecamatan
+1610041,1610,Rantau Panjang,Kecamatan
+1610042,1610,Sungai Pinang,Kecamatan
+1610050,1610,Pemulutan,Kecamatan
+1610051,1610,Pemulutan Selatan,Kecamatan
+1610052,1610,Pemulutan Barat,Kecamatan
+1610060,1610,Indralaya,Kecamatan
+1610061,1610,Indralaya Utara,Kecamatan
+1610062,1610,Indralaya Selatan,Kecamatan
+1611010,1611,Muara Pinang,Kecamatan
+1611020,1611,Lintang Kanan,Kecamatan
+1611030,1611,Pendopo,Kecamatan
+1611031,1611,Pendopo Barat,Kecamatan
+1611040,1611,Pasemah Air Keruh,Kecamatan
+1611050,1611,Ulu Musi,Kecamatan
+1611051,1611,Sikap Dalam,Kecamatan
+1611060,1611,Talang Padang,Kecamatan
+1611070,1611,Tebing Tinggi,Kecamatan
+1611071,1611,Saling,Kecamatan
+1612010,1612,Talang Ubi,Kecamatan
+1612020,1612,Tanah Abang,Kecamatan
+1612030,1612,Abab,Kecamatan
+1612040,1612,Penukal,Kecamatan
+1612050,1612,Penukal Utara,Kecamatan
+1613010,1613,Ulu Rawas,Kecamatan
+1613020,1613,Karang Jaya,Kecamatan
+1613030,1613,Rawas Ulu,Kecamatan
+1613040,1613,Rupit,Kecamatan
+1613050,1613,Karang Dapo,Kecamatan
+1613060,1613,Rawas Ilir,Kecamatan
+1613070,1613,Nibung,Kecamatan
+1671010,1671,Ilir Barat II,Kecamatan
+1671011,1671,Gandus,Kecamatan
+1671020,1671,Seberang Ulu I,Kecamatan
+1671021,1671,Kertapati,Kecamatan
+1671022,1671,Jakabaring,Kecamatan
+1671030,1671,Seberang Ulu II,Kecamatan
+1671031,1671,Plaju,Kecamatan
+1671040,1671,Ilir Barat I,Kecamatan
+1671041,1671,Bukit Kecil,Kecamatan
+1671050,1671,Ilir Timur I,Kecamatan
+1671051,1671,Kemuning,Kecamatan
+1671060,1671,Ilir Timur II,Kecamatan
+1671061,1671,Kalidoni,Kecamatan
+1671062,1671,Ilir Timur III,Kecamatan
+1671070,1671,Sako,Kecamatan
+1671071,1671,Sematang Borang,Kecamatan
+1671080,1671,Sukarami,Kecamatan
+1671081,1671,Alang Alang Lebar,Kecamatan
+1672010,1672,Rambang Kapak Tengah,Kecamatan
+1672020,1672,Prabumulih Timur,Kecamatan
+1672021,1672,Prabumulih Selatan,Kecamatan
+1672030,1672,Prabumulih Barat,Kecamatan
+1672031,1672,Prabumulih Utara,Kecamatan
+1672040,1672,Cambai,Kecamatan
+1673010,1673,Dempo Selatan,Kecamatan
+1673011,1673,Dempo Tengah,Kecamatan
+1673020,1673,Dempo Utara,Kecamatan
+1673030,1673,Pagar Alam Selatan,Kecamatan
+1673040,1673,Pagar Alam Utara,Kecamatan
+1674011,1674,Lubuk Linggau Barat I,Kecamatan
+1674012,1674,Lubuk Linggau Barat II,Kecamatan
+1674021,1674,Lubuk Linggau Selatan I,Kecamatan
+1674022,1674,Lubuk Linggau Selatan II,Kecamatan
+1674031,1674,Lubuk Linggau Timur I,Kecamatan
+1674032,1674,Lubuk Linggau Timur II,Kecamatan
+1674041,1674,Lubuk Linggau Utara I,Kecamatan
+1674042,1674,Lubuk Linggau Utara II,Kecamatan
